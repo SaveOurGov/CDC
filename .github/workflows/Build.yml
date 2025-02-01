@@ -32,7 +32,7 @@ jobs:
           $fileListPath = Join-Path $dataPath "FileList.txt" 
           $fileList = Get-Content $fileListPath
           
-          Backup-CDC -FileList $fileList -Maximum 10
+          Backup-CDC -FileList $fileList -Maximum 2kb
           
           
 
