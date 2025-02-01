@@ -1,0 +1,15 @@
+!!AA_SEQUENCE 1.0
+TRANSLATE of: stc18.0.sds check: 4612 from: 31 to: 180
+generated symbols 1 to: 50.
+
+ ASSEMBLE    April 12, 2022 11:10
+Symbols:     1 to: 180   from: stc18.0           ck: 3333,    79 to: 258  
+stC18.0 GCS pus isolate, SDVet54 isolated from Norway during 2018.
+Clinical manifestation: Skin infection. MLST:223. The sequence and
+information provided by Oddvar Oppegaard, Haukeland University 
+Hospital, Bergen, Norway. . . . 
+
+stC18.0.tsr  Length: 50  April 12, 2022 11:10  Type: P  Check: 6678  ..
+
+       1  DVGVGTITTG GTSNGHITSS GIGSSTIVGG LAKPASNMII GGATAGTTGS 
+
