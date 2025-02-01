@@ -1,0 +1,947 @@
+Form Approved
+OMB No: 0920-0445
+Expiration Date: 10/31/2002
+
+
+
+
+
+
+
+
+
+Food Service
+School Questionnaire 
+
+Food Service
+School Questionnaire
+
+
+
+
+
+                                                            	Questions
+
+Food Service Organization	1 - 12
+
+Menu Planning and Food Ordering	13 - 18
+
+Food Preparation	19 - 24
+
+Participation Levels	25 - 26
+
+Food Variety/Availability	27 - 33
+
+Nutrient Analysis	34 - 40
+
+School Cafeterias	41 - 43
+
+Food Service Promotion, Evaluation, and Collaboration	44 - 53
+
+Respondent Background	54 - 71
+
+
+
+
+
+Public reporting burden for this collection of information is estimated to average 40 minutes per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information.  An agency may not conduct or sponsor, and a person is not required to respond to a collection of information unless it displays a currently valid OMB control number.  Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing this burden to: CDC/ATSDR Reports Clearance Officer, 1600 Clifton Road NE, Mailstop D-24, Atlanta, GA  30333; Attention PRA (0920-0445)
+
+
+Special Instructions
+
+
+
+This questionnaire will be administered using Computer Assisted Personal Interviewing.  The interviewer will read the questions aloud and type responses to the questions into the laptop computer.  The interview program will 1) display the correct tense of verbs, 2) provide alternate answers to questions (e.g., not applicable, “I don’t know”), 3) navigate complex skip patterns,   4) access information that was provided in previous contact with a school, and 5) perform other useful functions. The programming specifications for the interview are not included in this printed version of the questionnaire.
+
+If you would like more information about this study or would like clarification of any questions in this questionnaire, please call Tim Smith at 1-800-647-9664, extension 6095.
+
+
+	School Food Service Questionnaire
+
+Food Service Organization
+
+
+
+     What is your job title at the school? (In which role do you spend more time?)
+
+1) Principal	11)	Guidance Counselor
+2)	Asst. Principal/Other School	12)	Social Worker
+Administrator	13)	Psychologist
+3) School Secretary	14)	Other Mental Health/Social Services
+4) Physical Ed Teacher		Provider
+5) Athletic Director	15)	Nurse
+6)	Health Ed Teacher	16)	Health Aide
+7) Other Teacher	17)	Physician
+8)	Food Service Manager	18)	Other Health Services Provider
+9) Commercial Food Service Provider	19)	SBHC Health Services Staff
+10) Other School Food Service Staff	20)	SBHC Mental Health/Social Services Staff
+50)	Other Staff
+
+
+During this interview, I will ask about food service that schools may offer.   If I ask you about things that do not apply to this school or that this school does not do, please bear with me.  Please answer the questions based on how you usually do things at this school.
+
+First, I would like to ask a few general questions about the food service program at this school.
+
+1.	Does this school offer breakfast to students?
+
+     Yes	1
+No		2	==>	Skip to Q 4
+
+
+2.	Does this school...
+
+     	Yes	No
+
+a. Offer a la carte breakfast items to students?	1	2
+b. Participate in the USDA reimbursable School 
+        Breakfast Program?	1	2
+c. Offer any other breakfast meals to students?	1	2
+a. 
+3. How long do students usually have to eat breakfast once they are seated?
+
+     _____   Minutes
+
+
+4. Does this school offer lunch to students?
+
+     Yes	1
+     No		2
+
+
+If this school does offer breakfast (Q 1 is Yes) but not lunch (Q 4 is No), skip to Q 9.
+
+If this school does not offer breakfast (Q 1 is No) or lunch (Q 4 is No), skip to Q 72.
+
+
+5. Does this school...
+
+     	Yes	No
+
+a. Offer a la carte lunch items to students?	1	2
+b. Participate in the USDA reimbursable National 
+        School Lunch Program?	1	2
+c. Offer any other lunch meals to students?	1	2
+
+
+6. What time do you usually start serving lunch to students?
+     
+
+     _____   Hour
+     _____   Minute
+
+
+7. What time do you usually stop serving lunch to students?
+
+     _____   Hour
+     _____   Minute
+
+
+
+8. How long do students usually have to eat lunch once they are seated?
+
+     _____   Minutes
+
+
+9. Currently, does an outside food service management company operate the food service program at this school?
+
+     Yes	1
+No		2 	==>	Skip to Q 11
+
+
+10. Does the food service company provide...
+
+     	Yes	No
+
+a. A la carte breakfast items?	1	2
+b. Breakfast meals?	1	2
+c. A la carte lunch items?	1	2
+d. Lunch meals?	1	2
+
+
+11. Does this school offer brand-name fast foods from companies such as Pizza Hut, Taco Bell, or Subway?
+
+     Yes	1
+No		2	==>	Skip to Q 13
+
+
+12. In a typical week, on how many days are brand-name fast foods offered to students...
+
+	Days/Week
+
+a. As a la carte breakfast items?	_____
+
+b. For breakfast meals?	_____
+
+c. As a la carte lunch items?	_____
+
+d. For lunch meals?	_____
+
+
+Menu Planning and Food Ordering
+
+
+
+13. Which group has primary responsibility for planning the menus for school breakfasts and lunches?
+
+     Would you say...
+
+Staff working at the district food service office,	1	==>	Skip to Q 17.
+     School staff,	2
+     Food service management company staff,	3
+     Fast food company staff, or	4
+     Someone else ?	5
+     No primary group	6
+
+
+SHOW CARD 1
+
+
+14. Looking at this card, please tell me which techniques are used to plan the menus.
+     MARK ALL THAT APPLY.
+
+     Nutrient Standard Menu Planning (NuMenus)	1
+     Assisted Nutrient Standard Menu Planning (Assisted
+        NuMenus)	2
+     Food-based menu planning (traditional or enhanced)	3
+     Some other technique 	4
+
+
+If Nutrient Standard Menu Planning (Q 14 is 1) or Assisted Nutrient Standard Menu Planning (Q 14 is 2) is used to plan the menus, skip to Q 16.
+
+
+15. Is a computer typically or routinely used to analyze the nutritional content of the school’s menus?
+
+     Yes	1
+No		2	==>	Skip to Q 17
+
+
+
+16.	When evaluating the nutritional content of foods served, is a weighted nutrient analysis used?
+
+     Yes	1
+No		2
+
+
+17. Which group has primary responsibility for deciding which foods to order for this school?  Would you say...
+     
+Staff working at the district food service office,	1	==>	Skip to  Q 19.
+     School staff,	2
+     Food service management company staff,	3
+     Fast food company staff, or	4
+     Someone else?	5
+     No primary group	6
+
+
+18. During a typical school week, how many half-pints of...
+
+        	Half-Pints
+
+a. Whole white milk are ordered for this school?	_____
+b. 2% or one and a half-percent white milk are ordered 
+        for this school?	_____
+c. 1% or half-percent white milk ?	_____
+d. Skim white milk?	_____
+e. Whole chocolate or other whole flavored milk?	_____
+f. 2% or one and a half percent chocolate or other 
+        flavored milk?	_____
+g. 1% or half-percent chocolate or other flavored milk?	_____
+h. Skim chocolate or other flavored milk?	_____
+i. Buttermilk?	_____
+j. Any other type of milk?	_____
+
+
+Food Preparation
+
+
+
+19. Next, I would like to ask about preparation of food at this school.  As you answer these questions, please think about the actual cooking of the food, not just the reheating of food that was previously prepared.
+
+     Is any food actually prepared at this school for students’ breakfasts or lunches?
+
+     Yes	1
+No		2	==>	Skip to Q 25
+
+
+20. Not counting the reheating of prepared foods, which group has primary responsibility for cooking foods for students at this school?  Would you say...
+     
+Staff working at the district food service office,	1	==>	Skip to Q 25
+     School staff,	2
+     Food service management company staff,	3
+     Fast food company staff, or	4
+     Someone else?	5
+     No primary group	6
+
+
+SHOW CARD 2
+
+
+21. I would like to ask about substituting one type of ingredient for another.  Using this card, please tell me how often the following practices are used when preparing food for this school.  During the past 30 days, how often...
+
+        				Almost
+        			Some-	Always or
+        	Never	Rarely	Times	Always
+
+a. Were egg whites or egg substitutes, such as 
+Egg Beaters, used instead of whole eggs? 
+        Would you say never, rarely, sometimes, or
+        almost always or always?	1	2	3	4
+b. Non-stick spray or pan liners used instead of 
+        grease or oil? Would you say never, rarely,
+        sometimes, or almost always or always?	1	2	3	4
+c. Vegetable oil used instead of shortening,
+        butter, or margarine?	1	2	3	4
+d. Part-skim or low-fat cheese used instead of 
+        regular cheese?	1	2	3	4
+e. Skim milk, low-fat milk, or nonfat dry milk 
+        used instead of  whole milk?	1	2	3	4
+f. Ground turkey or lean ground beef used
+        instead of regular ground beef?	1	2	3	4
+g. Cooked dried beans, canned beans, or meat 
+        extender used instead of meat?	1	2	3	4
+h. Low-sodium canned vegetables used instead
+        of regular canned vegetables?	1	2	3	4
+i. Other seasonings used instead of salt?	1	2	3	4
+j. Low-fat or nonfat yogurt, mayonnaise, or sour
+        cream used instead of regular mayonnaise,
+        sour cream, or creamy salad dressings?	1	2	3	4
+
+
+
+
+
+
+
+
+
+22. Sometimes a school will reduce the amount of an ingredient rather than replace it with another ingredient.  Please tell me how often during the past 30 days the following techniques were used when preparing food for this school.  
+     During the past 30 days, how often was...
+        				Almost
+        			Some-	Always or
+        	Never	Rarely	Times	Always
+
+a. The amount of sugar called for in recipes
+reduced or were low-sugar recipes used? 
+        Would you say never, rarely, sometimes, or 
+        almost always or always?	1	2	3	4
+b. The amount of fats and oils called for in
+        recipes reduced or were low-fat recipes used?	1	2	3	4
+c. The amount of salt called for in recipes 
+        reduced or were low-sodium recipes used?	1	2	3	4
+
+
+23. There are several ways to reduce fat and grease when preparing meat and poultry.  Please tell me how often during the past 30 days each of the following techniques was used when preparing food for this school.  During the past 30 days, how often was...
+
+        				Almost
+        			Some-	Always or
+        	Never	Rarely	Times	Always
+
+a. Meat or poultry roasted on a rack so fat would 
+        drain? Would you say never, rarely, 
+        sometimes, or almost always or always?	1	2	3	4
+b. Grease drained from browned meat?	1	2	3	4
+c.	Grease rinsed from browned meat?	1	2	3	4
+d. Fat trimmed from meat or lean meat used?	1	2	3	4
+e. Skin removed from poultry or skinless
+         poultry used?	1	2	3	4
+f. Solid fat spooned from chilled meat or poultry
+        broth?	1	2	3	4
+g. Fat skimmed off warm broth, soup, stew,
+        or gravy?	1	2	3	4
+
+
+24. There are several ways to reduce fat when preparing vegetables.  Please tell me how often during the past 30 days each of the following techniques was used when preparing vegetables for this school.  During the past 30 days, how often were...
+
+        				Almost
+        			Some-	Always or
+        	Never	Rarely	Times	Always
+
+a. Vegetables steamed or baked? Would you say 
+        never, rarely, sometimes, or almost always or
+        always?	1	2	3	4
+b. Vegetables prepared without using butter, 
+        margarine, or a creamy sauce?	1	2	3	4
+
+
+
+
+Participation Levels
+
+
+
+If this school participates in the School Breakfast Program (Q 2b is Yes), answer Q 25.  Otherwise, skip to Q 26.
+
+25. On a typical day, about how many students at this school receive...
+
+        	Students
+
+a. Free breakfasts?	_____
+b. Reduced-price breakfasts?	_____
+c. Paid breakfasts, that is, meals sold at full-price?	_____
+
+
+If this school participates in the National School Lunch Program (Q 5b is Yes), answer Q 26.  Otherwise, skip to Q 31.
+
+
+26. On a typical day, about how many students at this school receive...
+
+        	Students
+
+a. Free lunches?	_____
+b. Reduced-price lunches?	_____
+c. Paid lunches, that is, meals sold at full-price?	_____
+
+
+
+Food Variety/Availability
+
+
+
+If this school offers lunch to students (Q 4 is Yes), answer Q’s 27-30.  Otherwise, skip to 
+     Q 31.
+
+27. Each week, are students at this school offered 5 or more foods containing whole grain?
+
+     Yes	1
+     No		2
+
+
+28. Each day for lunch, are students at this school offered a choice between...
+
+     	Yes	No
+
+a. 2 or more different entrees or main courses?	1	2
+b. 2 or more different vegetables?	1	2
+c. 2 or more different fruits or types of 100% fruit juice?	1	2
+
+
+29. As part of school meals, are students offered...
+
+        	Yes	No
+
+a. Cheese pizza with no meat topping at least once
+        per week?	1	2
+b. Deep-fried french fried potatoes, including fries that 
+        you just reheat, at least once per week?	1	2
+c. Spaghetti or other pasta at least once per week?	1	2
+
+
+30. When salad dressing is offered to students, are they able to select a low-fat dressing?
+
+     Yes	1
+     No		2
+
+
+31. Next, I’d like to ask about the different a la carte foods that students are offered, not counting items available in a vending machine.  During a typical week, are students at this school offered a la carte selections such as...
+
+     	Yes	No
+
+a. 100% fruit juice or 100% vegetable juice?	1	2
+b. Soda pop, sports drinks, or fruit drinks that are not 
+        100% juice?	1	2
+c. Fruit?	1	2
+d. Bread sticks, rolls, bagels, pita bread, or other bread 
+        products?	1	2
+e. Low-fat cookies, crackers, cakes, pastries, or other 
+        low-fat baked goods?	1	2
+f. Cookies, crackers, cakes, pastries, or other baked goods 
+        that are not low in fat?	1	2
+g. Low-fat or nonfat yogurt?	1	2
+h. Pizza, hamburgers, or sandwiches?	1	2
+i. Lettuce, vegetable, or bean salads?	1	2
+j. Other vegetables?	1	2
+k. French fried potatoes?	1	2
+l. Chocolate candy?	1	2
+m. Other kinds of candy?	1	2
+n. Salty snacks that are low in fat, such as pretzels, baked 
+        chips, or other low-fat chips?	1	2
+o. Salty snacks that are not low in fat, such as regular 
+        potato chips or cheese puffs?	1	2
+p. Low-fat or fat-free ice cream, frozen yogurt, or sherbet?	1	2
+q. Ice cream or frozen yogurt that is not low in fat?	1	2
+
+
+32. At this school, are students able to get butter or margarine...
+
+        	Yes	No
+
+a. In the serving line or on the tables?	1	2
+b. If they ask for it?	1	2
+
+
+
+
+33. Is salt available to students...
+     
+        	Yes	No
+
+a. In the serving line or on the tables?	1	2
+b. If they ask for it?	1	2
+
+
+
+
+
+Nutrient Analysis
+
+
+
+34. When nutrient analysis is done on the foods served to students at this school, are the nutrients from breakfasts and lunches combined?
+
+Yes	1	==>	Skip to Q 39
+     No		2
+
+
+If this school offers breakfast to students (Q 1 is Yes), answer Q’s 35-36.  Otherwise, skip to Q 37.
+
+
+35. During the past week, what was the percent of calories from total fat for breakfasts served to students at this school?
+
+     _____   Percent total fat
+
+
+36. During the past week, what was the percent of calories from saturated fat for breakfasts served to students at this school?
+
+     _____   Percent saturated fat
+
+
+If this school offers lunch to students (Q 4 is No), answer Q’s 37-38.  Otherwise, skip to Q 41.
+
+
+37. During the past week, what was the percent of calories from total fat for lunches served to students at this school?
+
+     _____   Percent total fat
+
+
+38. During the past week, what was the percent of calories from saturated fat for lunches served to students at this school?
+
+_____   Percent saturated fat	==>	Skip to Q 41
+
+
+
+39. During the past week, what was the percent of calories from total fat for meals served at this school?
+
+     _____   Percent total fat 
+
+
+40. During the past week, what was the percent of calories from saturated fat for meals served at this school?
+
+     _____   Percent saturated fat
+
+
+School Cafeterias
+
+
+
+41. Does this school have a cafeteria?
+
+     Yes	1
+No		2	==>	Skip to Q 44
+
+
+42. At your peak meal time, how full is the cafeteria compared to the maximum seating capacity?  Would you say it is...
+
+     Less than 50% full,	1
+     50 to 75% full,	2
+     76 to 100% full, or	3
+     Over capacity?	4
+
+
+43. During the past 12 months, have students visited the cafeteria to learn about food safety, food preparation, or other nutrition-related topics?
+
+     Yes	1
+No		2	
+
+
+Food Service Promotion and Evaluation
+
+
+
+Next, I’ll ask about things that might be done at this school to encourage students to eat meals provided at this school.
+
+
+44.  During the past 12 months, has this school...
+
+        	Yes	No
+
+a. Collected suggestions from students about the school 
+        food service program?	1	2
+b. Collected suggestions from school staff about the 
+        school food service program?	1	2
+c. Collected suggestions from family members of students 
+        about the school food service program?	1	2
+d. Conducted taste-tests with students?	1	2
+e. Conducted taste-tests with family members of students?	1	2
+f. Observed students during meal times?	1	2
+
+
+45. Does this school have a committee that includes students who provide suggestions for the school food service program?
+
+     Yes	1
+     No		2
+
+
+46. Currently, does the school food service staff make changes in the foods offered to any...
+
+     	Yes	No
+
+a. Students with physical disabilities, such as cerebral
+        palsy?	1	2
+b. Students with other medical conditions, such as
+        allergies?	1	2
+c. Students who are vegetarians?	1	2
+
+
+
+47. Does this school participate in the Team Nutrition program?
+
+     Yes	1
+No		2	==>	Skip to Q 49
+
+
+48. During the past 12 months, has this school...
+
+        	Yes	No
+
+a. Used Team Nutrition posters?	1	2
+b. Used Team Nutrition teaching materials?	1	2
+c. Used Team Nutrition recipes?	1	2
+d. Used Team Nutrition parent materials?	1	2
+e. Participated in special events related to Team Nutrition?	1	2
+
+
+49. During the past 12 months, has this school...
+
+     	Yes	No
+
+a. Given menus to students?	1	2
+b. Provided students with information on the nutrition
+        and caloric content of foods available to them?	1	2
+c. Placed posters or other materials promoting 
+        healthy eating habits on display in the cafeteria?	1	2
+d. Placed posters or other materials promoting healthy
+        eating habits on display in the school?	1	2
+e. Included food service topics during school 
+        announcements?	1	2
+f. Included articles about the school food service 
+        program in a school newsletter, newspaper, or 
+        other publication?	1	2
+
+
+
+50. During the past 12 months, has this school...
+
+        	Yes	No
+
+a. Given menus to families of students?	1	2
+b. Provided families with information on the nutrition 
+        and caloric content of foods available to students?	1	2
+c. Provided families with information on the school
+        food service program?	1	2
+d. Met with a parents’ organization, such as the PTA, to 
+        discuss the school food service program?	1	2
+e. Invited family members to a school meal?	1	2
+
+
+51. During the past 12 months, have the school food service staff talked or taught about good nutrition or healthy eating habits to...
+     
+     	Yes	No
+
+If this school is an elementary school, answer a.
+a. Students at this school as part of a health 
+        education lesson?	1	2
+
+If this school is a middle, junior high, or senior high school, answer b and c.
+b. A health education class at this school?	1	2
+c. Some other class?	1	2
+
+
+52. During the past 12 months, have the school food service staff worked on school food service or nutrition activities with...
+
+     	Yes	No
+
+a. Health education staff from this school?	1	2
+b. Physical education staff from this school?	1	2
+c. Health services staff from this school?	1	2
+d. Mental health or social services staff from this school?	1	2
+
+
+53. During the past 12 months, have the school food service staff worked on school food service or nutrition activities with staff or members from...
+
+     	Yes	No
+
+a. A local health department?	1	2
+b. A local hospital?	1	2
+c. A local mental health or social services agency?	1	2
+d. A health organization, such as the American Heart 
+        Association or the American Cancer Society?	1	2
+e. A food commodity organization, such as the Dairy
+        Council or produce growers association?	1	2
+f. A local college or university?	1	2
+g. A local business?	1	2
+
+
+
+Respondent Background
+
+
+
+54. Currently, does someone at this school oversee or coordinate food service, such as a school food service manager?
+
+     Yes	1
+No		2	 
+
+
+55. At this school, what is the minimum level of education required for newly-hired food service managers?
+
+     High school diploma or GED	1
+     Associate's degree in nutrition or related field	2
+     Undergraduate degree in nutrition or related field	3
+     Graduate degree in nutrition or related field	4
+     No requirement	5
+
+
+56. As I read the following list of qualifications, please tell me if each is required for newly- hired food service managers at this school. Is...
+
+        	Yes	No
+
+a. American Dietetic Association Registration (RD) 
+        required for newly-hired food service managers 
+        at this school?	1	2
+b. School Food Service and Nutrition Specialist credential
+        from the American School Food Service Association
+        (ASFSA) required?	1	2
+c. American School Food Service Association 
+        (ASFSA) certification?	1	2
+d. Successful completion of a school food service 
+        training program provided by the state?	1	2
+
+
+If someone at this school does not coordinate food services (Q 54 is No), skip to Q 72.
+
+
+57. Are you the person who oversees or coordinates food service at this school?
+
+     Yes	1
+No		2	==>	 Skip to Q 72 
+
+
+SHOW CARD 3
+
+
+58. Looking at this card, please tell me who you work for.
+     MARK ALL THAT APPLY.
+
+     School district	1
+     This school	2
+     Food service management company	3
+     Fast food company	4
+     Other	5
+
+
+59. What is the highest grade or year of education you have completed?
+
+Less than high school	1	==>	Skip to Q 68
+High school or GED	2	==>	Skip to Q 68
+     More than high school	3
+
+
+60. Do you have an undergraduate degree?
+
+Yes	1	
+No		2	==>	Skip to Q 68
+
+
+
+61. What did you major in?
+     MARK ALL THAT APPLY.
+
+     Business	1
+     Education	2
+     Food service administration/management	3
+     Home economics/food and consumer science	4
+     Nutrition/dietetics	5
+     Other	6
+
+
+62. Do you have an undergraduate minor?
+
+     Yes	1
+No		2	==>	Skip to Q 64
+
+
+63. What did you minor in?
+     MARK ALL THAT APPLY.
+
+     Business	1
+     Education	2
+     Food service administration/management	3
+     Home economics/food and consumer science	4
+     Nutrition/dietetics	5
+     Other	6
+
+
+64. Do you have a graduate degree?
+
+     Yes	1
+No		2	==>	Skip to Q 66
+
+
+
+65. In what area or areas?
+     MARK ALL THAT APPLY.
+
+     Business	1
+     Education	2
+     Food service administration/management	3
+     Home economics/food and consumer science	4
+     Nutrition/dietetics	5
+     Other	6
+
+
+66. Have you earned the School Food Service and Nutrition Specialist credentialing from the American School Food Service Association?
+
+     Yes	1
+     No		2
+
+
+67. Are you currently a registered dietician?
+
+     Yes	1
+     No		2
+
+
+68. Are you currently certified by any food service associations, professional groups, or state agencies?
+
+     Yes	1
+No		2	==>	Skip to Q 70
+
+
+69. Who are you certified by?
+     MARK ALL THAT APPLY.
+
+     American School Food Service Association	1
+     State agency	2
+     Other	3
+
+
+SHOW CARD 4
+
+
+70. As I read the list printed on this card, please tell me if you received any staff development on each topic during the past 2 years.  This might include workshops, conferences, continuing education, graduate courses, or any other kind of in-service.  During the past 2 years, did you receive staff development on...
+
+
+        	Yes	No
+
+a. Planning healthy meals?	1	2.
+b. Using NuMenus (Nutrient Standard Menu Planning)?	1	2
+c. Using Assisted NuMenus (Assisted Nutrient
+        Standard Menu Planning)?	1	2
+d. Considering cultural diversity in meal planning?	1	2
+e. Food services for students with special dietary needs?	1	2
+f. Implementing the Dietary Guidelines for Americans
+        in school meals? 	1	2
+g. Selecting and ordering food?	1	2
+h. Food preparation?	1	2
+i. Sanitation and safety?	1	2
+j. Procedures for food-related emergencies such as
+        choking?	1	2
+k. Using the cafeteria for nutrition education?	1	2
+l. Promoting school meals?	1	2
+m. Making meals more appealing?	1	2
+n. Customer service?	1	2
+o. Financial management?	1	2
+p. Personnel management?	1	2
+
+
+
+SHOW CARD 5
+
+
+71. Which of these topics would you like to receive further staff development on?  
+     MARK ALL THAT APPLY.
+
+a.	Planning healthy meals	1
+b. Using NuMenus (Nutrient Standard Menu Planning)	2
+c.	Using Assisted NuMenus (Assisted Nutrient Standard 
+        Menu Planning)	3
+d.	Considering cultural diversity in meal planning	4
+e. Food services for students with special dietary needs	5
+f.	Implementing the dietary guidelines for Americans 
+        in school meals	6
+g. Selecting and ordering food	7
+h.	Food preparation	8
+i. Sanitation and safety	9
+j. Procedures for food-related emergencies such as 
+        choking	10
+k. Using the cafeteria for nutrition education	11
+l.	Promoting school meals	12
+l. Making meals more appealing	13
+n.	Customer service	14
+o. Financial management	15
+p.	Personnel management	16
+q. None	17
+
+
+72. My supervisor may wish to call you to ask about how I conducted this interview.  Would you please tell me a telephone number where we might reach you starting with the area code?
+
+     (      )            -
+
+     1) Daytime or
+     2) Evening/weekend
+
+
+
+Thank you very much for taking the time to complete this interview today.
+
+Food Service School Questionnaire - Final Version —  Revised: 10/26/99
+
+
+
+
+26
+Food Service School Questionnaire - Final Version —  Revised: 10/26/99
+
+	Food Service Organization
+
+
+
+
+
+	Menu Planning and Food Ordering
+
+
+
+
+
+	Food Preparation
+
+
+
+
+
+
+
+	Food Variety/Availability
+
+
+
+
+
+	Nutrient Analysis
+
+
+
+
+
+
+
+	Food Service Promotion and Evaluation
+
+
+
+
+
+	Respondent Background
+
+
+
