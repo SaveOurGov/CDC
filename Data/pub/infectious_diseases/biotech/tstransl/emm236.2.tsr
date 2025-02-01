@@ -1,0 +1,15 @@
+!!AA_SEQUENCE 1.0
+TRANSLATE of: emm236.2.sds check: 2993 from: 31 to: 180
+generated symbols 1 to: 50.
+
+emm236.2 (formerly stS104.2) subtype determining sequence. Identity to 
+bases 31-180 (encodes mature N-terminus) and ungapped identity or near-
+identity to complete 180 base sequence defines this subtype.
+emm236.2 from invasive GAS isolate 5317-08(T8) recovered in U.S.
+during 2007-2008. Corresponds to the enn gene sequence that lies 
+immediately downstream of emm gene in types emm4, emm9, emm89, and  . . . 
+
+emm236.2.tsr  Length: 50  July 16, 2014 15:08  Type: P  Check: 5488  ..
+
+       1  EGVNATTGLT EKAKYDALKD ENTGLRGDQT KLVKKLEEEQ EKSKNLEKEK 
+
