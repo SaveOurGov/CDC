@@ -1,0 +1,14 @@
+emm62.0 subtype determining sequence. Identity to bases 31-180
+(encodes mature N-terminus) and ungapped identity or near-identity
+to complete 180 base sequence defines this subtype.
+
+emm62.0.sds  Length: 180  May 23, 2007 16:56  Type: N  Check: 5982  ..
+
+       1  GGCTTTGCAA ACCAAACAAC AGTTAAGGCG GAAGAGGCTG GAGCTTCGCG 
+
+      51  TACAATTACT AGTAGCGAGA ATATTAGTAA ATTATATGAT GAAAATTCTA 
+
+     101  AACTTATAGA AGAAAGAGCG GATTTATTAG GTAAGCTAGA AGAGAAAGAG 
+
+     151  GATAAATTAG AGAGTgtaga acgtcaatac 
+
