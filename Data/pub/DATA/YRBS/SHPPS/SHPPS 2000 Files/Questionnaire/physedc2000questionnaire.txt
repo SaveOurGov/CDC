@@ -1,0 +1,829 @@
+Form Approved
+OMB No: 9520-0445
+Expiration Date: 10/31/2002
+
+
+
+
+
+
+
+
+
+
+
+
+Physical Education
+Classroom Questionnaire
+
+
+
+Physical Education
+Classroom Questionnaire
+
+
+
+
+
+
+                                                                 Questions
+
+General Course Characteristics and Content	1 - 12
+
+Physical Activities	13 - 21
+
+Teaching and Evaluation Techniques	22 - 45
+
+Respondent Background	46 - 56
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Public reporting burden for this collection of information is estimated to average 45 minutes per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information.  An agency may not conduct or sponsor, and a person is not required to respond to a collection of information unless it displays a currently valid OMB control number.  Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing this burden to: CDC/ATSDR Reports Clearance Officer, 1600 Clifton Road NE, Mailstop D-24, Atlanta, GA  30333; Attention PRA (0920-0445).
+
+
+Special Instructions
+
+
+
+
+This questionnaire will be administered using Computer Assisted Personal Interviewing.  The interviewer will read the questions aloud and type responses to the questions into the laptop computer.  The interview program will 1) display the correct tense of verbs, 2) provide alternate answers to questions (e.g., not applicable, “I don’t know”), 3) navigate complex skip patterns,   4) access information that was provided in previous contact with a school, and 5) perform other useful functions. The programming specifications for the interview are not included in this printed version of the questionnaire.
+
+If you would like more information about this study or would like clarification of any questions in this questionnaire, please call Tim Smith at 1-800-647-9664, extension 6095.
+
+
+
+
+General Course Characteristics and Content
+
+
+
+By “physical education,” or “PE,” I mean class time that is spent teaching a physical education curriculum.  Please do not include instruction on physical activity topics that are part of health education or any other subject.  Also, do not consider regularly scheduled recess.
+
+
+If this is an elementary school, answer Q1 - Q3.  If this is a middle, junior, or senior high school, skip to Q4.
+
+
+1. I would like to talk with you about teaching physical education in _______ grade.  Are you currently teaching PE to a group of ____ graders?
+
+     Yes	1
+No	2	==>	Thank you for your time and patience. That is the end of the interview.
+
+
+2. How many different groups of ____ graders are you teaching PE to?
+
+_______	Groups
+
+
+If only one group, skip to Q10.  Otherwise, continue with Q3.
+
+
+
+3. For this interview, I need to ask about one specific group. If you would name each group, for example your “morning class” or your “afternoon class,” I will type the names into the computer.  The computer will then select the group that I will ask about during the interview.  Please tell me the names of all the groups.
+
+     Group 1______________________ 
+     Group 2______________________ 
+     Group 3______________________ 
+     Group 4______________________ 
+     Group 5______________________ 
+     Group 6______________________ 
+     Group 7______________________ 
+     Group 8______________________ 
+     Group 9______________________ 
+     Group 10______________________ 
+     Group 11______________________ 
+     Group 12______________________ 
+
+
+The computer has selected ____.  Throughout this interview, please think about what will take place by the time you finish teaching this group of ____ graders.
+
+
+Skip to Q10
+
+
+4. During this interview, I would like to talk about teaching ____________________.  In what month and year did you last finish teaching a section of the class?
+
+_______	Month
+_______	Year
+
+
+5. In what month and year did you begin teaching that section of the class?
+
+     _______	Month
+     _______	Year
+
+
+
+6. Are you currently teaching a section of the class?
+
+     Yes.	1
+     No	2
+
+
+7. At that time, how many sections of the class were you teaching?	HEC003
+
+     _______	Sections
+
+
+If only one section, skip to Q9.  Otherwise, continue with Q8.
+
+
+8. For this interview, I need to ask about one specific class section.  If you would name each section, for example your “first period class” or your “afternoon period,” I will type the names into the computer.  The computer will then select the section that I will ask about during the interview.  Please tell me the names of all the sections.
+
+     Section 1______________________ 
+     Section 2______________________ 
+     Section 3______________________ 
+     Section 4______________________ 
+     Section 5______________________ 
+     Section 6______________________ 
+     Section 7______________________ 
+     Section 8______________________ 
+     Section 9______________________ 
+     Section 10______________________ 
+     Section 11______________________ 
+     Section 12______________________
+
+
+The computer has selected ________________.  Throughout this interview, please think about what took place when you taught this class section.
+
+
+
+9. Was this class a combined health education and physical education course?  By health education, I mean topics not directly related to physical activity, such as alcohol or other drug use prevention.
+
+     Yes	1
+     No	2
+
+
+10. At the end of the class, how many students were enrolled in the class?
+
+_______	Students
+
+
+
+SHOW CARD 1
+
+
+11. This card lists topics that are taught in PE.  As I read the list of topics on the card, please tell me if you taught about each one in the class.  By teach, I mean some advanced planning on your part was involved; the subject was not just brought up in class.
+     Did you teach about...
+
+        	Yes	No
+
+a. The physical, psychological, or social benefits of 
+        physical activity?	1	2
+b. The role of physical activity in reducing risk for 
+        diseases, such as heart disease or osteoporosis?	1	2
+c. Health-related fitness, that is cardiovascular endurance, 
+        muscular endurance, muscular strength, flexibility, 
+        and body composition?	1	2
+d. Basic anatomy?	1	2
+e. Phases of a workout, that is warmup, workout, and 
+        cool down?	1	2
+f. How much physical activity is enough, that is 
+        determining frequency, intensity, time, and type
+        of physical activity?	1	2
+g. Developing an individualized physical activity plan?	1	2
+h. Monitoring progress toward reaching goals in an
+        individualized physical activity plan?	1	2
+i. Overcoming barriers to physical activity?	1	2
+j. Opportunities for physical activity in the community?	1	2
+k. How to find valid information or services related to
+        physical activity and fitness?	1	2
+l. Balancing food intake and physical activity?	1	2
+m. Preventing injury during physical activity?	1	2
+n. Weather-related safety, for example avoiding heat stroke, 
+        hypothermia, and sunburn while physically active?	1	2
+o. Dangers of using performance-enhancing drugs, such
+        as steroids?	1	2
+
+
+
+12. When planning to teach or teaching the class, did you use...
+
+        	Yes	No
+
+a. The National Standards for Physical Education?	1	2
+b. Any state, district, or school curriculum or guidelines 
+        for PE?	1	2
+c. Any materials from health organizations, such as the 
+        American Heart Association or the American Cancer 
+        Society?	1	2
+d. A commercially-developed student textbook?	1	2
+e. A commercially-developed teacher's guide?	1	2
+f. Student physical activity logs or journals?	1	2
+a. 
+
+Physical Activities
+
+
+
+13. In that class, did you teach...
+
+        	Yes	No
+
+     Answer a if this school is an elementary school.
+a. Movement concepts and skills?	1	2
+b. Individual or paired activities?	1	2
+c. Group or team activities?	1	2
+d. Aquatic activities?	1	2
+e. Dance activities?	1	2
+
+
+Answer Q14 if movement concepts and skills were taught in this class (Q13a is Yes).  Otherwise, skip to Q15.
+
+
+SHOW CARD 2
+
+
+14. How many hours did your students spend in this class on...
+
+        	‹1	1	2	3	4	5	6	7	8	9	10	?11
+
+a. Space awareness, such as 
+        space, directions, 
+        or levels?	0	1	2	3	4	5	6	7	8	9	10	11	b.	Locomotor skills, such as 
+        walking, running, hopping, 
+        or sliding?	0	1	2	3	4	5	6	7	8	9	10	11
+c.	Manipulative skills, such as
+        throwing, catching, kicking, 
+        or striking?	0	1	2	3	4	5	6	7	8	9	10	11
+d. Non-manipulative skills, such
+        as twisting, rolling, or 
+        transferring weight?	0	1	2	3	4	5	6	7	8	9	10	11
+
+
+Answer Q15 if individual or paired activities were taught in this class (Q13b is Yes).  Otherwise, skip to Q16.
+
+SHOW CARD 3
+
+
+15. The next questions are about the amount of time spent on individual or paired activities.  Please include any time you might spend on lead-up skills, skills specific to the activity, or modified versions of the activity.  How many hours did your students spend in this class on...
+
+           	‹1	1	2	3	4	5	6	7	8	9	10	?11
+
+a. Aerobics, such as step or low
+        impact?	0	1	2	3	4	5	6	7	8	9	10	11	b.	Badminton?	0	1	2	3	4	5	6	7	8	9	10	11
+c. Bowling?	0	1	2	3	4	5	6	7	8	9	10	11
+d. Climbing ropes or wall ladders?	0	1	2	3	4	5	6	7	8	9	10	11
+e. Climbing walls?	0	1	2	3	4	5	6	7	8	9	10	11
+f. Exercise machines, such as
+        rowers, ski machines, stair
+        climbers, stationary bikes,
+        or treadmills?	0	1	2	3	4	5	6	7	8	9	10	11
+g. Frisbee or frisbee golf?	0	1	2	3	4	5	6	7	8	9	10	11
+h. Golf?	0	1	2	3	4	5	6	7	8	9	10	11
+i. Gymnastics?	0	1	2	3	4	5	6	7	8	9	10	11
+j. Hiking, backpacking, or 
+        orienteering?	0	1	2	3	4	5	6	7	8	9	10	11
+k. Jumping rope?	0	1	2	3	4	5	6	7	8	9	10	11
+l. Martial arts?	0	1	2	3	4	5	6	7	8	9	10	11
+m. Non-stationary bicycling?	0	1	2	3	4	5	6	7	8	9	10	11
+n. Racquet sports, such as
+        racquetball, handball, squash, 
+        or paddleball?	0	1	2	3	4	5	6	7	8	9	10	11
+o. Skating, such as roller,
+        in-line, or ice skating?	0	1	2	3	4	5	6	7	8	9	10	11
+p. Skiing, such as cross country,
+        downhill, or water skiing?	0	1	2	3	4	5	6	7	8	9	10	11
+q. Student-designed games?	0	1	2	3	4	5	6	7	8	9	10	11
+r. Tennis?	0	1	2	3	4	5	6	7	8	9	10	11
+s. Track and field?	0	1	2	3	4	5	6	7	8	9	10	11
+t. Walking, jogging, or running?	0	1	2	3	4	5	6	7	8	9	10	11
+u. Weight training?	0	1	2	3	4	5	6	7	8	9	10	11
+v. Wrestling?	0	1	2	3	4	5	6	7	8	9	10	11
+a. 
+Answer Q16 if group or team activities were taught in this class (Q13c is Yes).  Otherwise, skip to Q18.
+
+
+SHOW CARD 4
+
+
+16. The next questions are about the amount of time spent on group or team activities. Please include any time you might spend on lead-up skills, skills specific to the activity, or modified versions of the activity.  How many hours did your students spend in this class on...
+
+           	‹1	1	2	3	4	5	6	7	8	9	10	?11
+
+a. Baseball, softball, or
+        whiffleball?	0	1	2	3	4	5	6	7	8	9	10	11
+b. Basketball?	0	1	2	3	4	5	6	7	8	9	10	11
+c. Dodgeball or bombardment?	0	1	2	3	4	5	6	7	8	9	10	11
+d. Touch or flag football?	0	1	2	3	4	5	6	7	8	9	10	11
+e. Hockey, such as field, floor,
+        roller, or ice hockey?	0	1	2	3	4	5	6	7	8	9	10	11
+f. Kickball?	0	1	2	3	4	5	6	7	8	9	10	11
+g. Lacrosse?	0	1	2	3	4	5	6	7	8	9	10	11
+h. Soccer?	0	1	2	3	4	5	6	7	8	9	10	11
+i. Student-designed games?	0	1	2	3	4	5	6	7	8	9	10	11
+j. Ultimate frisbee?	0	1	2	3	4	5	6	7	8	9	10	11
+k. Volleyball?	0	1	2	3	4	5	6	7	8	9	10	11
+
+
+
+Answer Q17 if this school is an elementary school and group or team activities were taught in this class (Q13c is Yes).  Otherwise, skip to Q18.
+
+
+SHOW CARD 5
+
+
+17. How many hours did your students spend in this class playing...
+
+           	‹1	1	2	3	4	5	6	7	8	9	10	?11
+
+a. Duck-duck-goose?	0	1	2	3	4	5	6	7	8	9	10	11
+b. King of the hill or steal
+        the flag?	0	1	2	3	4	5	6	7	8	9	10	11
+c. Red rover?	0	1	2	3	4	5	6	7	8	9	10	11
+d. Tag?	0	1	2	3	4	5	6	7	8	9	10	11
+
+
+Answer Q18 if aquatic activities were taught in this class (Q13d is Yes).  Otherwise, skip to Q19.
+
+
+SHOW CARD 6
+
+
+18. The next questions are about the amount of time spent on aquatic activities. Please include any time you might spend on lead-up skills, skills specific to the activity, or modified versions of the activity.  How many hours did your students spend in this class on...
+
+           	‹1	1	2	3	4	5	6	7	8	9	10	?11
+
+a. Diving?	0	1	2	3	4	5	6	7	8	9	10	11
+b. Stroke instruction or swimming
+        skill practice?	0	1	2	3	4	5	6	7	8	9	10	11
+c. Team water sports, such as
+        basketball, volleyball, or
+        water polo?	0	1	2	3	4	5	6	7	8	9	10	11
+d. Water aerobics?	0	1	2	3	4	5	6	7	8	9	10	11
+e. Water safety or lifesaving?	0	1	2	3	4	5	6	7	8	9	10	11
+
+
+
+Answer Q19 if dance activities were taught in this class (Q13e is Yes).  Otherwise, skip to Q20.
+
+
+SHOW CARD 7
+
+
+19. The next questions are about the amount of time spent on dance activities. Please include any time you might spend on lead-up skills, skills specific to the activity, or modified versions of the activity.  How many hours did your students spend in this class on...
+
+           	‹1	1	2	3	4	5	6	7	8	9	10	?11
+
+a. Ballet, jazz, tap, or modern
+        dance?	0	1	2	3	4	5	6	7	8	9	10	11
+b. Ballroom dances?	0	1	2	3	4	5	6	7	8	9	10	11
+c. Folk dances?	0	1	2	3	4	5	6	7	8	9	10	11
+d. Line dances, such as the
+        Electric Slide?	0	1	2	3	4	5	6	7	8	9	10	11
+e. Square dances?	0	1	2	3	4	5	6	7	8	9	10	11
+
+
+20. During a typical class period, how many minutes did students spend...
+
+     	Minutes
+
+a. Changing clothes before class?	_____
+b. Doing warm-up activities?	_____
+c. Receiving instruction through lecture or 
+        demonstration?	_____
+d. Doing skills drills?	_____
+e. Participating in games, sports, or dance?	_____
+f. Doing cool-down activities?	_____
+g. Showering or changing clothes after activities?	_____
+
+
+21. During a typical class period, how many minutes did you usually spend doing administrative tasks while students were not physically active?
+
+_______	Minutes
+
+
+
+Teaching and Evaluation Techniques
+
+
+
+Now, I would like to ask a few more general questions about the class.  Please remember to answer these questions about this class only.
+
+
+22. When you grouped students together, did you select team captains who then chose team members?
+
+Yes		1
+     No		2
+
+
+23. The next questions ask about the use of various teaching methods.  Did you use...
+ 
+        	Yes	No
+
+a. Group discussions?	1	2
+b. Competitive group activities?	1	2
+c. Cooperative group activities?	1	2
+d. Skills drills?	1	2
+e. Physical activity stations?	1	2
+f. Pledges or contracts for behavior change?	1	2
+g. Guest speakers?	1	2
+h. Peer teaching?	1	2
+i. Heart rate or physical activity monitors?	1	2
+j. The Internet?	1	2
+k. Computer-assisted instruction?	1	2
+
+
+24.  Did you video tape any student performances?
+
+Yes		1
+     No		2
+
+
+
+25. Did you ask students to...
+
+     	Yes	No
+
+a. Perform volunteer work with a local physical activity
+        program or event, for example little league or a fun run?	1	2
+b. Participate in or attend a community health fair?	1	2
+c. Gather information about physical activity programs 
+        that are available in the community, for example
+        activities at clubs or parks?	1	2
+
+
+26. Did you...
+
+     	Yes	No
+
+a. Provide families with information on the class?	1	2
+b.	Give students homework or projects that involve 
+        family members?	1	2
+c. Invite family members to attend the class?	1	2
+
+
+27. In this class, did you give...
+
+     	Yes	No
+
+a. Written tests of students’ knowledge related to PE?	1	2
+b. Skills performance tests related to PE?	1	2
+c. Fitness tests?	1	2
+
+
+
+Answer Q28-32 if you gave fitness tests in this class (Q27c is Yes).  Otherwise, skip to Q33.
+
+
+SHOW CARD 8
+
+
+28. What fitness test batteries did you use in this class?
+     MARK ALL THAT APPLY. 
+
+     Chrysler fund/AAU physical fitness program	1
+     Fitnessgram	2
+     National Youth Physical Fitness Program (U.S. Marines 
+        Youth Foundation)	3
+     President’s Challenge (President’s council on physical
+        fitness and sports)	4
+     Youth Fitness Test (YMCA)	5
+     A state-developed fitness test	6
+     Other	7
+
+
+29. Did you schedule time during class periods for the students in this class to practice for the fitness tests?
+
+     Yes		1
+No		2
+
+
+30. Did you compare these students’ fitness test scores with...
+
+     	Yes	No
+
+a. National performance standards?	1	2
+b. State performance standards?	1	2
+c. Local performance standards?	1	2
+d. The student’s prior fitness scores?	1	2
+e. The student’s goals?	1	2
+
+
+
+31. Did the students receive an explanation of what their fitness scores meant?
+
+Yes		1
+     No		2
+
+
+32. Did you provide the students’ parents or guardians with an explanation of what their child’s fitness scores meant?
+
+Yes		1
+     No		2
+
+
+33. Were students required to develop individualized physical activity plans?
+
+    Yes	1
+No	2	==>	Skip to Q38.
+
+
+Answer Q34 if you gave fitness tests in this class (Q27c is Yes).  Otherwise, skip to Q35.
+
+
+34. Did students use their fitness scores to help develop individualized physical activity plans?
+
+    Yes	1
+    No	2
+
+
+35. Were you able to give students individual feedback on their physical activity plans?
+
+    Yes	1
+    No	2
+
+
+36. Did you give students individual feedback to monitor adherence to their physical activity plans?
+
+    Yes	1
+    No	2
+
+
+
+37. Did you require that their plans include...
+
+        	Yes	No
+
+a. Physical activity goals?	1	2
+b. Fitness goals?	1	2
+c. Specific rewards for meeting goals?	1	2
+d. Scheduled times for engaging in physical activity?	1	2
+e. A process for assessing progress toward goals?	1	2
+
+
+38. Did you require that students keep a log of the physical activities they engaged in outside of the class?
+
+Yes	1	==>	Skip to Q40
+    No	2
+
+
+39. Did you offer extra credit to students for keeping a log of the physical activities they engaged in outside of the class?
+
+    Yes	1
+    No	2
+
+
+
+SHOW CARD 9
+
+
+40. As I read the list of assessment criteria on this card, please tell me if you used them to assess your students in PE.  Did you assess students based on...
+
+     	Yes	No
+
+a. Their attendance?	1	2
+b. Appropriate clothing for physical activities ?	1	2
+c. Their level of participation?	1	2
+d. Their attitude?	1	2
+e. Their performance on knowledge tests?	1	2
+f. Their final scores on movement skills performance tests?	1	2
+g. Their improvement in movement skills performance 
+        test scores?	1	2
+h. Their participation in physical activity outside of PE?	1	2
+i. Their demonstration of self management skills, such
+         as goal setting or self assessment?	1	2
+
+
+Answer Q41 if you required students to develop individualized physical activity plans in this class (Q33 is Yes).  Otherwise, skip to Q42.
+
+
+41. Did you assess students based on their individualized physical activity plans?
+
+Yes		1
+No		2
+
+
+Answer Q42 if you gave fitness tests in this class (Q27c is Yes).  Otherwise, skip to Q43.
+
+
+42. Did you assess students based on...
+
+        	Yes	No
+
+a. A comparison of fitness test scores to national, state,
+        or local norms?	1	2
+b. Their improvement in fitness test scores?	1	2
+a. 
+My next questions ask about teaching students with permanent physical or cognitive disabilities.  Examples of such disabilities include blindness, Down’s Syndrome, learning disabilities, and conditions that require permanent use of a wheelchair.
+
+
+43. Were there any students with permanent physical or cognitive disabilities in the class?
+
+    Yes	1
+No	2	==>	Skip to Q46
+
+
+44. Was there...	HEC017
+
+        	Yes	No
+
+a. A special education teacher with whom you coordinated
+        activities for students with  permanent disabilities?	1	2
+b. A physical or occupational therapist who came in to
+        assist students with permanent disabilities?	1	2
+c. A teacher or aide who came in to assist students with
+        permanent disabilities?	1	2
+
+
+45. In teaching these students, did you use...
+
+        	Yes	No
+
+a. Simplified instructional content or variations in the 
+        amount or difficulty of material taught?	1	2
+b. More skill modeling, practicing, or repetition?	1	2
+c. Modified equipment or facilities?	1	2
+d. Modified physical skills tests?	1	2
+a. 
+
+Respondent Background
+
+
+
+My last set of questions asks about your educational background and teaching experience.
+
+
+46. Counting this year as a full year and including years spent teaching physical education at any other schools, how many years of experience do you have teaching physical education?
+
+_______	Years
+
+
+47. Do you coach an interscholastic sport?
+
+     Yes	1
+     No	2
+
+
+48. Do you have an undergraduate degree?
+
+     Yes	1
+No	2	==>	Skip to Q54
+
+
+49. What did you major in?
+     MARK ALL THAT APPLY.
+
+     Physical education and health education combined	1
+     Physical education	2
+     Health education	3
+     Other education	4
+     Kinesiology	5
+     Exercise physiology	6
+     Exercise science	7
+     Other	8
+
+
+50. Do you have an undergraduate minor?HEC059
+
+     Yes	1
+No	2	==>	Skip to Q52
+
+51. What did you minor in?
+     MARK ALL THAT APPLY.
+
+     Physical education and health education combined	1
+     Physical education	2
+     Health education	3
+     Other education	4
+     Kinesiology	5
+     Exercise physiology	6
+     Exercise science	7
+     Other	8
+
+
+52. Do you have a graduate degree?
+
+     Yes	1
+No	2	==>	Skip to Q54
+
+
+53. In what area or areas?HEC064
+     MARK ALL THAT APPLY.
+
+     Physical education and health education combined	1
+     Physical education	2
+     Health education	3
+     Other education	4
+     Kinesiology	5
+     Exercise physiology	6
+     Exercise science	7
+     Other	8
+
+
+54. Currently, are you certified, endorsed, or licensed by the state to teach physical education in...	HEB125
+
+        	Yes	No
+
+a. Elementary school?	1	2
+b. Middle or junior high school?	1	2
+c. Senior high school?	1	2
+
+
+SHOW CARD 10
+
+
+55. As I read the list of topics on this card, please tell me if you received any staff development on each one during the past 2 years.  This might include workshops, conferences, continuing education, graduate courses, or any other kind of in-service.  During the past 2 years, did you receive any staff development on...
+
+        	Yes	No
+
+a. Methods to increase the amount of class time
+        students are physically active?	1	2
+b. Methods to promote gender equity in physical 
+        education and sports?	1	2
+c. Using technology such as computers, video cameras, or
+        heart rate monitors for physical education?	1	2
+d. Encouraging family involvement in physical activity?	1	2
+e. Administering or using fitness tests?	1	2
+f. Helping students develop individualized physical
+        activity plans?	1	2
+g. Injury prevention and first aid?	1	2
+h. Teaching physical education to students with 
+        permanent physical or cognitive disabilities?	1	2
+i. Teaching individual or paired activities or sports?	1	2
+j. Teaching team or group activities or sports?	1	2
+k. Teaching movement skills and concepts?	1	2
+l. Assessing or evaluating student performance in physical 
+        education?	1	2
+m. Developing and using student portfolios for physical
+        education?	1	2
+
+
+
+56. Which of these topics would you like to receive further staff development on?
+     MARK ALL THAT APPLY.
+
+Methods to increase the amount of class time students
+        are physically active	1
+Methods to promote gender equity in physical education
+        and sports	2
+     Using technology such as computers, video cameras, or
+        heart rate monitors for physical education	3
+Encouraging family involvement in physical activity	4
+Administering or using fitness tests	5
+Helping students develop individualized physical
+        activity plans	6
+Injury prevention and first aid	7
+Teaching physical education to students with permanent
+        physical or cognitive disabilities	8
+Teaching individual or paired activities or sports	9
+Teaching team or group activities or sports	10
+Teaching movement skills and concepts	11
+Assessing or evaluating student performance in physical 
+        education	12
+Developing and using student portfolios for physical
+        education	13
+     None	14
+
+
+57. My supervisor may wish to call you to ask about how I conducted this interview.  Would you please tell me a telephone number where we might reach you starting with the area code?
+
+
+(      )            -
+
+1) Daytime or
+2)	Evening/Weekend
+
+
+
+Thank you very much for taking the time to complete this interview.
+
+Physical Education Classroom Questionnaire - Final Version  —  Revised: 10/26/99
+
+
+6
+Physical Education Classroom Questionnaire - Final Version  —  Revised: 10/26/99
+
+	 General Course Characteristics and Content
+
+
+
+
+
+	Physical Activities
+
+
+
+
+
+	Teaching and Evaluation Techniques
+
+
+
+
+
+	Respondent Background
+
+
+
