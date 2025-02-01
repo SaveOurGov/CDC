@@ -1,0 +1,14 @@
+emm73.1 subtype determining sequence. Identity to bases 31-180 (encodes mature
+N terminus) combined with ungapped identity or near identity to bases
+bases 1-180 identifies this subtype.
+
+emm73.1.sds  Length: 180  January 25, 2007 12:45  Type: N  Check: 9998  ..
+
+       1  GGCTTTGCAA ACCAAACAAC AGTTAAGGCG GACAATCAGA GCCCTGCCCT 
+
+      51  TGTCAAAAAG GAAGCAAAAA AATTAAATGA AGCAGAATTA TATAACAAAA 
+
+     101  TTCAAGAACT TGAAGAGGGA AAAGCAGAAT TATTCGATAA ATTAGAAAAA 
+
+     151  GTTGAAGAAG AGAATAAAAA AGTTAAAGAA 
+
