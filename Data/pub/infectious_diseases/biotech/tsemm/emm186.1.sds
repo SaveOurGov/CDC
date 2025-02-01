@@ -1,0 +1,19 @@
+emm186.1 (emm-cluster D4) (formerly st2940.1) subtype determining sequence. 
+Identity to bases 31-180 (encodes mature N-terminus) and ungapped identity 
+or near-identity to complete 180 base sequence defines this subtype.
+
+emm186.1 from skin isolate 11 (OF negative) recovered from ARF patient in
+Ethiopia during 1990. Sequence and all information
+provided by Dr. Wezenet Tewodros, Karolinska Institute,
+Stockholm, Sweden.
+
+emm186.1.sds  Length: 180  August 3, 2007 11:40  Type: N  Check: 6102  ..
+
+       1  TTTGCGAATC AAACAGAGGT TAAGGCAGAG GTTGATCACC CTAGAACTAC 
+
+      51  CGCTGCTAGA AATAACGTAC TAAGTGGGCT CTCTGTACCG GGTTCCCTTT 
+
+     101  GGCAACGTCA AAGAGAAGAA ATTGACAAAC TTAAATCGGA AAAGGAAGGG 
+
+     151  CTTGAGACTA ATTTACAGGG AAAGGAACAA 
+
