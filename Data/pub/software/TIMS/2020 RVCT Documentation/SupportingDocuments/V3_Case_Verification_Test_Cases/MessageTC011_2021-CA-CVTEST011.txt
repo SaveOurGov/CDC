@@ -1,0 +1,189 @@
+MSH|^~\&|Ntsscr^2.16.840.1.114222.4.1.213384^ISO|CA^2.16.840.1.114222.4.1.3640^ISO|PHINCDS^2.16.840.1.114222.4.3.2.10^ISO|PHIN^2.16.840.1.114222^ISO|20210729111932.179-0400||ORU^R01^ORU_R01|9172021-CA-CVTEST01120210729111932179-0400|T|2.5.1|||||||||NOTF_ORU_v3.0^PHINProfileID^2.16.840.1.114222.4.10.3^ISO~Generic_MMG_V2.0^PHINMsgMapID^2.16.840.1.114222.4.10.4^ISO~TB_MMG_V3.0^PHINMsgMapID^2.16.840.1.114222.4.10.4^ISO
+PID|1||917^^^Ntsscr&2.16.840.1.114222.4.5.232.1&ISO||~^^^^^^S||20201010|M||2106-3^White^CDCREC|^^San Diego^06^^^^^06073^|||||||||||2135-2^Hispanic or Latino^CDCREC||||||||||||||||
+OBR|1||917^Ntsscr^2.16.840.1.114222.4.1.213384^ISO|68991-9^Epidemiologic Information^LN|||20210729111932.179-0400|||||||||||||||20210729111932.179-0400|||F||||||10220^Tuberculosis^NND
+OBX|1|CWE|DEM153^Detailed Race^PHINQUESTION||^^||||||F
+OBX|2|ST|32624-9^Other Race Text^LN||^^||||||F
+OBX|3|CWE|78746-5^Country of Birth^LN||MEX^MEXICO^ISO3166_1||||||F
+OBX|4|CWE|77983-5^Country of Usual Residence^LN||MEX^MEXICO^ISO3166_1||||||F
+OBX|5|TS|11368-8^Date of Illness Onset^LN||||||||F
+OBX|6|CWE|77996-7^Pregnancy Status^LN||^^||||||F
+OBX|7|CWE|77978-5^Subject Died^LN||^^||||||F
+OBX|8|CWE|77990-0^Case Class Status Code^LN||410605003^Confirmed present (qualifier value)^SCT||||||F
+OBX|9|CWE|77988-4^Binational Reporting Criteria^LN||||||||F
+OBX|10|DT|77995-9^Date Reported^LN||20210101||||||F
+OBX|11|SN|77991-8^MMWR Week^LN||^4||||||F
+OBX|12|DT|77992-6^MMWR Year^LN||2021||||||F
+OBX|13|CWE|77966-0^Reporting State^LN||06^California^FIPS5_2||||||F
+OBX|14|CWE|77968-6^National Reporting Jurisdiction^LN||06^California^FIPS5_2||||||F
+OBX|15|ST|INV1107^TB State Case Number^PHINQUESTION||2021-CA-CVTEST011||||||F
+OBX|16|ST|INV1108^City or County Case Number^PHINQUESTION||||||||F
+OBX|17|CWE|76689-9^Birth Sex^LN||M^Male^HL70001||||||F
+OBX|18|CWE|INV1109^Previously Counted Case^PHINQUESTION||N^No^HL70136||||||F
+OBX|19|ST|INV1110^Previously Reported State Case Number^PHINQUESTION||||||||F
+OBX|20|CWE|INV1111^Country of Verified Case^PHINQUESTION||^^||||||F
+OBX|21|CWE|INV1112^Inside City Limits^PHINQUESTION||Y^Yes^HL70136||||||F
+OBX|22|DT|DEM2005^Date Arrived in US^PHINQUESTION||20201129||||||F
+OBX|23|CWE|DEM2003^US Born^PHINQUESTION||N^No^HL70136||||||F
+OBX|24|CWE|INV1113^Primary Guardian(s) Country of Birth^PHINQUESTION||MEX^MEXICO^ISO3166_1||||||F
+OBX|25|CWE|INV1114^Remain in US After Report^PHINQUESTION||^^||||||F
+OBX|26|CWE|INV1116^Initial Reason for Evaluation^PHINQUESTION||PHC681^Contact investigation^CDCPHINVS||||||F
+OBX|27|CWE|INV1276^Usual Occupation and Industry^PHINQUESTION||260413007^None (qualifier value)^SCT||||||F
+OBX|28|ST|85658-3^Current Occupation^LN|1|||||||F
+OBX|29|CE|85659-1^Current Occupation Standardized^LN|1|^^||||||F
+OBX|30|ST|85078-4^Current Industry^LN|1|||||||F
+OBX|31|CE|85657-5^Current Industry Standardized^LN|1|^^||||||F
+OBX|32|ST|85658-3^Current Occupation^LN|2|||||||F
+OBX|33|CE|85659-1^Current Occupation Standardized^LN|2|^^||||||F
+OBX|34|ST|85078-4^Current Industry^LN|2|||||||F
+OBX|35|CE|85657-5^Current Industry Standardized^LN|2|^^||||||F
+OBX|36|ST|85658-3^Current Occupation^LN|3|||||||F
+OBX|37|CE|85659-1^Current Occupation Standardized^LN|3|^^||||||F
+OBX|38|ST|85078-4^Current Industry^LN|3|||||||F
+OBX|39|CE|85657-5^Current Industry Standardized^LN|3|^^||||||F
+OBX|40|ST|85658-3^Current Occupation^LN|4|||||||F
+OBX|41|CE|85659-1^Current Occupation Standardized^LN|4|^^||||||F
+OBX|42|ST|85078-4^Current Industry^LN|4|||||||F
+OBX|43|CE|85657-5^Current Industry Standardized^LN|4|^^||||||F
+OBX|44|ST|85658-3^Current Occupation^LN|5|||||||F
+OBX|45|CE|85659-1^Current Occupation Standardized^LN|5|^^||||||F
+OBX|46|ST|85078-4^Current Industry^LN|5|||||||F
+OBX|47|CE|85657-5^Current Industry Standardized^LN|5|^^||||||F
+OBX|48|CWE|INV1119^Type of Correctional Facility^PHINQUESTION||^^||||||F
+OBX|49|CWE|INV1120^Type of Long-Term Care Facility^PHINQUESTION||^^||||||F
+OBX|50|CWE|72166-2^Smoking Status^LN||^^||||||F
+OBX|51|CWE|INV1121^Lived outside of the United States for >2 months (uninterrupted)^PHINQUESTION||Y^Yes^HL70136||||||F
+OBX|52|CWE|INV1274^Case Meets Binational Reporting Criteria^PHINQUESTION||^^||||||F
+OBX|53|CWE|INV1122^Identified During Contact Investigation^PHINQUESTION||^^||||||F
+OBX|54|CWE|INV1123^Evaluation During Contact Investigation^PHINQUESTION||^^||||||F
+OBX|55|ST|INV1124^Linked Case Number^PHINQUESTION||||||||F
+OBX|56|DT|86948-7^Date Treatment or Therapy Started^LN||||||||F
+OBX|57|CWE|55753-8^Treatment Administration Type^LN||||||||F
+OBX|58|DT|63939-3^Date Treatment or Therapy Stopped^LN||||||||F
+OBX|59|CWE|INV1115^Case Verification Category^PHINQUESTION||PHC165^Verified by provider diagnosis^CDCPHINVS||||||F
+OBX|60|CWE|TB101^Status at Diagnosis of TB^PHINQUESTION||438949009^Alive (finding)^SCT||||||F
+OBX|61|CWE|INV1133^Site of Disease^PHINQUESTION||||||||F
+OBX|62|CWE|INV1134^Contact Investigation^PHINQUESTION||^^||||||F
+OBX|63|CWE|161413004^History of Previous Illness^SCT||^^||||||F
+OBX|64|CWE|INV1139^Reason Not Treated with RIPE^PHINQUESTION||^^||||||F
+OBX|65|CWE|INV1140^Reason Therapy Stopped^PHINQUESTION||^^||||||F
+OBX|66|CWE|INV1141^Reason Therapy Extended^PHINQUESTION||||||||F
+OBX|67|CWE|INV1167^Final Disease Outcome^PHINQUESTION||^^||||||F
+OBX|68|CWE|INV1145^Isolate Submitted for Genotyping^PHINQUESTION||^^||||||F
+OBX|69|ST|INV1146^Accession Number for Genotyping^PHINQUESTION||||||||F
+OBX|70|CWE|INV1147^Phenotypic Drug Susceptibility Completed^PHINQUESTION||^^||||||F
+OBX|71|CWE|INV1148^Molecular Drug Susceptibility Completed^PHINQUESTION||^^||||||F
+OBX|72|CWE|INV1275^Patient Treated as MDR Case^PHINQUESTION||^^||||||F
+OBX|73|CWE|INV1149^Culture Conversion Documented^PHINQUESTION||^^||||||F
+OBX|74|DT|INV1150^Date of First Consistently Negative Culture^PHINQUESTION||||||||F
+OBX|75|CWE|INV1151^Reason for Not Documenting Sputum Culture Conversion^PHINQUESTION||^^||||||F
+OBX|76|CWE|TB279^Patient Move During TB Therapy^PHINQUESTION||^^||||||F
+OBX|77|CWE|INV1152^Moved to Where^PHINQUESTION||||||||F
+OBX|78|CWE|INV1153^Out of State Move^PHINQUESTION||^^||||||F
+OBX|79|CWE|INV1154^Out of Country Move^PHINQUESTION||^^||||||F
+OBX|80|CWE|INV1155^Transnational Referral^PHINQUESTION||^^||||||F
+OBX|81|CWE|INV1117^Patient Epidemiological Risk Factors^PHINQUESTION|1|PHC2098^Diabetic at Diagnostic Evaluation^CDCPHINVS||||||F
+OBX|82|CWE|INV1118^Patient Epidemiological Risk Factors Indicator^PHINQUESTION|1|N^No^HL70136||||||F
+OBX|83|CWE|INV1117^Patient Epidemiological Risk Factors^PHINQUESTION|2|PHC1876^Homeless in the Past 12 Months^CDCPHINVS||||||F
+OBX|84|CWE|INV1118^Patient Epidemiological Risk Factors Indicator^PHINQUESTION|2|N^No^HL70136||||||F
+OBX|85|CWE|INV1117^Patient Epidemiological Risk Factors^PHINQUESTION|3|32911000^Homeless Ever^SCT||||||F
+OBX|86|CWE|INV1118^Patient Epidemiological Risk Factors Indicator^PHINQUESTION|3|N^No^HL70136||||||F
+OBX|87|CWE|INV1117^Patient Epidemiological Risk Factors^PHINQUESTION|4|257656006^Resident of Correctional Facility at Diagnostic Evaluation^SCT||||||F
+OBX|88|CWE|INV1118^Patient Epidemiological Risk Factors Indicator^PHINQUESTION|4|N^No^HL70136||||||F
+OBX|89|CWE|INV1117^Patient Epidemiological Risk Factors^PHINQUESTION|5|PHC2099^Resident of Correctional Facility Ever^CDCPHINVS||||||F
+OBX|90|CWE|INV1118^Patient Epidemiological Risk Factors Indicator^PHINQUESTION|5|N^No^HL70136||||||F
+OBX|91|CWE|INV1117^Patient Epidemiological Risk Factors^PHINQUESTION|6|42665001^Resident of Long-Term Care Facility at Diagnositic Evaluation^SCT||||||F
+OBX|92|CWE|INV1118^Patient Epidemiological Risk Factors Indicator^PHINQUESTION|6|N^No^HL70136||||||F
+OBX|93|CWE|INV1117^Patient Epidemiological Risk Factors^PHINQUESTION|7|226034001^Injecting Drug Use in the Past 12 Months^SCT||||||F
+OBX|94|CWE|INV1118^Patient Epidemiological Risk Factors Indicator^PHINQUESTION|7|N^No^HL70136||||||F
+OBX|95|CWE|INV1117^Patient Epidemiological Risk Factors^PHINQUESTION|8|PHC1877^Noninjecting Drug Use in the Past 12 Months^CDCPHINVS||||||F
+OBX|96|CWE|INV1118^Patient Epidemiological Risk Factors Indicator^PHINQUESTION|8|N^No^HL70136||||||F
+OBX|97|CWE|INV1117^Patient Epidemiological Risk Factors^PHINQUESTION|9|86933000^Heavy Alcohol Use in the Past 12 Months^SCT||||||F
+OBX|98|CWE|INV1118^Patient Epidemiological Risk Factors Indicator^PHINQUESTION|9|N^No^HL70136||||||F
+OBX|99|CWE|INV1117^Patient Epidemiological Risk Factors^PHINQUESTION|10|PHC690^TNF Antagonist Therapy^CDCPHINVS||||||F
+OBX|100|CWE|INV1118^Patient Epidemiological Risk Factors Indicator^PHINQUESTION|10|N^No^HL70136||||||F
+OBX|101|CWE|INV1117^Patient Epidemiological Risk Factors^PHINQUESTION|11|161663000^Post-Organ Transplantation^SCT||||||F
+OBX|102|CWE|INV1118^Patient Epidemiological Risk Factors Indicator^PHINQUESTION|11|N^No^HL70136||||||F
+OBX|103|CWE|INV1117^Patient Epidemiological Risk Factors^PHINQUESTION|12|46177005^End-Stage Renal Disease^SCT||||||F
+OBX|104|CWE|INV1118^Patient Epidemiological Risk Factors Indicator^PHINQUESTION|12|N^No^HL70136||||||F
+OBX|105|CWE|INV1117^Patient Epidemiological Risk Factors^PHINQUESTION|13|PHC2236^Viral Hepatitis type B or C Only^SCT||||||F
+OBX|106|CWE|INV1118^Patient Epidemiological Risk Factors Indicator^PHINQUESTION|13|N^No^HL70136||||||F
+OBX|107|CWE|INV1117^Patient Epidemiological Risk Factors^PHINQUESTION|14|PHC1878^Other Immunocompromise (not HIV/AIDS)^CDCPHINVS||||||F
+OBX|108|CWE|INV1118^Patient Epidemiological Risk Factors Indicator^PHINQUESTION|14|N^No^HL70136||||||F
+OBX|109|CWE|INV290^Test Type^PHINQUESTION|1|50941-4^Mycobacterium XXX Ql Cult^LN||||||F
+OBX|110|CWE|INV291^Test Result^PHINQUESTION|1|385660001^Not done (qualifier value)^SCT||||||F
+OBX|111|TS|82773-3^Date/Time of Lab Result^LN|1|||||||F
+OBX|112|CWE|31208-2^Specimen Source Site^LN|1|^^||||||F
+OBX|113|TS|68963-8^Specimen Collection Date/Time^LN|1|||||||F
+OBX|114|ST|LAB628^Test Result Quantitative^PHINQUESTION|1|||||||F
+OBX|115|CWE|LAB115^Result Units^PHINQUESTION|1|^^||||||F
+OBX|116|CWE|INV290^Test Type^PHINQUESTION|2|LAB673^Nucleic Acid Amplification Test^PHINQUESTION||||||F
+OBX|117|CWE|INV291^Test Result^PHINQUESTION|2|385660001^Not done (qualifier value)^SCT||||||F
+OBX|118|TS|82773-3^Date/Time of Lab Result^LN|2|||||||F
+OBX|119|CWE|31208-2^Specimen Source Site^LN|2|^^||||||F
+OBX|120|TS|68963-8^Specimen Collection Date/Time^LN|2|||||||F
+OBX|121|ST|LAB628^Test Result Quantitative^PHINQUESTION|2|||||||F
+OBX|122|CWE|LAB115^Result Units^PHINQUESTION|2|^^||||||F
+OBX|123|CWE|INV290^Test Type^PHINQUESTION|3|TB119^Skin Test at Diagnosis^PHINQUESTION||||||F
+OBX|124|CWE|INV291^Test Result^PHINQUESTION|3|260385009^Negative (qualifier value)^SCT||||||F
+OBX|125|TS|82773-3^Date/Time of Lab Result^LN|3|20210118||||||F
+OBX|126|CWE|31208-2^Specimen Source Site^LN|3|39937001^Skin structure (body structure)^SCT||||||F
+OBX|127|TS|68963-8^Specimen Collection Date/Time^LN|3|20210115||||||F
+OBX|128|ST|LAB628^Test Result Quantitative^PHINQUESTION|3|||||||F
+OBX|129|CWE|LAB115^Result Units^PHINQUESTION|3|^^||||||F
+OBX|130|CWE|LAB677^Type of Chest Study^PHINQUESTION|1|399208008^Plain chest X-ray (procedure)^SCT||||||F
+OBX|131|CWE|LAB678^Result of Chest Study^PHINQUESTION|1|PHC1874^Not consistent with TB^CDCPHINVS||||||F
+OBX|132|CWE|LAB679^Evidence of Cavity^PHINQUESTION|1|^^||||||F
+OBX|133|CWE|LAB680^Evidence of Miliary TB^PHINQUESTION|1|^^||||||F
+OBX|134|TS|LAB681^Date of Chest Study^PHINQUESTION|1|20210106||||||F
+OBX|135|CWE|INV1143^Initial Drug Regimen^PHINQUESTION|1|6038^Isoniazid^RXNORM||||||F
+OBX|136|CWE|INV1144^Initial Drug Regimen Indicator^PHINQUESTION|1|^^||||||F
+OBX|137|CWE|INV1143^Initial Drug Regimen^PHINQUESTION|2|9384^Rifampin^RXNORM||||||F
+OBX|138|CWE|INV1144^Initial Drug Regimen Indicator^PHINQUESTION|2|^^||||||F
+OBX|139|CWE|INV1143^Initial Drug Regimen^PHINQUESTION|3|8987^Pyrazinamide^RXNORM||||||F
+OBX|140|CWE|INV1144^Initial Drug Regimen Indicator^PHINQUESTION|3|^^||||||F
+OBX|141|CWE|INV1143^Initial Drug Regimen^PHINQUESTION|4|4110^Ethambutol^RXNORM||||||F
+OBX|142|CWE|INV1144^Initial Drug Regimen Indicator^PHINQUESTION|4|^^||||||F
+OBX|143|CWE|INV1143^Initial Drug Regimen^PHINQUESTION|5|10109^Streptomycin^RXNORM||||||F
+OBX|144|CWE|INV1144^Initial Drug Regimen Indicator^PHINQUESTION|5|^^||||||F
+OBX|145|CWE|INV1143^Initial Drug Regimen^PHINQUESTION|6|55672^Rifabutin^RXNORM||||||F
+OBX|146|CWE|INV1144^Initial Drug Regimen Indicator^PHINQUESTION|6|^^||||||F
+OBX|147|CWE|INV1143^Initial Drug Regimen^PHINQUESTION|7|35617^Rifapentine^RXNORM||||||F
+OBX|148|CWE|INV1144^Initial Drug Regimen Indicator^PHINQUESTION|7|^^||||||F
+OBX|149|CWE|INV1143^Initial Drug Regimen^PHINQUESTION|8|4127^Ethionamide^RXNORM||||||F
+OBX|150|CWE|INV1144^Initial Drug Regimen Indicator^PHINQUESTION|8|^^||||||F
+OBX|151|CWE|INV1143^Initial Drug Regimen^PHINQUESTION|9|641^Amikacin^RXNORM||||||F
+OBX|152|CWE|INV1144^Initial Drug Regimen Indicator^PHINQUESTION|9|^^||||||F
+OBX|153|CWE|INV1143^Initial Drug Regimen^PHINQUESTION|10|6099^Kanamycin^RXNORM||||||F
+OBX|154|CWE|INV1144^Initial Drug Regimen Indicator^PHINQUESTION|10|^^||||||F
+OBX|155|CWE|INV1143^Initial Drug Regimen^PHINQUESTION|11|78903^Capreomycin^RXNORM||||||F
+OBX|156|CWE|INV1144^Initial Drug Regimen Indicator^PHINQUESTION|11|^^||||||F
+OBX|157|CWE|INV1143^Initial Drug Regimen^PHINQUESTION|12|2551^Ciprofloxacin^RXNORM||||||F
+OBX|158|CWE|INV1144^Initial Drug Regimen Indicator^PHINQUESTION|12|^^||||||F
+OBX|159|CWE|INV1143^Initial Drug Regimen^PHINQUESTION|13|82122^Levofloxacin^RXNORM||||||F
+OBX|160|CWE|INV1144^Initial Drug Regimen Indicator^PHINQUESTION|13|^^||||||F
+OBX|161|CWE|INV1143^Initial Drug Regimen^PHINQUESTION|14|7623^Ofloxacin^RXNORM||||||F
+OBX|162|CWE|INV1144^Initial Drug Regimen Indicator^PHINQUESTION|14|^^||||||F
+OBX|163|CWE|INV1143^Initial Drug Regimen^PHINQUESTION|15|139462^Moxifloxacin^RXNORM||||||F
+OBX|164|CWE|INV1144^Initial Drug Regimen Indicator^PHINQUESTION|15|^^||||||F
+OBX|165|CWE|INV1143^Initial Drug Regimen^PHINQUESTION|16|3007^Cycloserine^RXNORM||||||F
+OBX|166|CWE|INV1144^Initial Drug Regimen Indicator^PHINQUESTION|16|^^||||||F
+OBX|167|CWE|INV1143^Initial Drug Regimen^PHINQUESTION|17|7833^Para-Amino Salicylic Acid^RXNORM||||||F
+OBX|168|CWE|INV1144^Initial Drug Regimen Indicator^PHINQUESTION|17|^^||||||F
+OBX|169|CWE|INV1143^Initial Drug Regimen^PHINQUESTION|18|190376^Linezolid^RXNORM||||||F
+OBX|170|CWE|INV1144^Initial Drug Regimen Indicator^PHINQUESTION|18|^^||||||F
+OBX|171|CWE|INV1143^Initial Drug Regimen^PHINQUESTION|19|1364504^Bedaquiline^RXNORM||||||F
+OBX|172|CWE|INV1144^Initial Drug Regimen Indicator^PHINQUESTION|19|^^||||||F
+OBX|173|CWE|INV1143^Initial Drug Regimen^PHINQUESTION|20|PHC1889^Delamanid^CDCPHINVS||||||F
+OBX|174|CWE|INV1144^Initial Drug Regimen Indicator^PHINQUESTION|20|^^||||||F
+OBX|175|CWE|INV1143^Initial Drug Regimen^PHINQUESTION|21|2592^Clofazimine^RXNORM||||||F
+OBX|176|CWE|INV1144^Initial Drug Regimen Indicator^PHINQUESTION|21|^^||||||F
+OBX|177|CWE|INV1143^Initial Drug Regimen^PHINQUESTION|22|2198359^Pretomanid^RXNORM||||||F
+OBX|178|CWE|INV1144^Initial Drug Regimen Indicator^PHINQUESTION|22|^^||||||F
+OBX|179|CWE|INV1143^Initial Drug Regimen^PHINQUESTION|23|PHC1888^Other Quinolones^CDCPHINVS||||||F
+OBX|180|CWE|INV1144^Initial Drug Regimen Indicator^PHINQUESTION|23|^^||||||F
+OBX|181|CWE|INV1143^Initial Drug Regimen^PHINQUESTION|24|OTH^Other (specify)^NULLFL||||||F
+OBX|182|CWE|INV1144^Initial Drug Regimen Indicator^PHINQUESTION|24|^^||||||F
+OBX|183|CWE|INV1143^Initial Drug Regimen^PHINQUESTION|25|OTH^Other (specify)^NULLFL||||||F
+OBX|184|CWE|INV1144^Initial Drug Regimen Indicator^PHINQUESTION|25|^^||||||F
+OBX|185|CWE|INV1143^Initial Drug Regimen^PHINQUESTION|26|OTH^Other (specify)^NULLFL||||||F
+OBX|186|CWE|INV1144^Initial Drug Regimen Indicator^PHINQUESTION|26|^^||||||F
