@@ -1,0 +1,27 @@
+
+name: Build Module
+on: 
+  push: 
+  workflow_dispatch: 
+jobs: 
+  BuildSaveOurGov.CDC: 
+    runs-on: ubuntu-latest
+    if: ${{ success() }}
+    steps: 
+      - name: Check out repository
+        uses: actions/checkout@v2
+      - name: BackupCDC
+        id: BackupCDC
+        shell: pwsh
+        run: |
+          $importedModule = Import-Module .\ -PassThru -Global 
+          $importedModule| Out-Host
+          
+          $dataPath = $importedModule | Split-Path | Join-Path -ChildPath "Data"
+          $fileListPath = Join-Path $dataPath "FileList.txt" 
+          $fileList = Get-Content $fileListPath
+          
+          Backup-CDC -FileList $fileList -Maximum 10
+          
+          
+
