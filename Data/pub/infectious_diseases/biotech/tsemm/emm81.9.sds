@@ -1,0 +1,16 @@
+emm81.9 (emm-cluster E6) subtype determining sequence. Identity to bases 
+31-180 (encodes mature N-terminus) and ungapped identity or near-identity
+to complete 180 base sequence defines this subtype.
+
+emm81.9 from GAS joint isolate 7696-06 (T8/25) recovered during 2006.
+
+emm81.9.sds  Length: 180  September 11, 2008 13:32  Type: N  Check: 7759  ..
+
+       1  GGCTTTGCAA ACCAAACAGA AGTTAAGGCT GCGGGTTCAG AAGAGAATGT 
+
+      51  ACCGAAGCAG CAGTATAATG CGCTATGGGA GGGAAATGAG GATCTCCGAG 
+
+     101  GGAGAGAACG GAAATACATA GCCAAACTTG AAAAAGAAGA GATACAAAAT 
+
+     151  GGAGAACTAA ACGAGAAAAA TAGAAAGTTA 
+
