@@ -1,0 +1,752 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling">
+   <head>
+      <styling>
+         <style
+            xml:id="defaultSpeaker"
+            tts:backgroundColor="black"
+            tts:color="#ffffff"
+            tts:extent="80% 10%"
+            tts:fontFamily="Arial"
+            tts:fontSize="12px"
+            tts:fontStyle="normal"
+            tts:fontWeight="normal"
+            tts:origin="10% 85%"
+            tts:textAlign="center"
+            tts:textDecoration="none">
+         </style>
+         <style
+            xml:id="defaultCaption"
+            tts:backgroundColor="black"
+            tts:color="#ffffff"
+            tts:fontFamily="Arial"
+            tts:fontSize="12px"
+            tts:fontStyle="normal"
+            tts:fontWeight="normal"
+            tts:textAlign="center"
+            tts:textDecoration="none">
+         </style>
+      </styling>
+      <layout>
+         <region style="defaultSpeaker" xml:id="speaker"></region>
+      </layout>
+   </head>
+   <body xml:id="thebody" style="defaultCaption">
+      <div xml:lang="en">
+         <p begin="00:00:02.000" end="00:00:05.633" region="speaker">&gt;&gt;&gt; I&apos;M GOING TO ASK DR. DUCHIN<br/>TO INTRODUCE THE SECTION ON</p>
+         <p begin="00:00:05.633" end="00:00:09.467" region="speaker">GENERAL RECOMMENDATIONS ON<br/>IMMUNIZATION.</p>
+         <p begin="00:00:09.467" end="00:00:11.900" region="speaker">&gt;&gt; THANK YOU, DR. TEMTE.<br/>GOOD MORNING.</p>
+         <p begin="00:00:11.900" end="00:00:16.233" region="speaker">I&apos;M GOING BE VERY BRIEF BECAUSE<br/>THE INFORMATION I TYPICALLY</p>
+         <p begin="00:00:16.233" end="00:00:19.033" region="speaker">PRESENT IN THE INTRODUCTION WILL<br/>BE COVERED BY DR. KROGER IN MORE</p>
+         <p begin="00:00:19.033" end="00:00:21.066" region="speaker">DETAIL.<br/>JUST A REMINDER THAT THIS IS ONE</p>
+         <p begin="00:00:21.066" end="00:00:26.800" region="speaker">OF THE ONGOING UPDATES OF THE<br/>ACIP REGARDING THE REVISIONS OF</p>
+         <p begin="00:00:26.800" end="00:00:30.667" region="speaker">THE GENERAL RECOMMENDATION WHICH<br/>OCCUR OVER A PROLONGED PERIOD.</p>
+         <p begin="00:00:30.667" end="00:00:33.834" region="speaker">THIS IS QUITE A COMPREHENSIVE AND I HAVE DETAILS PROCESS.</p>
+         <p begin="00:00:33.834" end="00:00:36.967" region="speaker">SO YOU&apos;RE FAMILIAR WITH WHAT THE<br/>GENERAL RECOMMENDATIONS ARE AND</p>
+         <p begin="00:00:36.967" end="00:00:40.400" region="speaker">WHO THE TARGET AUDIENCE IS.<br/>SO I&apos;M NOT GOING TO REVIEW THAT</p>
+         <p begin="00:00:40.400" end="00:00:42.433" region="speaker">WITH YOU TODAY.<br/>BUT IF YOU&apos;RE INTERESTED, YOU</p>
+         <p begin="00:00:42.433" end="00:00:46.166" region="speaker">CAN FIND THE DOCUMENTS ON THE<br/>ACIP WEBSITE.</p>
+         <p begin="00:00:46.166" end="00:00:50.066" region="speaker">WOVE GOT THROUGH A NUMBER OF<br/>TOPICS WITH THE ACIP ALREADY AND</p>
+         <p begin="00:00:50.066" end="00:00:53.800" region="speaker">THERE ARE A NUMBER TO GO TODAY.<br/>WE&apos;LL BE LOOKING AT VACCINE</p>
+         <p begin="00:00:53.800" end="00:00:58.533" region="speaker">ADMINISTRATION VACCINATION<br/>RECORDS AND NEW</p>
+         <p begin="00:00:58.533" end="00:01:01.633" region="speaker">SECTIONS .CHANGES THAT WILL BE<br/>HIGHLIGHTED BY DR. KROGER AROUND</p>
+         <p begin="00:01:01.633" end="00:01:08.700" region="speaker">VACCINE ADMINISTRATION SAFETY<br/>INTRADERMAL INJECTION ROUTE AND</p>
+         <p begin="00:01:08.700" end="00:01:14.166" region="speaker">A VERY INTERESTING DISCUSSION<br/>AROUND NONSTANDARD VACCINATION</p>
+         <p begin="00:01:14.166" end="00:01:18.433" region="speaker">PRACTICES.<br/>PARTICULARLY PATIENTS WITH</p>
+         <p begin="00:01:18.433" end="00:01:22.767" region="speaker">HEMOPHILIA.<br/>THEN WE&apos;LL HAVE A PRESENTATION</p>
+         <p begin="00:01:22.767" end="00:01:31.066" region="speaker">FROM DR. STUART MYERBURG FOR<br/>SUPPORT FOR CLINICIANS.</p>
+         <p begin="00:01:31.066" end="00:01:35.633" region="speaker">THEN AFTER THIS BODY WORK IS<br/>COMPLETED, WE HAVE ADDITIONAL</p>
+         <p begin="00:01:35.633" end="00:01:40.600" region="speaker">WORK TO DO ON HANDLING OF IMMUNE<br/>BUY LOGIC VACCINATION PROGRAM.</p>
+         <p begin="00:01:40.600" end="00:01:49.000" region="speaker">AND EXPECT TO INTRODUCE TO THE<br/>ACIP YOUR REQUESTED VOTE ON THE</p>
+         <p begin="00:01:49.000" end="00:01:53.633" region="speaker">REVISIONS IN JUNE OF 2014.<br/>SO WITH THAT, I&apos;D LIKE TO ASK</p>
+         <p begin="00:01:53.633" end="00:01:58.367" region="speaker">DR. KROGER TO COME UP AND REVIEW<br/>THE REVISIONS THAT ARE UNDER</p>
+         <p begin="00:01:58.367" end="00:02:03.400" region="speaker">DISCUSSION TODAY.<br/>&gt;&gt; THANK YOU.</p>
+         <p begin="00:02:03.400" end="00:02:07.500" region="speaker">SO TODAY I&apos;M GOING TO COVER<br/>GENERAL RECOMMENDATIONS WORK</p>
+         <p begin="00:02:07.500" end="00:02:11.066" region="speaker">GROUP DISCUSSIONS ON TWO<br/>SECTIONS OF THE GENERAL REC</p>
+         <p begin="00:02:11.066" end="00:02:14.667" region="speaker">VACCINE, ADMINISTRATION AND<br/>VACCINATION RECORDS.</p>
+         <p begin="00:02:14.667" end="00:02:19.533" region="speaker">ACIP MEMBERS SHOULD HAVE TWO<br/>DRAFT COPIES FOR EACH OF THESE</p>
+         <p begin="00:02:19.533" end="00:02:22.166" region="speaker">SECTIONS.<br/>ONE IS IN TRACK CHANGES AND ONE</p>
+         <p begin="00:02:22.166" end="00:02:26.633" region="speaker">IS A CLEAN COPY.<br/>AS I GO THROUGH THE CHANGES THAT</p>
+         <p begin="00:02:26.633" end="00:02:33.967" region="speaker">THE WORK GROUP HAS MADE TO THE<br/>DRAFT, I&apos;LL BE GIVING SMU LETTER</p>
+         <p begin="00:02:33.967" end="00:02:37.500" region="speaker">DESIGNATIONS, A NUMBER<br/>DESTINATIONS, SORRY, FOR PAGE</p>
+         <p begin="00:02:37.500" end="00:02:42.000" region="speaker">AND LINE.<br/>SO YOU CAN FOLLOW UP</p>
+         <p begin="00:02:42.000" end="00:02:46.333" region="speaker">ACCORDINGLY.<br/>SO LET&apos;S START WITH VACCINE</p>
+         <p begin="00:02:46.333" end="00:02:49.133" region="speaker">ADMINISTRATION.<br/>AND YOU SHOULD HAVE A DRAFT THAT</p>
+         <p begin="00:02:49.133" end="00:02:57.000" region="speaker">SAYS AUGUST 23rd, 2013 AT THE<br/>TOP.</p>
+         <p begin="00:02:57.000" end="00:03:02.567" region="speaker">LEFT HAND CORNER.<br/>AND IN THE INTEREST OF TIME, I&apos;M</p>
+         <p begin="00:03:02.567" end="00:03:05.533" region="speaker">GOING TO COVER THOSE AREAS WHICH<br/>ENGENDERED A LOT OF SDUNGZ IN</p>
+         <p begin="00:03:05.533" end="00:03:10.333" region="speaker">THE WORK GROUP AND -- BUT DURING<br/>THE QUESTION AND ANSWER SESSION,</p>
+         <p begin="00:03:10.333" end="00:03:12.367" region="speaker">YOU CAN FEEL FREE TO ASK<br/>QUESTIONS ABOUT ANYTHING YOU SEE</p>
+         <p begin="00:03:12.367" end="00:03:15.166" region="speaker">IN THE DRAFT.<br/>SO THE THREE CHANGES ARE CHANGES</p>
+         <p begin="00:03:15.166" end="00:03:19.133" region="speaker">TO INFECTION CONTROL AND STERILE<br/>TECHNIQUE, ADDITION OF</p>
+         <p begin="00:03:19.133" end="00:03:25.900" region="speaker">INFORMATION ON INTRADURAL ROUTES<br/>AND VACCINATION ROUTES,</p>
+         <p begin="00:03:25.900" end="00:03:29.166" region="speaker">INTRAMUSCULAR AND SUBCUTANEOUS.<br/>THERE ARE TWO COMPONENTS TO</p>
+         <p begin="00:03:29.166" end="00:03:31.967" region="speaker">INFECTION CONTROL AND STERILE<br/>TECHNIQUE WHICH HAS GENERATED</p>
+         <p begin="00:03:31.967" end="00:03:35.567" region="speaker">SOME DISCUSSION IN THE WORK<br/>GROUP.</p>
+         <p begin="00:03:35.567" end="00:03:38.600" region="speaker">THE FIRST IS IN THE SECTION<br/>PREPARATION AND TIMELY DISPOSAL.</p>
+         <p begin="00:03:38.600" end="00:03:46.233" region="speaker">SO THIS IS ON PAGE 1 OF YOUR --<br/>YOUR TRACKED COPY.</p>
+         <p begin="00:03:46.233" end="00:03:50.567" region="speaker">SO PAGE 1, LINE 13 OF YOUR TRACK<br/>COPY, YOU&apos;LL SEE A SECTION.</p>
+         <p begin="00:03:50.567" end="00:03:54.200" region="speaker">SO I&apos;LL DISCUSS THAT AND THEN I<br/>WANT TO TALK ABOUT SOME OF THE</p>
+         <p begin="00:03:54.200" end="00:03:57.367" region="speaker">CHANGES WE MADE TO THE LANGUAGE<br/>SURROUNDING OCSEA REGULATIONS</p>
+         <p begin="00:03:57.367" end="00:04:01.333" region="speaker">WITH RESPECT TO PREVENTING<br/>NEEDLE STICK INJURY.</p>
+         <p begin="00:04:01.333" end="00:04:06.400" region="speaker">SO YOU&apos;LL NOTICE ON PAGE 1, LINE<br/>15 THROUGH 22, WE HAVE NEW</p>
+         <p begin="00:04:06.400" end="00:04:14.233" region="speaker">LANGUAGE WHICH STATE -- I&apos;LL<br/>READ IT -- VACCINESDRAWN UP IN</p>
+         <p begin="00:04:14.233" end="00:04:18.367" region="speaker">AREA NOT ADJACENT TO AREAS WHERE<br/>POTENTIALLY CONTAMINATED ITEMS</p>
+         <p begin="00:04:18.367" end="00:04:21.500" region="speaker">ARE PLACED.<br/>MULTI USE VIALS SHOULD BE THE BE</p>
+         <p begin="00:04:21.500" end="00:04:25.266" region="speaker">KEPT OR ACCESSED IN THE<br/>IMMEDIATE PATIENT AREA TO</p>
+         <p begin="00:04:25.266" end="00:04:28.233" region="speaker">PREVENT AN ADD VETERAN END<br/>CONTAMINATION OF THE VIAL</p>
+         <p begin="00:04:28.233" end="00:04:31.233" region="speaker">THROUGH DIRECTOR INDIRECT<br/>CONTACT WITH EQUIPMENT OR</p>
+         <p begin="00:04:31.233" end="00:04:34.967" region="speaker">SURFACES THAT COULD LEAD TO<br/>INFECTIONS IN CONSEQUENCE</p>
+         <p begin="00:04:34.967" end="00:04:37.367" region="speaker">PATIENTS.<br/>IF A MULTI DOSE VIAL ENTERS THE</p>
+         <p begin="00:04:37.367" end="00:04:39.934" region="speaker">IMMEDIATE PATIENT TREATMENT<br/>AREA, IT SHOULD BE DISCARDED</p>
+         <p begin="00:04:39.934" end="00:04:41.533" region="speaker">AFTER USE.<br/>.THIS IS INFORMATION THAT IS</p>
+         <p begin="00:04:41.533" end="00:04:48.000" region="speaker">ALREADY ON CDC&apos;S WEBSITE.<br/>AS YOU CAN SEE, THE LINK THERE.</p>
+         <p begin="00:04:48.000" end="00:04:50.266" region="speaker">BUT IT ALSO HAS NOW BEEN PLACED<br/>INTO THIS GENERAL</p>
+         <p begin="00:04:50.266" end="00:04:58.900" region="speaker">RECOMMENDATIONS DRAFT.<br/>ALSO IN THE SECTION ON VACCINE</p>
+         <p begin="00:04:58.900" end="00:05:01.166" region="speaker">ADMINISTRATION AND TIMELY<br/>DISPOSE YAG, WE HAVE LANGUAGE</p>
+         <p begin="00:05:01.166" end="00:05:03.467" region="speaker">THAT READS IN CERTAIN<br/>CIRCUMSTANCES IN WHICH A SINGLE</p>
+         <p begin="00:05:03.467" end="00:05:06.433" region="speaker">VACCINE TYPE IS BEING USED, FOR<br/>EXAMPLE, IN PREPARATION FOR A</p>
+         <p begin="00:05:06.433" end="00:05:10.367" region="speaker">COMMUNITY INFLUENZA VACCINATION<br/>CAMPAIGN, BUILDING A SMALL</p>
+         <p begin="00:05:10.367" end="00:05:21.133" region="speaker">NUMBER, 10 OR LESS OF SYRINGE<br/>YENS MAY BE CONSIDERED.</p>
+         <p begin="00:05:21.133" end="00:05:25.133" region="speaker">THE DOSES SHOULD BE ADMINISTERED<br/>AS SOON AS POSSIBLE AFTER</p>
+         <p begin="00:05:25.133" end="00:05:38.066" region="speaker">FILLING BY THE SAME PERSON WHO<br/>FILLED THE SYRINGES.</p>
+         <p begin="00:05:38.066" end="00:05:41.066" region="speaker">THIS LANGUAGE IS MARKED IN TRACK<br/>CHANGES IN YOUR DOCUMENT, BUT</p>
+         <p begin="00:05:41.066" end="00:05:42.967" region="speaker">THAT REFLECTS AS BEING MOVED<br/>AROUND.</p>
+         <p begin="00:05:42.967" end="00:05:45.934" region="speaker">THIS IS CURRENT LONG STANDING<br/>GENERAL RECOMMENDATIONS LANGUAGE</p>
+         <p begin="00:05:45.934" end="00:05:54.467" region="speaker">AND, THEREFORE, CDC GUIDANCE AS<br/>WELL AS A COMMON TRAINING</p>
+         <p begin="00:05:54.467" end="00:05:59.233" region="speaker">THAT CDC USING AND<br/>APPEARS TO REALLY STANDARD</p>
+         <p begin="00:05:59.233" end="00:06:13.400" region="speaker">ADMINISTRATION PRACTICES.<br/>THESE TWO SECTIONS TAKEN</p>
+         <p begin="00:06:13.400" end="00:06:17.433" region="speaker">TOGETHER ENGENDER A LOT OF<br/>DISCUSSION AMONG THE WORK GROUP.</p>
+         <p begin="00:06:17.433" end="00:06:21.300" region="speaker">THEY HAD A CHANCE TO SEE THE<br/>SLIDE SET AND THEY SAW THE</p>
+         <p begin="00:06:21.300" end="00:06:22.667" region="speaker">DRAFT.<br/>AND ALREADY THERE&apos;S BEEN A LOT</p>
+         <p begin="00:06:22.667" end="00:06:27.467" region="speaker">OF DISCUSSION IN THE WORK GROUP<br/>ON THIS.</p>
+         <p begin="00:06:27.467" end="00:06:31.567" region="speaker">AND I WANTED TO MAKE SOME<br/>SUMMARY POINTS AND EXPLAIN KIND</p>
+         <p begin="00:06:31.567" end="00:06:36.533" region="speaker">OF WHY THIS HAS BEEN SUCH A<br/>INTERESTING ISSUE.</p>
+         <p begin="00:06:36.533" end="00:06:41.600" region="speaker">IT HAS TO DO BASICALLY WITH MASS<br/>CLINICES AND HOW TO APPLY THESE</p>
+         <p begin="00:06:41.600" end="00:06:43.667" region="speaker">TWO CONCEPTS TOGETHER IN A MASS<br/>CLINIC.</p>
+         <p begin="00:06:43.667" end="00:06:47.533" region="speaker">ON THE ONE HAND, YOU WANT TO<br/>MAKE SURE THAT YOUR MULTI DOSE</p>
+         <p begin="00:06:47.533" end="00:06:51.033" region="speaker">VIALS ARE FREE OF CONTAMINATION.<br/>YOU DON&apos;T WANT THEM OPENED NEAR</p>
+         <p begin="00:06:51.033" end="00:06:53.133" region="speaker">A PATIENT.<br/>SO THERE HAS TO BE SOME DISTANCE</p>
+         <p begin="00:06:53.133" end="00:06:58.166" region="speaker">BETWEEN THE PATIENT AND THE<br/>STORAGE FACILITY OR THE AREA</p>
+         <p begin="00:06:58.166" end="00:07:00.333" region="speaker">WHERE THE SYRINGES ARE GOING TO<br/>BE FILLED.</p>
+         <p begin="00:07:00.333" end="00:07:03.100" region="speaker">AND WE ALSO HAVE A<br/>RECOMMENDATION THAT THE SAME</p>
+         <p begin="00:07:03.100" end="00:07:06.400" region="speaker">PERSON THAT FILLS THE SYRINGE<br/>MAY NEED TO ADMINISTER IT.</p>
+         <p begin="00:07:06.400" end="00:07:11.000" region="speaker">SO THERE&apos;S GOING TO BE SOME<br/>ROTATION OF STAFF, SOME</p>
+         <p begin="00:07:11.000" end="00:07:13.467" region="speaker">FEASIBILITY ISSUES THAT&apos;S GOING<br/>THE TO BE INEFFICIENT.</p>
+         <p begin="00:07:13.467" end="00:07:19.667" region="speaker">MANY PEOPLE HAVE SAID THAT.<br/>A</p>
+         <p begin="00:07:19.667" end="00:07:26.133" region="speaker">AND, OF COURSE, THE LANGUAGE<br/>ABOUT DISCARDED DOSES LEAD TO</p>
+         <p begin="00:07:26.133" end="00:07:29.467" region="speaker">QUESTIONS ABOUT WASTE.<br/>SO THIS IS BASED ON CDC GUIDANCE</p>
+         <p begin="00:07:29.467" end="00:07:43.934" region="speaker">ALREADY ON THE WEBSITE.<br/>IT&apos;S BEEN ON THERE A WHILE AND</p>
+         <p begin="00:07:43.934" end="00:07:47.533" region="speaker">HAS THE TASK OF ADDRESSING<br/>VACCINE ADMINISTRATION AND SAFE</p>
+         <p begin="00:07:47.533" end="00:07:53.166" region="speaker">INJECTIONS PRACTICES.<br/>IT IS TRUE THAT THAT IS A</p>
+         <p begin="00:07:53.166" end="00:07:55.967" region="speaker">BROADER DISCUSSION AND THERE HAS<br/>BEEN DISCUSSION ABOUT</p>
+         <p begin="00:07:55.967" end="00:07:58.467" region="speaker">INCORPORATING THIS CONTENT INTO<br/>THE VACCINE SPECIFIC PINK BOOK</p>
+         <p begin="00:07:58.467" end="00:08:01.633" region="speaker">AT CDC GUIDANCE.<br/>SO THIS IS SOMETHING THAT WE&apos;VE</p>
+         <p begin="00:08:01.633" end="00:08:05.200" region="speaker">PLACED INTO THE GENERAL RECS, AS<br/>WELL.</p>
+         <p begin="00:08:05.200" end="00:08:09.200" region="speaker">IT&apos;S VERY, VERY STRICT GUIDANCE<br/>WITH ALL THE USE OF MULTI DOSE</p>
+         <p begin="00:08:09.200" end="00:08:12.233" region="speaker">VIALS.<br/>AS I&apos;VE MENTIONED, THE</p>
+         <p begin="00:08:12.233" end="00:08:15.266" region="speaker">PREFILLING WOULD HAVE TO OCCUR<br/>AT A DISTANCE FROM THE PATIENT,</p>
+         <p begin="00:08:15.266" end="00:08:19.133" region="speaker">PREVIOUSBLY CLOSE TO THE STORAGE<br/>UNIT, WHAT ABOUT SATELLITE UNITS</p>
+         <p begin="00:08:19.133" end="00:08:27.133" region="speaker">WHERE THE STORAGE IS CLOSE TO<br/>THE PATIENT.</p>
+         <p begin="00:08:27.133" end="00:08:37.333" region="speaker">SO WE WANTED TO HAVE THAT AS A<br/>DISCUSSION POINT.</p>
+         <p begin="00:08:37.333" end="00:08:41.633" region="speaker">KEEPING IN MIND THIS IS<br/>ALLOWANCE ABOUT 10 PREFILLED</p>
+         <p begin="00:08:41.633" end="00:08:45.100" region="speaker">SYRINGES, MANUFACTURING OF<br/>PREFILLED SYRINGES ARE</p>
+         <p begin="00:08:45.100" end="00:08:49.900" region="speaker">PREFERRED, BUT THE END USER CAN<br/>PREFILL TEN SYRINGES, 10 AT A</p>
+         <p begin="00:08:49.900" end="00:08:57.166" region="speaker">TIME, PERHAPS FROM ONE MOOI<br/>MULTI DOSE VIAL ONLY.</p>
+         <p begin="00:08:57.166" end="00:09:02.500" region="speaker">AND BRING THAT TO THE<br/>ADMINISTRATION AREA.</p>
+         <p begin="00:09:02.500" end="00:09:12.133" region="speaker">THE OTHER ASPECT I WANTED TO<br/>SHARE WE&apos;RE DEFINING SAME DAY AS</p>
+         <p begin="00:09:12.133" end="00:09:13.633" region="speaker">SAME CLINIC DAY.<br/>SO THAT&apos;S KIND OF NEW IN THIS</p>
+         <p begin="00:09:13.633" end="00:09:18.967" region="speaker">SECTION.<br/>THE OTHER ASPECT OF TIMELY</p>
+         <p begin="00:09:18.967" end="00:09:25.066" region="speaker">PREPARATION AND TIMELY DISPOSAL<br/>INVOLVES CHANGES THAT WE MADE</p>
+         <p begin="00:09:25.066" end="00:09:28.000" region="speaker">WITH RESPECT TO SAFETY.<br/>AND WE WANTED TO DO THIS TO KIND</p>
+         <p begin="00:09:28.000" end="00:09:33.200" region="speaker">OF REMOVE WHAT PREVIOUSLY<br/>EXISTED IN THE 2011 RECS.</p>
+         <p begin="00:09:33.200" end="00:09:35.233" region="speaker">THE RECOMMENDATION IN THE SAME<br/>PLACE.</p>
+         <p begin="00:09:35.233" end="00:09:40.100" region="speaker">THE STRONG SIDE WAS THE<br/>STATEMENT THESE FEDERAL -- THIS</p>
+         <p begin="00:09:40.100" end="00:09:47.266" region="speaker">HAS USE AND THIS REFERS TO THE<br/>NEED TO NOT ONLY MAKE SURE THAT</p>
+         <p begin="00:09:47.266" end="00:09:51.700" region="speaker">NEEDLES ARE NOT BEING RECAPPED<br/>OR THEY&apos;RE NOT BEING REMOVED,</p>
+         <p begin="00:09:51.700" end="00:09:55.600" region="speaker">THAT IT&apos;S SPECIFICALLY THOSE<br/>ENGINEERED TO BE SAFE, ALL OF</p>
+         <p begin="00:09:55.600" end="00:09:59.333" region="speaker">THIS LANGUAGE COMES FROM THE<br/>REGULATIONS AND IN THE PREVIOUS</p>
+         <p begin="00:09:59.333" end="00:10:02.200" region="speaker">RECOMMENDATIONS STATED THAT<br/>THESE FEDERAL REGULATIONS</p>
+         <p begin="00:10:02.200" end="00:10:07.133" region="speaker">REQUIRE THE INJECTION DEVICES,<br/>NEEDLE SYRINGES OR NEEDLE</p>
+         <p begin="00:10:07.133" end="00:10:11.300" region="speaker">INJECTORS BE USED FOR INJECTABLE<br/>VACCINATIONS IN CLINIC SETTINGS.</p>
+         <p begin="00:10:11.300" end="00:10:16.166" region="speaker">THAT&apos;S ON PAGE 4 LINE 6 OF YOUR<br/>CURRENT TRACK DRAFT.</p>
+         <p begin="00:10:16.166" end="00:10:22.300" region="speaker">THAT WAS THE STRONG SIDE.<br/>NOW STRUCK OUT.</p>
+         <p begin="00:10:22.300" end="00:10:26.500" region="speaker">A THE PREPARATION HOME<br/>STATEMENT, SAFETY ENGINEERED</p>
+         <p begin="00:10:26.500" end="00:10:28.967" region="speaker">SYRINGES OR NEEDLE TYPE<br/>INJECTIONS ARE PREFERRED AND</p>
+         <p begin="00:10:28.967" end="00:10:32.066" region="speaker">SHOULD BE ENCOURAGED TO REDUCE<br/>RISK FOR INJURY.</p>
+         <p begin="00:10:32.066" end="00:10:36.000" region="speaker">WE TOOK THAT OUT AND THAT&apos;S<br/>ANOTHER THING THAT WE&apos;VE TALKED</p>
+         <p begin="00:10:36.000" end="00:10:38.300" region="speaker">ABOUT IN THE CHANGED AND GENERAL<br/>RECS.</p>
+         <p begin="00:10:38.300" end="00:10:49.033" region="speaker">SECOND VACCINE ADMINISTRATION<br/>TOPIC IS WE WITH THE</p>
+         <p begin="00:10:49.033" end="00:10:52.700" region="speaker">PUBLICATION, RIGHT BEFORE WE HAD<br/>A LOT OF USES, INCLUDING INTRA</p>
+         <p begin="00:10:52.700" end="00:10:56.500" region="speaker">DERMAL CELLS, THERE WAS NOTHING<br/>ON INTRA DERMAL VACCINATION.</p>
+         <p begin="00:10:56.500" end="00:11:01.734" region="speaker">WE HAVE NOW ADDED THIS, PAGE 11,<br/>LINE 3, TO ACCOMPANY OF COURSE A</p>
+         <p begin="00:11:01.734" end="00:11:07.233" region="speaker">DISCUSSION OF INTRAMUSCULAR,<br/>SUBCUTANEOUS AS WELL AS SUPPORT</p>
+         <p begin="00:11:07.233" end="00:11:11.233" region="speaker">ORAL ADMINISTRATION AND<br/>INTERNASAL ADMINISTRATION OF</p>
+         <p begin="00:11:11.233" end="00:11:13.033" region="speaker">VACCINES.<br/>SO THAT&apos;S ALL IN THERE NOW,</p>
+         <p begin="00:11:13.033" end="00:11:15.700" region="speaker">INCLUDING THE NEW SECTION ON<br/>INTRA DERMAL VACCINATION.</p>
+         <p begin="00:11:15.700" end="00:11:18.900" region="speaker">AND WE&apos;VE ADDED SOME LANGUAGE TO<br/>THIS BASED ON COMMUNICATION WITH</p>
+         <p begin="00:11:18.900" end="00:11:26.066" region="speaker">MANUFACTURER IN A STATE THAT<br/>INTRA DETERMINAN INFLUENZA</p>
+         <p begin="00:11:26.066" end="00:11:28.700" region="speaker">VACCINE OF SOMEONE -- THAT<br/>SHOULD SAY NINE.</p>
+         <p begin="00:11:28.700" end="00:11:33.233" region="speaker">I TOOK THAT OUT.<br/>I&apos;M SORRY, I HAD TO MAKE SOME</p>
+         <p begin="00:11:33.233" end="00:11:35.533" region="speaker">CHANGES.<br/>SOMEONE 9 THROUGH 17 YEARS OF</p>
+         <p begin="00:11:35.533" end="00:11:39.000" region="speaker">AGE CAN BE COUNTED AS A VALID<br/>DOSE ON THE PREMGZ THAT THEIR</p>
+         <p begin="00:11:39.000" end="00:11:44.166" region="speaker">SKIN THICKNESS IS SIMILAR TO --<br/>AND THAT 6 SHOULD NOT BE IN</p>
+         <p begin="00:11:44.166" end="00:11:50.166" region="speaker">THERE -- TO SOMEONE 18 THROUGH<br/>64 YEARS OF AGE.</p>
+         <p begin="00:11:50.166" end="00:11:54.233" region="speaker">GIVEN SOMEONE YOUNGER THAN 9<br/>YEARS OF AGE SHOULD BE BE</p>
+         <p begin="00:11:54.233" end="00:11:57.333" region="speaker">COUNTED AND THIS IS SPECIFIC<br/>INFORMATION ABOUT INVALIDATING A</p>
+         <p begin="00:11:57.333" end="00:12:03.100" region="speaker">DOSE OF VACCINE FOR ONE AGE<br/>GROUP AND VALIDATE AGO DOSE</p>
+         <p begin="00:12:03.100" end="00:12:06.300" region="speaker">GIVEN THE OFF LABEL TO THE AGE<br/>GROUP 9 YEARS THROUGH 17 YEARS</p>
+         <p begin="00:12:06.300" end="00:12:08.900" region="speaker">OF AGE.<br/>BASED ON COMMUNICATION AGAIN</p>
+         <p begin="00:12:08.900" end="00:12:10.934" region="speaker">WITH THE MANUFACTURER ON THE<br/>BASIS OF VARIATION IN SKIN</p>
+         <p begin="00:12:10.934" end="00:12:26.200" region="speaker">THICKNESS.<br/>IMMUNIZATION ADMINISTRATION</p>
+         <p begin="00:12:26.200" end="00:12:29.166" region="speaker">TOPIC, WE MADE A CHANGE TO THE<br/>NEEDLE LENGTH TABLE.</p>
+         <p begin="00:12:29.166" end="00:12:36.467" region="speaker">THIS IS TABLE 10.<br/>WE -- WHAT YOU SEE UP ON THE</p>
+         <p begin="00:12:36.467" end="00:12:39.367" region="speaker">SLIDE IS IS THE NEEDLE LENGTH<br/>TABLE FROM THE 2011 CURRENT</p>
+         <p begin="00:12:39.367" end="00:12:42.367" region="speaker">DOCUMENT.<br/>THIS IS FOR IM INJECTIONS FOR</p>
+         <p begin="00:12:42.367" end="00:12:45.633" region="speaker">CHILDREN 18 YEARS OF AGE AND<br/>YOUNGER AND THERE ALSO IS PART</p>
+         <p begin="00:12:45.633" end="00:12:49.266" region="speaker">OF THE STABLE NOT SHOWN ON THIS<br/>SLIDE FOR ADULTS 19 YEARS OF AGE</p>
+         <p begin="00:12:49.266" end="00:12:52.333" region="speaker">AND OLDER.<br/>THE CHANGE IS WITH CHILDREN.</p>
+         <p begin="00:12:52.333" end="00:12:55.266" region="speaker">WE USED TO COMBINE CHILDREN 3<br/>THROUGH 18 YEARS OF AGE WITH</p>
+         <p begin="00:12:55.266" end="00:12:59.333" region="speaker">RESPECT TO THE NEEDLE LENGTH FOR<br/>THE SPECIFIC INJECTION SITE.</p>
+         <p begin="00:12:59.333" end="00:13:10.567" region="speaker">BASED ON TWO PUBLICATIONS, THIS<br/>IS WHAT THE JOURNAL TABLE LOOKS</p>
+         <p begin="00:13:10.567" end="00:13:13.400" region="speaker">LIKE.<br/>WE HAVE A SECTION FOR 3 TO 10</p>
+         <p begin="00:13:13.400" end="00:13:17.900" region="speaker">YEARS OF AGE.<br/>THE TWO PUBLICATIONS THAT HAVE</p>
+         <p begin="00:13:17.900" end="00:13:26.967" region="speaker">COME OUT IN THE INTRIMT FROM<br/>MRS. JACKSON AND AMY MIDDLEMAN,</p>
+         <p begin="00:13:26.967" end="00:13:35.934" region="speaker">USE OF THESE VACCINES FOR THE<br/>INTERLATERAL THIGH AND THERE IS</p>
+         <p begin="00:13:35.934" end="00:13:41.100" region="speaker">SOME VARIATION WITH RESPECT TO<br/>THE MAXIMAL NEEDLE LENGTH THAT</p>
+         <p begin="00:13:41.100" end="00:13:50.000" region="speaker">WE WOULD ALLOW.<br/>ALSO, WITH RESPECT TO -- THERE</p>
+         <p begin="00:13:50.000" end="00:13:52.567" region="speaker">HAS BEEN DISCUSSION AND THIS IS<br/>ONGOING DISCUSSION ABOUT</p>
+         <p begin="00:13:52.567" end="00:13:55.367" region="speaker">CLINICAL IMPLICATIONS OF<br/>NONSTANDARD VACCINATION</p>
+         <p begin="00:13:55.367" end="00:13:59.066" region="speaker">PRACTICES.<br/>AND IN YOUR DRAFT, THIS IS ON</p>
+         <p begin="00:13:59.066" end="00:14:06.934" region="speaker">PAGE 15, LINE 16 OF YOUR TRACKED<br/>COPY.</p>
+         <p begin="00:14:06.934" end="00:14:10.367" region="speaker">AND I BASICALLY WANT TO GET SOME<br/>BACKGROUND ON THIS.</p>
+         <p begin="00:14:10.367" end="00:14:15.367" region="speaker">AS YOU KNOW, WE DO NOT RECOMMEND<br/>CHANGING ROUTE OF THE</p>
+         <p begin="00:14:15.367" end="00:14:17.300" region="speaker">ADMINISTRATION.<br/>BUT WE DO MAKES SOME VACCINE</p>
+         <p begin="00:14:17.300" end="00:14:19.467" region="speaker">SPECIFIC RECOMMENDATIONS WITH<br/>RESPECT TO WHETHER WE COUNT THE</p>
+         <p begin="00:14:19.467" end="00:14:22.633" region="speaker">DOSE OR NOT.<br/>AND WE MAKE A SPECIFIC</p>
+         <p begin="00:14:22.633" end="00:14:29.333" region="speaker">RECOMMENDATION IN A 2011 GENERAL<br/>RECS THAT STATES HELP TITUS B</p>
+         <p begin="00:14:29.333" end="00:14:33.667" region="speaker">ADMINISTERED BY ANY ROUTE OTHER<br/>THAN INTRA MUSCULAR SHOULD NOT</p>
+         <p begin="00:14:33.667" end="00:14:45.467" region="speaker">BE COUNTED AS VALID AND SHOULD<br/>BE REPEATED.</p>
+         <p begin="00:14:45.467" end="00:14:52.200" region="speaker">WE ADDRESSED THIS SOMEWHAT WITH<br/>WE ADDRESSED PERSONS WITH</p>
+         <p begin="00:14:52.200" end="00:14:54.600" region="speaker">BLEEDING DISORDERS.<br/>WE REAFFIRMED THAT WE WANTED TO</p>
+         <p begin="00:14:54.600" end="00:14:57.266" region="speaker">GIVE DISCRETION TO PROVIDERS IF<br/>THEY DON&apos;T FEEL COMFORTABLE</p>
+         <p begin="00:14:57.266" end="00:15:00.700" region="speaker">ABOUT THE BLEEDING RISKS THAT<br/>THEY CAN, IN FACT, ADMINISTER A</p>
+         <p begin="00:15:00.700" end="00:15:05.500" region="speaker">VACCINE OR RATHER THAT THEY HAD<br/>THE OPTION, I GUESS, AS WERE IT</p>
+         <p begin="00:15:05.500" end="00:15:09.700" region="speaker">HERE OF NOT VACCINATING INTRA<br/>MUSCULARLY.</p>
+         <p begin="00:15:09.700" end="00:15:14.066" region="speaker">WE SHOULD SAY SHOULD ADMINISTER<br/>INTRA MUSCULARLY IF A PATIENT</p>
+         <p begin="00:15:14.066" end="00:15:17.333" region="speaker">FAMILIAR WITH THE BLEEDING RISK<br/>CAN BE ADMINISTERED BY THIS</p>
+         <p begin="00:15:17.333" end="00:15:20.600" region="speaker">ROUTE WITH REASONABLE SAFETY.<br/>THIS IS IN A SPECIAL SITUATION</p>
+         <p begin="00:15:20.600" end="00:15:25.567" region="speaker">SECTION.<br/>SHARED WITH ACIP AT THE FEBRUARY</p>
+         <p begin="00:15:25.567" end="00:15:30.533" region="speaker">MEETING.<br/>THIS RAISES THE QUESTION DO</p>
+         <p begin="00:15:30.533" end="00:15:35.533" region="speaker">PERSONS WITH HEMOPHILIA NEED TO<br/>BE REPEATED?</p>
+         <p begin="00:15:35.533" end="00:15:38.433" region="speaker">AND THIS HAS LED TO<br/>COLLABORATIONS TO THE</p>
+         <p begin="00:15:38.433" end="00:15:42.700" region="speaker">VACCINATION OF THE IMMUNIZATION<br/>SAFETY OFFICE WITH OTHER VACCINE</p>
+         <p begin="00:15:42.700" end="00:15:48.100" region="speaker">SPECIFIC GROUPS, SPECIFICALLY<br/>THE HEPATITIS B VACCINE SUBJECT</p>
+         <p begin="00:15:48.100" end="00:15:51.200" region="speaker">MATTER EXPERT.<br/>THERE ARE ACTUALLY SOME ISSUES</p>
+         <p begin="00:15:51.200" end="00:15:55.100" region="speaker">WITH HUMAN PAPILLOMAVIRUS<br/>VACCINE ON THIS ISSUE, AS WELL.</p>
+         <p begin="00:15:55.100" end="00:15:58.934" region="speaker">SO THERE&apos;S BEEN A LOT OF<br/>DISCUSSION.</p>
+         <p begin="00:15:58.934" end="00:16:06.567" region="speaker">THE 2011 GENERAL RECS VACCINE<br/>SUGGESTION ALLOWS SUBJU</p>
+         <p begin="00:16:06.567" end="00:16:11.266" region="speaker">INVESTIGATION BASED ON<br/>IMMUNOGENICITY STUDIES DONE IN</p>
+         <p begin="00:16:11.266" end="00:16:15.433" region="speaker">2006 WHEN THE CONJUGATE VACCINE<br/>CAME OUT, IT WAS IN ADDITION TO</p>
+         <p begin="00:16:15.433" end="00:16:18.100" region="speaker">THE POLYSACCHARIDE VACCINE.<br/>A LOT OF AREAS OCCURRED.</p>
+         <p begin="00:16:18.100" end="00:16:22.533" region="speaker">WE DID THIS STUDY.<br/>SHOWED THAT YOU CAN, IN FACT,</p>
+         <p begin="00:16:22.533" end="00:16:25.667" region="speaker">ADMINISTER THIS VACCINE<br/>SUBCUTANEOUSLY.</p>
+         <p begin="00:16:25.667" end="00:16:29.367" region="speaker">BUT THE SUBJECT WAS SILENT ON<br/>OTHER VACCINES.</p>
+         <p begin="00:16:29.367" end="00:16:36.266" region="speaker">WE FOUND DATA ON HEPATITIS A.<br/>SO WE ADDED THAT AS AS VACCINE</p>
+         <p begin="00:16:36.266" end="00:16:40.633" region="speaker">TO MENINGOCOCCAL CON CONJUGATE<br/>VACCINE.</p>
+         <p begin="00:16:40.633" end="00:16:44.667" region="speaker">HOWEVER, FOR OT VACCINES, WE<br/>HAVE NOT REACHED A POINT WHERE</p>
+         <p begin="00:16:44.667" end="00:16:48.967" region="speaker">WE HAVE ENOUGH EVIDENCE OR WE<br/>THINK WE CAN ADD IT TO THE LIST</p>
+         <p begin="00:16:48.967" end="00:16:56.967" region="speaker">WITH HEPATITIS AMINIG.<br/>HUMAN PAPILLOMAVIRUS IT STAYS</p>
+         <p begin="00:16:56.967" end="00:16:59.400" region="speaker">INTRA MUSCULAR ADMINISTRATION.<br/>THERE&apos;S BEEN A LOT OF GUIDANCE</p>
+         <p begin="00:16:59.400" end="00:17:11.367" region="speaker">GIVEN THAT COUNT<br/>SUBCUTANEOUS DOSING OF HUMAN PAP</p>
+         <p begin="00:17:11.367" end="00:17:12.633" region="speaker">LOW V<br/>PAPILLOMAVIRUS.</p>
+         <p begin="00:17:12.633" end="00:17:14.533" region="speaker">THEN THERE ARE ONGOING<br/>DISCUSSION TOES CONDUCT STUDIES</p>
+         <p begin="00:17:14.533" end="00:17:18.333" region="speaker">WITH THE NATIONAL CENTER FOR<br/>DEVELOPMENTAL -- FOR FIRST</p>
+         <p begin="00:17:18.333" end="00:17:21.700" region="speaker">EFFECT NECESSARY DEVELOPMENTAL<br/>DISORDERS TO LOOK AT</p>
+         <p begin="00:17:21.700" end="00:17:25.400" region="speaker">WITH HEMOPHILIA AND THEIR<br/>RESPONSE.</p>
+         <p begin="00:17:25.400" end="00:17:36.033" region="speaker">THEIR IMMUNOLOGY IMMUNEIC<br/>RESPONSE.</p>
+         <p begin="00:17:36.033" end="00:17:39.633" region="speaker">IT&apos;S COMMON PRACTICE FOR<br/>PROVIDEDERS TO ADMINISTER THE</p>
+         <p begin="00:17:39.633" end="00:17:43.934" region="speaker">DOSE SUBCUTANEOUSLY.<br/>IT&apos;S ON THE ORDER OF</p>
+         <p begin="00:17:43.934" end="00:17:47.200" region="speaker">THESE STUDIES ARE UNDER WAY.<br/>AS YOU&apos;LL SEE FROM YOUR DRAFT,</p>
+         <p begin="00:17:47.200" end="00:17:51.633" region="speaker">WE LIST APPETITIS A, WE LIST MA<br/>THING CAUCUS, BUT WE DON&apos;T MAKE</p>
+         <p begin="00:17:51.633" end="00:17:53.367" region="speaker">OTHER CHANGES FOR THE OTHER<br/>VACCINES.</p>
+         <p begin="00:17:53.367" end="00:17:55.567" region="speaker">BUT I WANTED TO SHARE THAT<br/>ONGOING DISCUSSION.</p>
+         <p begin="00:17:55.567" end="00:18:01.233" region="speaker">NOW SHIFT TO YOUR VACCINATION<br/>RECORDS HAND OUT.</p>
+         <p begin="00:18:01.233" end="00:18:10.367" region="speaker">AND I DON&apos;T HAVE A LOT TO SAY<br/>HERE BEFORE HANDING THE MIKE</p>
+         <p begin="00:18:10.367" end="00:18:12.333" region="speaker">OVER TO STUART.<br/>BUT I WANT TO TALK ABOUT A</p>
+         <p begin="00:18:12.333" end="00:18:19.533" region="speaker">COUPLE OF CHANGES.<br/>FIRST OF ALL, WITH RESPECT TO</p>
+         <p begin="00:18:19.533" end="00:18:22.467" region="speaker">THE PROVIDER SECTION, WE WANTED<br/>TO ADD SOME LANGUAGE WHICH IS</p>
+         <p begin="00:18:22.467" end="00:18:26.567" region="speaker">PROBABLY OVERDUE THAT CLARIFIES<br/>WHICH SPECIFIC VACCINES ARE</p>
+         <p begin="00:18:26.567" end="00:18:30.133" region="speaker">COVERED BY THE VACCINATION<br/>PROGRAM.</p>
+         <p begin="00:18:30.133" end="00:18:33.567" region="speaker">AND SO WE ADDED THIS FOLLOWING<br/>LANGUAGE, THIS ACT APPLIES FOR</p>
+         <p begin="00:18:33.567" end="00:18:36.467" region="speaker">ANY VACCINE TO WHICH THERE IS A<br/>ROUTINE RECOMMENDATION FOR</p>
+         <p begin="00:18:36.467" end="00:18:39.233" region="speaker">CHILDHOOD VACCINATION WHETHER<br/>ADMINISTERED TO CHILD OR ADULTS.</p>
+         <p begin="00:18:39.233" end="00:18:44.667" region="speaker">EVEN IF MANY OR MOST DOSES OF<br/>THE VACCINE ARE ADMINISTERED TO</p>
+         <p begin="00:18:44.667" end="00:18:47.233" region="speaker">ADULTS.<br/>FOR EXAMPLE, INFLUENZA VACCINE</p>
+         <p begin="00:18:47.233" end="00:18:48.433" region="speaker">OF THE VACCINATION RECORDS<br/>SECTION.</p>
+         <p begin="00:18:48.433" end="00:18:54.133" region="speaker">THIS IS, OF COURSE, RELEVANT<br/>BECAUSE THERE ARE SPECIFIC</p>
+         <p begin="00:18:54.133" end="00:18:58.667" region="speaker">RECORDING REQUIREMENTS FOR THE<br/>NATIONAL VACCINE INJURY</p>
+         <p begin="00:18:58.667" end="00:19:02.200" region="speaker">COMPENSATION ACT.<br/>WHAT DATE THE VACCINE WAS</p>
+         <p begin="00:19:02.200" end="00:19:05.233" region="speaker">ADMINISTERS, VACCINE<br/>MANUFACTURER, VACCINE LOT</p>
+         <p begin="00:19:05.233" end="00:19:08.300" region="speaker">NUMBER, NAME, ADDRESS AND TITLE<br/>OF THE PERSON ADMINISTERING THE</p>
+         <p begin="00:19:08.300" end="00:19:10.500" region="speaker">VACCINE.<br/>WHAT I DIDN&apos;T PLACE ON THIS</p>
+         <p begin="00:19:10.500" end="00:19:17.100" region="speaker">SLIDE ALSO IN THE LAW IS THE<br/>DATE OF THE VIS ADMINISTRATION</p>
+         <p begin="00:19:17.100" end="00:19:21.200" region="speaker">AND THE FACT THAT THE VIS WAS<br/>GIVEN.</p>
+         <p begin="00:19:21.200" end="00:19:25.734" region="speaker">SO THOSE ARE SPECIFIC RECORDING<br/>REQUIREMENTS OF THE ACT AND WE</p>
+         <p begin="00:19:25.734" end="00:19:28.967" region="speaker">WANT TO CLARIFY BECAUSE, OF<br/>COURSE, FOR INSTANCE, INFLUENZA</p>
+         <p begin="00:19:28.967" end="00:19:33.367" region="speaker">VACCINE IS A VACCINE THAT WE<br/>USED TO THINK OF TRADITIONALLY</p>
+         <p begin="00:19:33.367" end="00:19:36.367" region="speaker">AS AN ADULT VACCINE.<br/>BUT NOW, OF COURSE, THERE IS A</p>
+         <p begin="00:19:36.367" end="00:19:39.133" region="speaker">RECOMMENDATION TO ADMINISTER THE<br/>VACCINE TO CHILDREN, SO IT OF</p>
+         <p begin="00:19:39.133" end="00:19:42.533" region="speaker">COURSE IS COVERED BY THIS ACT.<br/>SO BASICALLY LANGUAGE TO CLARIFY</p>
+         <p begin="00:19:42.533" end="00:19:44.667" region="speaker">THAT.<br/>&gt;&gt;&gt; ALSO IN VACCINATION RECORDS</p>
+         <p begin="00:19:44.667" end="00:19:50.567" region="speaker">IN THE HEADING ON IMMUNIZATION<br/>INFORMATION SYSTEMS, WE HAVE</p>
+         <p begin="00:19:50.567" end="00:19:55.967" region="speaker">PLACED NEW LANGUAGE WHICH YOU<br/>CAN LOOK AT IN THE DRAFT THAT</p>
+         <p begin="00:19:55.967" end="00:20:03.333" region="speaker">HIGHLIGHTS WHAT FUNCTIONS ARE<br/>CARRIED OUT BY AN IMMUNIZATION</p>
+         <p begin="00:20:03.333" end="00:20:07.066" region="speaker">INFORMATION OR IIF.<br/>THE FOLLOWING EXHIBITED ON THE</p>
+         <p begin="00:20:07.066" end="00:20:15.266" region="speaker">SLIDE, PAGE 2 LION 17 OF YOUR<br/>DRAFT, I.S. CAN PREVENT DUPE CAT</p>
+         <p begin="00:20:15.266" end="00:20:17.333" region="speaker">VACCINATI<br/>VACCINATIONS, LIMB NISED</p>
+         <p begin="00:20:17.333" end="00:20:20.133" region="speaker">APPOINTMENTS, ALLOW RECALL FOR<br/>THOSE WHO MISSED APPOINTMENTS,</p>
+         <p begin="00:20:20.133" end="00:20:24.934" region="speaker">DETERMINE WHEN VACCINES NEED TO<br/>BE REPEATED, WHICH IS AKIN TO, I</p>
+         <p begin="00:20:24.934" end="00:20:29.066" region="speaker">THINK, LANGUAGE THAT WILL BECOME<br/>MORE .MORE FAMILIAR WITH.</p>
+         <p begin="00:20:29.066" end="00:20:33.000" region="speaker">WE CALL THAT EVALUATION.<br/>REDUCE VACCINE WASTE AND REDUCE</p>
+         <p begin="00:20:33.000" end="00:20:36.133" region="speaker">STAFF TIME REQUIRED TO PRODUCE<br/>OR LOCATE VACCINATION RECORDS OR</p>
+         <p begin="00:20:36.133" end="00:20:38.900" region="speaker">CERTIFICATES.<br/>SO WHAT IS NEW TO THE DRAFTS</p>
+         <p begin="00:20:38.900" end="00:20:41.400" region="speaker">THIS YEAR IS THIS PARTICULAR<br/>LANGUAGE ABOUT FORECASTING WHEN</p>
+         <p begin="00:20:41.400" end="00:20:45.100" region="speaker">THE NEXT DOSE IS DUE, ALLOWING<br/>RECALL FOR THOSE WHO MISSED</p>
+         <p begin="00:20:45.100" end="00:20:48.333" region="speaker">APPOINTMENTS AND DETERMINING<br/>WHEN VACCINES NEED TO BE</p>
+         <p begin="00:20:48.333" end="00:20:51.467" region="speaker">REPEATED OR EVALUATION.<br/>SO THOSE ARE THE NEW TERMS.</p>
+         <p begin="00:20:51.467" end="00:20:57.000" region="speaker">AND WE ALSO PLACED LANGUAGE INTO<br/>THE DRAFTS ON LINE 19 OF PAGE 2,</p>
+         <p begin="00:20:57.000" end="00:21:01.467" region="speaker">A STATEMENT THAT IIF SHOULD<br/>MAINTAIN INTEROPERABILITY WITH</p>
+         <p begin="00:21:01.467" end="00:21:05.367" region="speaker">OTHER ELECTRONIC HEALTH RECORD<br/>TOOLS AS PART OF AN EFFORT TO</p>
+         <p begin="00:21:05.367" end="00:21:09.633" region="speaker">IMPROVE THE QUALITY OF CARE,<br/>REDUCE HEALTH DISPARITIES,</p>
+         <p begin="00:21:09.633" end="00:21:13.266" region="speaker">ENGAGE PATIENT EBBS AND FAMILIES<br/>IN THEIR HEALTH, IMPROVE THE</p>
+         <p begin="00:21:13.266" end="00:21:18.166" region="speaker">COORDINATION OF CARE, IMPROVE<br/>POPULATION HEALTH AND ENSURE</p>
+         <p begin="00:21:18.166" end="00:21:20.633" region="speaker">ADEQUATE POLICY AND SECURITY<br/>POLICY FOR PERSONAL INFORMATION.</p>
+         <p begin="00:21:20.633" end="00:21:27.367" region="speaker">AND THE REFERENCE FOR THIS IS<br/>ALSO ON CDC&apos;S WEBSITE.</p>
+         <p begin="00:21:27.367" end="00:21:32.967" region="speaker">WE IMAGINE THAT, YOU KNOW,<br/>DEPENDING ON THE DURATION OF THE</p>
+         <p begin="00:21:32.967" end="00:21:38.200" region="speaker">PROCESS FOR PUBLISHING, THE<br/>GENERAL RECOMMENDATIONS, WE</p>
+         <p begin="00:21:38.200" end="00:21:40.467" region="speaker">MIGHT MAKE FURTHER CHANGES,<br/>PERHAPS GET MORE SPECIFIC WITH</p>
+         <p begin="00:21:40.467" end="00:21:44.400" region="speaker">DIFFERENT PHASES THAT HAVE<br/>OCCURRED, BUT FOR THE MOST PART,</p>
+         <p begin="00:21:44.400" end="00:21:46.633" region="speaker">WE HAVEN&apos;T GOT INTO THAT JUST<br/>YET.</p>
+         <p begin="00:21:46.633" end="00:21:49.400" region="speaker">THINK OF THAT AS PLACE HOLDER<br/>INFORMATION, BUT RIGHT NOW, THIS</p>
+         <p begin="00:21:49.400" end="00:21:54.700" region="speaker">IS KIND OF OUR REFERENCE TO KIND<br/>OF INTEROPERABILITY WITH THE</p>
+         <p begin="00:21:54.700" end="00:21:58.934" region="speaker">ELECTRONIC HEALTH RECORD.<br/>AND HARKENS BACK TO THE</p>
+         <p begin="00:21:58.934" end="00:22:05.967" region="speaker">MEANINGFUL USE WEBSITE.<br/>AND SO BASED ON THE BULLET</p>
+         <p begin="00:22:05.967" end="00:22:13.433" region="speaker">POINTS THAT I GAVE YOU FOR IIS<br/>IS I WANTED TO NOW TURN THE MIKE</p>
+         <p begin="00:22:13.433" end="00:22:18.533" region="speaker">OVER TO STUART MYERBURG.<br/>HE&apos;S GOING TO BE DISCUSSING A</p>
+         <p begin="00:22:18.533" end="00:22:25.600" region="speaker">CLINICAL DECISION SUPPORT TOOL<br/>FOR IMMUNIZATIONS, ALSO KNOWN AS</p>
+         <p begin="00:22:25.600" end="00:22:27.600" region="speaker">CDSI.<br/>YOU SHOULD HAVE -- ACIP MEMBERS</p>
+         <p begin="00:22:27.600" end="00:22:36.333" region="speaker">SHOULD HAVE A COPY OF A PAMPHLET<br/>THAT HIGHLIGHT THESE PROJECT.</p>
+         <p begin="00:22:36.333" end="00:22:42.000" region="speaker">AND I WILL HAPPILY TURN THE MIC<br/>OVER TO STUART.</p>
+         <p begin="00:22:42.000" end="00:22:44.500" region="speaker">THEN WE&apos;LL TAKE QUESTIONS ON<br/>BOTH SECTIONS ALTOGETHER WITH</p>
+         <p begin="00:22:44.500" end="00:22:54.433" region="speaker">THAT AFTERWARDS.<br/>&gt;&gt;&gt; THANKS, ANDREW.</p>
+         <p begin="00:22:54.433" end="00:22:59.333" region="speaker">I&apos;LL BE GIVING A VERY HIGH LEVEL<br/>OVERVIEW FOR OUR CLINICAL</p>
+         <p begin="00:22:59.333" end="00:23:03.667" region="speaker">POSITIONS PROJECT.<br/>THE PAMPHLET THAT ANDREW</p>
+         <p begin="00:23:03.667" end="00:23:05.734" region="speaker">MENTIONED THAT YOU HAVE GOES<br/>INTO A LITTLE BIT MORE DETAIL</p>
+         <p begin="00:23:05.734" end="00:23:10.700" region="speaker">ABOUT IT.<br/>SO WE&apos;RE TALKING ABOUT THE</p>
+         <p begin="00:23:10.700" end="00:23:14.967" region="speaker">BACKGROUND OF THE PROJECT.<br/>AND THEN WHAT OUR RESULTS WERE</p>
+         <p begin="00:23:14.967" end="00:23:21.033" region="speaker">AND WHAT OUR NEXT STEPS ARE.<br/>SO THE FIRST THING, WHAT DO WE</p>
+         <p begin="00:23:21.033" end="00:23:24.767" region="speaker">MEAN BY CLINICAL PHYSICIAN<br/>SUPPORT?</p>
+         <p begin="00:23:24.767" end="00:23:30.033" region="speaker">IT&apos;S MORE COMMONLY REFERRED TO<br/>AS VACCINE -- IN THE VACCINE</p>
+         <p begin="00:23:30.033" end="00:23:33.500" region="speaker">COMMUNITY.<br/>THAT FUNCTION IS PERFORMED BY</p>
+         <p begin="00:23:33.500" end="00:23:37.166" region="speaker">MANY DIFFERENT COMPUTER SYSTEMS,<br/>ELECTRONIC HEALTH RECORDS,</p>
+         <p begin="00:23:37.166" end="00:23:41.867" region="speaker">INFORMATION SYSTEMS AND ALSO<br/>STAND ALONE APPLICATIONS, LIKE</p>
+         <p begin="00:23:41.867" end="00:23:52.934" region="speaker">WEB BASED SCHEDULERS, SMARTPHONE<br/>APPS AND THINGS LIKE THAT.</p>
+         <p begin="00:23:52.934" end="00:23:57.066" region="speaker">THE REASON WE HAVE THIS PROJECT<br/>IS BECAUSE OF THAT.</p>
+         <p begin="00:23:57.066" end="00:24:04.767" region="speaker">ACIP INTEGRATION INTO COMPUTER<br/>SYSTEMS IS CHALLENGING.</p>
+         <p begin="00:24:04.767" end="00:24:08.300" region="speaker">THE SCHEDULE IS COMMUNICATED FOR<br/>HUMANS TO READ.</p>
+         <p begin="00:24:08.300" end="00:24:11.333" region="speaker">BUT, OBVIOUSLY, COMPUTER SYSTEMS<br/>CAN&apos;T READ A NARRATIVE OR A</p>
+         <p begin="00:24:11.333" end="00:24:16.166" region="speaker">SCHEDULE.<br/>SO THOSE RECOMMENDATIONS ARE</p>
+         <p begin="00:24:16.166" end="00:24:18.800" region="speaker">THEN TAKEN BY SUBJECT MATTER<br/>EXPERTS AND TECHNICAL PEOPLE WHO</p>
+         <p begin="00:24:18.800" end="00:24:23.066" region="speaker">ARE DEVELOPING THE COMPUTER<br/>SYSTEMS AND THEY INTERPRET IT</p>
+         <p begin="00:24:23.066" end="00:24:31.100" region="speaker">AND TRY TO CODE OFF OF THAT.<br/>THAT CAN BE VERY TIME CONSUMING</p>
+         <p begin="00:24:31.100" end="00:24:32.567" region="speaker">AND IT&apos;S HAPPENING<br/>INDEPENDENTLY, SO THERE CAN BE</p>
+         <p begin="00:24:32.567" end="00:24:37.100" region="speaker">VARIABILITY.<br/>SO THE OUTPUT FROM THESE</p>
+         <p begin="00:24:37.100" end="00:24:40.667" region="speaker">EVALUATIONS FORECASTING SYSTEMS<br/>CAN VARY WIDELY.</p>
+         <p begin="00:24:40.667" end="00:24:44.800" region="speaker">AND THE RESULTS DON&apos;T ALWAYS<br/>MATCH THE RESULTS THAT CLINICAL</p>
+         <p begin="00:24:44.800" end="00:24:47.800" region="speaker">EXPERTS EXPECT OR WHAT YOU WOULD<br/>EXPECT IF YOU READ THE ACIP</p>
+         <p begin="00:24:47.800" end="00:24:58.533" region="speaker">RECOMMENDATIONS.<br/>THIS IS REALLY BECAUSE EACH ONE</p>
+         <p begin="00:24:58.533" end="00:25:02.100" region="speaker">IS TRYING TO DEVELOP THE CODING<br/>OFF THE LANGUAGE AND MAKING</p>
+         <p begin="00:25:02.100" end="00:25:05.700" region="speaker">THEIR OWN INTERPRETATIONS.<br/>A 2009 STUDY BY THE INFORMATION</p>
+         <p begin="00:25:05.700" end="00:25:11.700" region="speaker">SYSTEM SUPPORT BRANCH SHOWS THAT<br/>THERE WAS AMBIGUITY IN THEIR</p>
+         <p begin="00:25:11.700" end="00:25:14.400" region="speaker">INTERPRETATIONS.<br/>36 ALGORITHMS FROM FORECASTING</p>
+         <p begin="00:25:14.400" end="00:25:17.667" region="speaker">SYSTEMS WERE LOOKED AT.<br/>NINE TEST CASES WERE RUN AGAINST</p>
+         <p begin="00:25:17.667" end="00:25:20.266" region="speaker">THOSE.<br/>AND THE RESULTS SHOWED THAT 19</p>
+         <p begin="00:25:20.266" end="00:25:25.600" region="speaker">OF THOSE 36 SYSTEMS OR 53%<br/>FORECAST THE NEXT DOSE FIVE DAYS</p>
+         <p begin="00:25:25.600" end="00:25:32.200" region="speaker">OR GREATER THAN THE MINIMUM AGE.<br/>SO ONE OBVIOUSLY, THERE WAS SOME</p>
+         <p begin="00:25:32.200" end="00:25:33.600" region="speaker">VARIABILITY.<br/>AND, OF COURSE, THE REASON FOR</p>
+         <p begin="00:25:33.600" end="00:25:38.800" region="speaker">THAT IS, AS WE ALL KNOW, THE<br/>IMMUNIZATION SCHEDULE IS</p>
+         <p begin="00:25:38.800" end="00:25:40.633" region="speaker">COMPLEX.<br/>THE SCHEDULE CHANGES FREQUENTLY.</p>
+         <p begin="00:25:40.633" end="00:25:44.633" region="speaker">AND AS I SAID BEFORE, THESE<br/>COMPUTER SYSTEMS ARE</p>
+         <p begin="00:25:44.633" end="00:25:46.367" region="speaker">DECENTRALIZED.<br/>THEY&apos;RE NOT SHARING ANY SORT OF</p>
+         <p begin="00:25:46.367" end="00:25:49.467" region="speaker">COMMON TECHNOLOGY OR LOGIC<br/>FRAMEWORK.</p>
+         <p begin="00:25:49.467" end="00:25:54.967" region="speaker">SO EVEN IF A SYSTEM IS<br/>INTERPRETING THE RECOMMENDATIONS</p>
+         <p begin="00:25:54.967" end="00:25:58.767" region="speaker">CORRECTLY, IT CAN OFTEN BE VERY<br/>SPECIFIC TO JUST THAT GIVEN</p>
+         <p begin="00:25:58.767" end="00:26:00.400" region="speaker">APPLICATION.<br/>AND SO THERE&apos;S NO SHARING OF</p>
+         <p begin="00:26:00.400" end="00:26:03.066" region="speaker">THAT INFORMATION.<br/>SO IF ONE SYSTEM IS DOING IT</p>
+         <p begin="00:26:03.066" end="00:26:07.533" region="speaker">CORRECTLY, IT DOESN&apos;T MEAN ANY<br/>OF THE OTHER SYSTEMS ARE.</p>
+         <p begin="00:26:07.533" end="00:26:12.100" region="speaker">SO, OF COURSE, THERE&apos;S DISPARITY<br/>AS A RESULT OF THAT.</p>
+         <p begin="00:26:12.100" end="00:26:16.433" region="speaker">AS I SAID BEFORE, THE LOGIC THAT<br/>IS CREATED FOR THE SYSTEMS IS</p>
+         <p begin="00:26:16.433" end="00:26:20.633" region="speaker">REALLY BASED ON HUMAN OR HUMANS<br/>LOOKING AT THE SCHEDULE AND</p>
+         <p begin="00:26:20.633" end="00:26:24.533" region="speaker">TRYING TO INTERPRET IT AND MAKE<br/>IT INTO CODE.</p>
+         <p begin="00:26:24.533" end="00:26:30.333" region="speaker">ALSO, THERE&apos;S REALLY NO<br/>CONSENSUS ON HOW TO REPRESENT</p>
+         <p begin="00:26:30.333" end="00:26:32.834" region="speaker">THESE LOGIC FOR COMPUTER<br/>SYSTEMS.</p>
+         <p begin="00:26:32.834" end="00:26:35.133" region="speaker">AND MANY OF THE STANDARDS THAT<br/>ARE BEING USED ARE VERY</p>
+         <p begin="00:26:35.133" end="00:26:41.834" region="speaker">PROPRIETARY.<br/>SO AS A RESULT, WE STARTED THIS</p>
+         <p begin="00:26:41.834" end="00:26:45.266" region="speaker">PROJECT.<br/>AND THE CLINICAL DECISIONS FOR</p>
+         <p begin="00:26:45.266" end="00:26:48.300" region="speaker">IMMUNIZATION PROJECT WAS MEANT<br/>TO BRIDGE THAT GAP BETWEEN THE</p>
+         <p begin="00:26:48.300" end="00:26:51.300" region="speaker">ACIP RECOMMENDATIONS THAT ARE<br/>PUBLISHED IN SCIENTIFIC LANGUAGE</p>
+         <p begin="00:26:51.300" end="00:26:55.400" region="speaker">AND HUMAN READABLE AND THE I.T.<br/>WORLD OF COMPUTER SYSTEMS.</p>
+         <p begin="00:26:55.400" end="00:26:58.166" region="speaker">WHAT WE WANTED TO DO WAS CREATE<br/>SOMETHING THAT COULD BE USED BY</p>
+         <p begin="00:26:58.166" end="00:27:03.834" region="speaker">ALL OF THESE SYSTEMS.<br/>WE RECOGNIZE THERE IS</p>
+         <p begin="00:27:03.834" end="00:27:07.300" region="speaker">VARIABILITY IN TOOLS BEING USED,<br/>CODES BEING USED BY THESE SMGS.</p>
+         <p begin="00:27:07.300" end="00:27:10.467" region="speaker">SO WE DIDN&apos;T WANT TO CREATE A<br/>TOOL.</p>
+         <p begin="00:27:10.467" end="00:27:16.367" region="speaker">WE ALSO DIDN&apos;T WANT TO CREATE<br/>ANYTHING THAT WAS PROPRIETARY.</p>
+         <p begin="00:27:16.367" end="00:27:19.100" region="speaker">SO WHAT THIS IS JUST A WAY FOR<br/>ANY SOFTWARE SYSTEM TO BE ABLE</p>
+         <p begin="00:27:19.100" end="00:27:23.700" region="speaker">TO TAKE THE LOGIC AND MOVE IT<br/>INTO THEIR SYSTEM.</p>
+         <p begin="00:27:23.700" end="00:27:27.333" region="speaker">SO HOPEFULLY THAT WOULD PROMOTE<br/>CONSISTENT INTERPRETATION OF</p>
+         <p begin="00:27:27.333" end="00:27:30.533" region="speaker">ACIP RECOMMENDATIONS ACROSS<br/>THESE COMPUTER SYSTEMS.</p>
+         <p begin="00:27:30.533" end="00:27:34.300" region="speaker">AND, OF COURSE, THE ULTIMATE<br/>GOAL IS TO ENSURE THAT A</p>
+         <p begin="00:27:34.300" end="00:27:36.500" region="speaker">PATIENT&apos;S IMMUNIZATION STATUS IS<br/>CURRENT, ACCURATE AND</p>
+         <p begin="00:27:36.500" end="00:27:42.567" region="speaker">CONSISTENT.<br/>SO AS I SAID BEFORE, THE</p>
+         <p begin="00:27:42.567" end="00:27:45.300" region="speaker">PROBLEMS WERE REALLY VARENCE,<br/>COMPLEXITY AND DISPARITY.</p>
+         <p begin="00:27:45.300" end="00:27:51.166" region="speaker">AND SO OUR GOALS WERE TO ADDRESS<br/>THE VARIANCE, TO DOCUMENT THE</p>
+         <p begin="00:27:51.166" end="00:27:54.700" region="speaker">LOGIC FOR APPLYING THE RULES SO<br/>THAT THE COMPUTER SYSTEMS WOULD</p>
+         <p begin="00:27:54.700" end="00:27:59.333" region="speaker">HAVE CONSISTENT INTERPRETATIONS.<br/>WE ALSO WANTED TO MAKE SURE THAT</p>
+         <p begin="00:27:59.333" end="00:28:03.800" region="speaker">WHEN THERE ARE CHANGES TO THE<br/>SCHEDULE, THAT THOSE CAN BE</p>
+         <p begin="00:28:03.800" end="00:28:06.734" region="speaker">QUICKLY INCORPORATED INTO THE<br/>COMPUTER SYSTEMS.</p>
+         <p begin="00:28:06.734" end="00:28:09.500" region="speaker">AND ALSO JUST MAKE SURE THAT WE<br/>CATALOG THE ACIP RULES</p>
+         <p begin="00:28:09.500" end="00:28:17.400" region="speaker">CONSISTENTLY.<br/>SO JUST TO CLARIFY, OBVIOUSLY,</p>
+         <p begin="00:28:17.400" end="00:28:20.333" region="speaker">THESE ARE NOT NEW VACCINE<br/>RECOMMENDATIONS.</p>
+         <p begin="00:28:20.333" end="00:28:25.500" region="speaker">WHAT WE REALLY WANTED TO DO WAS<br/>CATALOG THE EXISTING ACIP</p>
+         <p begin="00:28:25.500" end="00:28:27.100" region="speaker">RECOMMENDATIONS.<br/>THE FIRST PART OF THIS PROJECT</p>
+         <p begin="00:28:27.100" end="00:28:30.066" region="speaker">WE JUST LOOKED AT HEALTHY<br/>CHILDREN FROM BIRTH THROUGH 18</p>
+         <p begin="00:28:30.066" end="00:28:31.100" region="speaker">YEARS.<br/>JUST TO LIMIT THE SCOPE BECAUSE</p>
+         <p begin="00:28:31.100" end="00:28:38.133" region="speaker">OF TIME.<br/>THIS IS NOT A SOFTWARE</p>
+         <p begin="00:28:38.133" end="00:28:39.700" region="speaker">APPLICATION, SO IT&apos;S NOTICE<br/>SOMETHING YOU CAN DOWNLOAD AND</p>
+         <p begin="00:28:39.700" end="00:28:43.433" region="speaker">GET A RECOMMENDATION OR AN<br/>EVALUATION OUT OF.</p>
+         <p begin="00:28:43.433" end="00:28:46.533" region="speaker">IT&apos;S JUST THE LOGIC TO BE USED<br/>WITHIN COMPUTER SYSTEMS TO</p>
+         <p begin="00:28:46.533" end="00:28:50.467" region="speaker">CREATE CONSISTENT LOGIC WITHIN<br/>THEM.</p>
+         <p begin="00:28:50.467" end="00:28:54.400" region="speaker">IT&apos;S LT NOS A REPLACEMENT FOR<br/>COMPUTER SYSTEMS.</p>
+         <p begin="00:28:54.400" end="00:28:58.100" region="speaker">WE RECOGNIZE THERE&apos;S SOME VERY<br/>MATURE SYSTEMS OUT THERE WITHIN</p>
+         <p begin="00:28:58.100" end="00:29:01.834" region="speaker">THE IIS AND HE COMMUNITIES THAT<br/>ARE DOING VERY WELL AND WE DON&apos;T</p>
+         <p begin="00:29:01.834" end="00:29:07.300" region="speaker">WANT OR THEY DON&apos;T WANT TO<br/>REPLACE THEIR SYSTEMS.</p>
+         <p begin="00:29:07.300" end="00:29:12.333" region="speaker">SO REALLY THIS WAS MEANT TO BE<br/>CLARIFICATION AND VALIDATION.</p>
+         <p begin="00:29:12.333" end="00:29:15.133" region="speaker">BUT IF SOMEBODY WANTED TO CREATE<br/>A NEW SYSTEM BASED ON THESE</p>
+         <p begin="00:29:15.133" end="00:29:23.533" region="speaker">RULES, OBVIOUSLY, THEY COULD.<br/>SO THIS IS A LITTLE BIT OF A</p>
+         <p begin="00:29:23.533" end="00:29:24.667" region="speaker">GRAPHICAL RECOMMENDATION BEFORE<br/>AND AFTER.</p>
+         <p begin="00:29:24.667" end="00:29:31.266" region="speaker">SO ACIP RECOMMENDATION RES MADE<br/>AND EIPG, ANDREW&apos;S GROUP MAKES</p>
+         <p begin="00:29:31.266" end="00:29:35.266" region="speaker">CLARIFICATIONS AND THEN FOR THE<br/>INFORMATION ON THE RIGHT, WHAT</p>
+         <p begin="00:29:35.266" end="00:29:38.266" region="speaker">WAS HAPPENING IS EACH SYSTEM WAS<br/>LOOKING AT THOSE</p>
+         <p begin="00:29:38.266" end="00:29:43.266" region="speaker">RECOMMENDATIONS, GETTING<br/>CLARIFICATION, MANUALLY</p>
+         <p begin="00:29:43.266" end="00:29:45.533" region="speaker">INTERPRETING AND CODING AND<br/>SENDING OUT THEIR AUTOMATED</p>
+         <p begin="00:29:45.533" end="00:29:52.567" region="speaker">RESPONSE AND THEY WEREN&apos;T<br/>MATCHING UP.</p>
+         <p begin="00:29:52.567" end="00:29:57.333" region="speaker">SO WHAT THIS PROJECT HOPES TO DO<br/>IS TO TAKE THOSE ICIP</p>
+         <p begin="00:29:57.333" end="00:30:01.433" region="speaker">RECOMMENDATIONS, COME UP WITH<br/>ONE LOGIC SPECIFICATION THAT</p>
+         <p begin="00:30:01.433" end="00:30:03.767" region="speaker">EVERYONE CAN CODE OFF OF AND<br/>HAVE ONE CONSISTENT</p>
+         <p begin="00:30:03.767" end="00:30:14.266" region="speaker">INTERPRETATION.<br/>THE OUTCOME PROVIDES EVALUATION</p>
+         <p begin="00:30:14.266" end="00:30:17.567" region="speaker">AND FORECASTING, KEEPS THOSE<br/>RECOMMENDATIONS UP TO DATE AND</p>
+         <p begin="00:30:17.567" end="00:30:21.200" region="speaker">CONSISTENT, AND IT ALLOWS FOR<br/>BROAD USE OF A VARIETY OF</p>
+         <p begin="00:30:21.200" end="00:30:23.033" region="speaker">TECHNOLOGIES.<br/>SO BASICALLY ALL THOSE GOALS</p>
+         <p begin="00:30:23.033" end="00:30:33.333" region="speaker">THAT WE TALKED ABOUT IN THE<br/>PREVIOUS SLIDES.</p>
+         <p begin="00:30:33.333" end="00:30:37.133" region="speaker">THE LOGIC SPECIFICATION WAS<br/>MRIKD AT THE END OF THE OCTOBER.</p>
+         <p begin="00:30:37.133" end="00:30:40.200" region="speaker">EARLIER THIS YEAR, WE DID AN<br/>INFORMAL EVALUATION FEEDBACK</p>
+         <p begin="00:30:40.200" end="00:30:43.433" region="speaker">JUST TO KIND OF SEE THE PULSE OF<br/>THE COMMUNITY.</p>
+         <p begin="00:30:43.433" end="00:30:52.600" region="speaker">THE PRELIMINARY RESULTS SHOWED<br/>THAT OF THE 42 RESPONDENTS,</p>
+         <p begin="00:30:52.600" end="00:30:54.333" region="speaker">82%.ER FOUND TO HAVE A POSITIVE<br/>IMPACT.</p>
+         <p begin="00:30:54.333" end="00:30:57.266" region="speaker">OF THE PEOPLE USING THE<br/>RESOURCES, 94% SAID THEY WOULD</p>
+         <p begin="00:30:57.266" end="00:31:01.266" region="speaker">USE LOGIC SPECIFICATION AND 100%<br/>SAID THEY WOULD USE THE</p>
+         <p begin="00:31:01.266" end="00:31:06.734" region="speaker">SUPPORTING DATA TO MODIFY THEIR<br/>SYSTEMS OR SEEK CLARIFICATION.</p>
+         <p begin="00:31:06.734" end="00:31:13.100" region="speaker">SO IT&apos;S BASICALLY BEING USED THE<br/>WAY WE HOPED THEY WOULD USE IT.</p>
+         <p begin="00:31:13.100" end="00:31:15.066" region="speaker">THEY WOULD USE THE RESOURCES IF<br/>THEY WERE DESIGNING THEIR</p>
+         <p begin="00:31:15.066" end="00:31:22.200" region="speaker">SYSTEMS.<br/>SO NEXT STEP, WE HAVE RESOURCES</p>
+         <p begin="00:31:22.200" end="00:31:25.667" region="speaker">IN PLACE TO MAINTAIN THE LOGIC.<br/>SO WHEN THERE ARE CHANGES OR</p>
+         <p begin="00:31:25.667" end="00:31:31.667" region="speaker">CLARIFICATIONS, WE CAN UPDATE<br/>THE RESOURCES.</p>
+         <p begin="00:31:31.667" end="00:31:35.567" region="speaker">WE JUST GOT FUNDING TO DO THE<br/>ADULT VACCINES, SO WE WILL BE</p>
+         <p begin="00:31:35.567" end="00:31:38.066" region="speaker">DOING THE SAME LOGIC FOR THE<br/>ADULT SCHEDULE.</p>
+         <p begin="00:31:38.066" end="00:31:41.533" region="speaker">WE&apos;RE ALSO GOING TO BE TACKLING<br/>UNDERLYING CONDITIONS AS FAR AS</p>
+         <p begin="00:31:41.533" end="00:31:44.066" region="speaker">THAT PROJECT.<br/>IT&apos;S SOMETHING THAT WE HAD</p>
+         <p begin="00:31:44.066" end="00:31:55.000" region="speaker">TABLED DURING THE INITIAL JUST<br/>BECAUSE OF TIME AND RESOURCES.</p>
+         <p begin="00:31:55.000" end="00:31:57.967" region="speaker">WE RECOGNIZE THERE&apos;S A NEED TO<br/>HAVE CONSISTENT UNDERLYING CODES</p>
+         <p begin="00:31:57.967" end="00:32:00.767" region="speaker">FOR THE CONDITIONS.<br/>IT IMPACTS THE CHILDHOOD</p>
+         <p begin="00:32:00.767" end="00:32:04.433" region="speaker">SCHEDULE AS WELL AS THE ADULTS.<br/>I SAID THAT WE HAD DO</p>
+         <p begin="00:32:04.433" end="00:32:07.567" region="speaker">INFORMAL EVALUATION.<br/>WE WANT TO PUT IN PLACE A MORE</p>
+         <p begin="00:32:07.567" end="00:32:15.633" region="speaker">FORMAL EVALUATION PLAN TO REALLY<br/>DETERMINE IMPACT AND UPTAKE.</p>
+         <p begin="00:32:15.633" end="00:32:22.600" region="speaker">SO JUST TO TAKE ON POINTS, SO WE<br/>DESIGNED THE RESOURCES TO WORK</p>
+         <p begin="00:32:22.600" end="00:32:25.600" region="speaker">WITH A VARIETY OF COMPUTER<br/>SYSTEMS.</p>
+         <p begin="00:32:25.600" end="00:32:28.300" region="speaker">WE DIDN&apos;T WANT TO CREATE A TOOL<br/>OF ANY SORT.</p>
+         <p begin="00:32:28.300" end="00:32:31.300" region="speaker">WE WANTED IT TO BE USED WITH ALL<br/>THE SYSTEMS THAT WERE OUT THERE.</p>
+         <p begin="00:32:31.300" end="00:32:35.200" region="speaker">AND PROVIDING CLARITY AND<br/>CONSISTENCY SO THOSE ACIP</p>
+         <p begin="00:32:35.200" end="00:32:38.767" region="speaker">RECOMMENDATIONS COMING OUT WITH<br/>COMPUTER SYSTEMS AND RERECOGNIZE</p>
+         <p begin="00:32:38.767" end="00:32:41.166" region="speaker">IT NEEDS TO BE ADJUSTED IN<br/>PARALLEL WITH ANY SORT OF</p>
+         <p begin="00:32:41.166" end="00:32:49.300" region="speaker">CHANGES OR CLARIFICATIONS THAT<br/>OCCUR FROM THE ACIP.</p>
+         <p begin="00:32:49.300" end="00:32:54.300" region="speaker">THAT&apos;S IT.<br/>THE PAMPHLET, LIKE I SAID, HAS A</p>
+         <p begin="00:32:54.300" end="00:32:57.133" region="speaker">LOT MORE INFORMATION OUTSIDE THE<br/>WEBSITE FOR ALL THE RESOURCES</p>
+         <p begin="00:32:57.133" end="00:33:00.166" region="speaker">AND I THINK NOW WE&apos;LL JUST BE<br/>OPENING UP FOR QUESTIONS FOR</p>
+         <p begin="00:33:00.166" end="00:33:03.400" region="speaker">ME .ANDREW.<br/>&gt;&gt; AND DR. DUCHIN.</p>
+         <p begin="00:33:03.400" end="00:33:05.767" region="speaker">&gt;&gt; THANK YOU FOR THAT.<br/>BEFORE WE GO TO QUESTIONS, CAN</p>
+         <p begin="00:33:05.767" end="00:33:08.567" region="speaker">YOU BRING UP MY LAST SLIDE,<br/>PLEASE.</p>
+         <p begin="00:33:08.567" end="00:33:12.100" region="speaker">IN MY HASTE TO GET ON TO THE<br/>MEAT OF THE PRESENTATION, I</p>
+         <p begin="00:33:12.100" end="00:33:15.033" region="speaker">NEGLECTED TO ACKNOWLEDGE THE<br/>ONGOING CONTRIBUTIONS OF OUR</p>
+         <p begin="00:33:15.033" end="00:33:17.367" region="speaker">WORK GROUP MEMBERS.<br/>I WANT YOU TO BE ABLE TO SEE THE</p>
+         <p begin="00:33:17.367" end="00:33:21.633" region="speaker">WORK GROUP MEMBERS AND I WANT TO<br/>EXPRESS MY APPRECIATION FOR</p>
+         <p begin="00:33:21.633" end="00:33:24.467" region="speaker">THEIR ONGOING WORK ON THIS.<br/>AND I ALSO WANTED TO ESPECIALLY</p>
+         <p begin="00:33:24.467" end="00:33:31.700" region="speaker">CALL OUT ANDREW&apos;S COMPETENCE IN<br/>LEADING US THROUGH A PROGRAM OF</p>
+         <p begin="00:33:31.700" end="00:33:36.367" region="speaker">DIVERSE ISSUES RELATED TO THE<br/>SEEMINGLY NEVER ENDING WORK OF</p>
+         <p begin="00:33:36.367" end="00:33:37.433" region="speaker">UPDATING THE GENERAL<br/>RECOMMENDATIONS.</p>
+         <p begin="00:33:37.433" end="00:33:45.300" region="speaker">SO THANK YOU, ANDREW.<br/>&gt;&gt; DR. HERRMAN.</p>
+         <p begin="00:33:45.300" end="00:33:47.600" region="speaker">&gt;&gt; I LOVE THE WORK YOU&apos;RE DOING<br/>ON THE COMPUTER SYSTEMS.</p>
+         <p begin="00:33:47.600" end="00:33:52.133" region="speaker">I&apos;LL JUST SAY THAT.<br/>BUT MY MAIN COMMENT WAS ABOUT</p>
+         <p begin="00:33:52.133" end="00:33:54.600" region="speaker">THE GENERAL RECS.<br/>I&apos;M WONDERING IF UNDER THE</p>
+         <p begin="00:33:54.600" end="00:33:57.000" region="speaker">VACCINE PREPARATION SECTION, YOU<br/>MIGHT WANT TO ADD SOMETHING</p>
+         <p begin="00:33:57.000" end="00:34:00.500" region="speaker">ABOUT PERTUSSIS EMA<br/>CONTAMINATION ISSUE AND, YOU</p>
+         <p begin="00:34:00.500" end="00:34:04.533" region="speaker">KNOW, PREPARING PERTUSSIS<br/>CONTAINING VACCINES SEPARATELY</p>
+         <p begin="00:34:04.533" end="00:34:08.667" region="speaker">FROM WHERE YOU MIGHT BE DOING<br/>SWABS OF PATIENTS AND GETTING</p>
+         <p begin="00:34:08.667" end="00:34:14.567" region="speaker">COM CONTAMINATED PCRs AND SO ON.<br/>&gt;&gt; WE HAD AN OPPORTUNITY TO KIND</p>
+         <p begin="00:34:14.567" end="00:34:18.834" region="speaker">OF FILL IN THAT INFORMATION,<br/>WHICH IS PART OF THE INJECTION</p>
+         <p begin="00:34:18.834" end="00:34:24.367" region="speaker">SAFETY OFFICE WITH SOME SPECIFIC<br/>EXAMPLES THAT CAN HELP</p>
+         <p begin="00:34:24.367" end="00:34:27.200" region="speaker">STRENGTHEN THIS.<br/>SO I THINK WE CAN LOOK INTO</p>
+         <p begin="00:34:27.200" end="00:34:33.200" region="speaker">GIVING SOME CONCRETE EXAMPLES TO<br/>HELP SUPPORT THAT POLICY.</p>
+         <p begin="00:34:33.200" end="00:34:38.533" region="speaker">I&apos;M NOT REALLY VERY FAMILIAR, I<br/>WILL SAY RIGHT NOW, WITH THAT</p>
+         <p begin="00:34:38.533" end="00:34:41.800" region="speaker">PARTICULAR ISSUE.<br/>&gt;&gt; THE PERTUSSIS TEAM HAS NICE</p>
+         <p begin="00:34:41.800" end="00:34:50.133" region="speaker">GUIDANCE AND IT&apos;S ON THE WEB.<br/>&gt;&gt; DR. KEMP.</p>
+         <p begin="00:34:50.133" end="00:34:58.033" region="speaker">&gt;&gt; OKAY, DR. T EMT.<br/>I HAVE ONE COMMENT AND SEVERAL</p>
+         <p begin="00:34:58.033" end="00:35:01.834" region="speaker">QUESTIONS ABOUT THE DATA ISSUES.<br/>ONE COMMENT ABOUT THE RECS.</p>
+         <p begin="00:35:01.834" end="00:35:06.667" region="speaker">I THINK THE PHRASE INCLUSION OF<br/>ADULTS INTO IIS ALSO WOULD BE</p>
+         <p begin="00:35:06.667" end="00:35:08.800" region="speaker">WORTHWHILE.<br/>I THINK THAT SHOULD BE A LOT</p>
+         <p begin="00:35:08.800" end="00:35:10.633" region="speaker">STRONGER.<br/>I THINK THIS SHOULD BE STRONGLY</p>
+         <p begin="00:35:10.633" end="00:35:14.300" region="speaker">RECOMMENDING THAT ADULTS BE PART<br/>OF IIS.</p>
+         <p begin="00:35:14.300" end="00:35:18.667" region="speaker">THERE&apos;S SO MUCH EVIDENCE ABOUT<br/>THE EFFECTIVENESS OF IIS BASED</p>
+         <p begin="00:35:18.667" end="00:35:22.300" region="speaker">TRACKING AND RECALL THAT COULD<br/>BE APPLIED IN ADULTS -- IN THE</p>
+         <p begin="00:35:22.300" end="00:35:23.367" region="speaker">ADULT SCENE.<br/>.I THINK THIS SHOULD BE MUCH</p>
+         <p begin="00:35:23.367" end="00:35:30.834" region="speaker">STRONGER.<br/>MY QUESTIONS ABOUT THE DATA</p>
+         <p begin="00:35:30.834" end="00:35:33.433" region="speaker">SYSTEMS ARE, OF COURSE, THE<br/>DEVIL IS IN THE DETAILS.</p>
+         <p begin="00:35:33.433" end="00:35:37.333" region="speaker">WE&apos;VE BEEN WORKING A LOT WITH<br/>OUR STRAIT STATE REGISTRY, DOING</p>
+         <p begin="00:35:37.333" end="00:35:39.266" region="speaker">A LOT OF CENTRALIZED REMINDER<br/>RECALL.</p>
+         <p begin="00:35:39.266" end="00:35:43.800" region="speaker">AND BECAUSE OF THAT PROCESS, AND<br/>ONLY BECAUSE OF OUR RESEARCH, WE</p>
+         <p begin="00:35:43.800" end="00:35:46.633" region="speaker">BECAME AWARE THAT DIFFERENT<br/>REPORTS FROM THE SAME SYSTEM</p>
+         <p begin="00:35:46.633" end="00:35:51.600" region="speaker">WERE RECOMMENDING DIFFERENT<br/>CHILDREN.</p>
+         <p begin="00:35:51.600" end="00:35:54.300" region="speaker">PART OF THAT HAD TO DO WITH<br/>RAPIDLY CHANGING CODES.</p>
+         <p begin="00:35:54.300" end="00:36:03.300" region="speaker">I MEAN, PCV-7 TO PCV-13.<br/>.ALL OF THAT REQUIRED CONSTANT</p>
+         <p begin="00:36:03.300" end="00:36:13.734" region="speaker">UPDATING.<br/>SO IS YOUR PROGRAM CAP DURING</p>
+         <p begin="00:36:13.734" end="00:36:17.233" region="speaker">THAT TYPE OF DATA, ABOUT<br/>CHANGING CODES FOR VACCINES,</p>
+         <p begin="00:36:17.233" end="00:36:19.400" region="speaker">NUMBER ONE.<br/>AND I GUESS MY OTHER QUESTION</p>
+         <p begin="00:36:19.400" end="00:36:24.767" region="speaker">IS, HOW CAN CONSCIOUSLY LOOKING<br/>AT THESE REPORTS BE ENCOURAGED</p>
+         <p begin="00:36:24.767" end="00:36:28.367" region="speaker">BY CDC?<br/>FOR EXAMPLE, WHAT CAN BE THE</p>
+         <p begin="00:36:28.367" end="00:36:32.567" region="speaker">CARROT FOR THE IIS, STATE IISs<br/>TO BE LOOKING CRITICALLY AT</p>
+         <p begin="00:36:32.567" end="00:36:34.767" region="speaker">THESE REPORTS?<br/>BECAUSE THEY&apos;RE ALL UNDERFUNDED</p>
+         <p begin="00:36:34.767" end="00:36:38.166" region="speaker">AND THEY&apos;RE ALL UNDER THE GUN<br/>AND WORKING WAY TOO HARD?</p>
+         <p begin="00:36:38.166" end="00:36:40.300" region="speaker">THANKS.<br/>&gt;&gt; AS FAR AS THE CODES GO, IT&apos;S</p>
+         <p begin="00:36:40.300" end="00:36:44.467" region="speaker">NOT DIRECTLY RELATED TO THE CDS<br/>PROJECT, BUT WE DO KEEP UPDATED</p>
+         <p begin="00:36:44.467" end="00:36:50.567" region="speaker">CODE SETS ON OUR BRANCH WEBSITE.<br/>SO THAT IS DONE.</p>
+         <p begin="00:36:50.567" end="00:36:54.600" region="speaker">AND IT&apos;S AVAILABLE TO THE<br/>COMMUNITY.</p>
+         <p begin="00:36:54.600" end="00:37:01.200" region="speaker">AS FAR AS THE CARE AND GETTING<br/>THE INFORMATION OUT THERE, WE</p>
+         <p begin="00:37:01.200" end="00:37:04.333" region="speaker">HAVE BEEN WORKING CLOSELY TO<br/>MAKE SURE ANY TIME WE MAKE ANY</p>
+         <p begin="00:37:04.333" end="00:37:07.166" region="speaker">SORT OF UPDATES, THAT GETS<br/>DISTRIBUTED OUT TO THE</p>
+         <p begin="00:37:07.166" end="00:37:09.066" region="speaker">COMMUNITY.<br/>WE ALSO HAVE A PLACE FOR ANYONE</p>
+         <p begin="00:37:09.066" end="00:37:13.166" region="speaker">WHO IS INTERESTED TO SIGN UP FOR<br/>UPDATES WHENEVER WE MAKE CHANGES</p>
+         <p begin="00:37:13.166" end="00:37:19.767" region="speaker">TO THE RESOURCES.<br/>SO THAT WILL CAPTURE BECAUSE WE</p>
+         <p begin="00:37:19.767" end="00:37:23.166" region="speaker">MAINLY ARE IN CONTACT WITH THE<br/>IIS COMMUNITY BUT THAT ALLOWSES</p>
+         <p begin="00:37:23.166" end="00:37:27.667" region="speaker">TO CAPTURE THE AHR WHO MAY BE<br/>INTERESTED IN THE.</p>
+         <p begin="00:37:27.667" end="00:37:30.667" region="speaker">AS FAR AS THE CARROT, I THINK<br/>IT&apos;S JUST THAT IT IS VERY TIME</p>
+         <p begin="00:37:30.667" end="00:37:34.300" region="speaker">CONSUMING AND COMPLEX.<br/>SO I THINK THE INCENTIVE REALLY</p>
+         <p begin="00:37:34.300" end="00:37:38.033" region="speaker">IS JUST THAT IT DOES -- IT TAKES<br/>THAT BURDEN OFF OF THE PEOPLE</p>
+         <p begin="00:37:38.033" end="00:37:40.333" region="speaker">WHO ARE WORKING WITHIN THE<br/>PROGRAM.</p>
+         <p begin="00:37:40.333" end="00:37:44.066" region="speaker">THIS IS NOW THERE FOR THEM TO GO<br/>TO AND IT SAVES THEM A LOT OF</p>
+         <p begin="00:37:44.066" end="00:37:46.266" region="speaker">TIME.<br/>SO I THINK JUST BY DEFAULT IT&apos;S</p>
+         <p begin="00:37:46.266" end="00:37:52.667" region="speaker">A CARROT BY EXISTING.<br/>AT LEAST I HOPE SO.</p>
+         <p begin="00:37:52.667" end="00:37:56.500" region="speaker">&gt;&gt; PATSY CINCHFIELD.</p>
+         <p begin="00:37:56.500" end="00:38:00.867" region="speaker">THE SECTION ON MULTI DOSE<br/>DIAL -- AND I APPRECIATE THAT</p>
+         <p begin="00:38:00.867" end="00:38:05.266" region="speaker">YOU GAVE A LITTLE BIT OF WIGGLE<br/>ROOM FOR MASS CLINICS SUCH AS</p>
+         <p begin="00:38:05.266" end="00:38:08.000" region="speaker">INFLUENZA VACCINE CLINICS.<br/>BUT I THINK WE STILL HAVE SOME</p>
+         <p begin="00:38:08.000" end="00:38:13.667" region="speaker">WORK TO DO ON THAT IN THAT IT&apos;S<br/>QUITE PRESCRIPTIVE, OVERLY</p>
+         <p begin="00:38:13.667" end="00:38:19.667" region="speaker">PRESCRIPTIVE IN SPEAKING ABOUT<br/>DRAWING UP ONLY 10 NUMBERS OF</p>
+         <p begin="00:38:19.667" end="00:38:21.934" region="speaker">VACCINES AT A TIME.<br/>THAT THE PERSON WHO DRAWS IT UP</p>
+         <p begin="00:38:21.934" end="00:38:24.367" region="speaker">HAS TO BE THE PERSON WHO GIVES<br/>IT.</p>
+         <p begin="00:38:24.367" end="00:38:31.400" region="speaker">IN AN EMERGENCY SITUATION, THAT<br/>JUST WON&apos;T BE FOLLOWED.</p>
+         <p begin="00:38:31.400" end="00:38:34.100" region="speaker">AND I KNOW -- I&apos;VE BEEN THROUGH<br/>THIS MORE THAN ONE TIME -- THAT</p>
+         <p begin="00:38:34.100" end="00:38:35.967" region="speaker">IT WON&apos;T BE FOLD.<br/>THE WAY I THINK THAT WE CAN</p>
+         <p begin="00:38:35.967" end="00:38:38.667" region="speaker">ADDRESS SOME OF THESE THINGS --<br/>BECAUSE I KNOW WE&apos;RE ALL NERVOUS</p>
+         <p begin="00:38:38.667" end="00:38:41.700" region="speaker">ABOUT MULTI DOSE TYLER VIALES<br/>AND PROBLEMS THAT COME FROM THAT</p>
+         <p begin="00:38:41.700" end="00:38:45.100" region="speaker">IS TALK ABOUT THE PRINCIPALS.<br/>SO MAKING SURE THAT WE ARE</p>
+         <p begin="00:38:45.100" end="00:38:49.333" region="speaker">FOLLOWING PRINCIPALS OF SAFE<br/>STORAGE AND HANDLING, FOLLOWING</p>
+         <p begin="00:38:49.333" end="00:38:53.934" region="speaker">PRINCIPALS OF INFECTION CONTROL<br/>OF MEDICATION, INTEGRITY AND</p>
+         <p begin="00:38:53.934" end="00:38:57.000" region="speaker">SAFE HANDLING AND THOSE KINDS OF<br/>THINGS.</p>
+         <p begin="00:38:57.000" end="00:39:01.300" region="speaker">BUT WE HAD, YOU KNOW, SIX KIDS<br/>DIE IN A TWO-WEEK PERIOD OF</p>
+         <p begin="00:39:01.300" end="00:39:05.300" region="speaker">INFLUENZA IN 2008 AND WERE<br/>OVERRUN BY PEOPLE WANTING</p>
+         <p begin="00:39:05.300" end="00:39:09.734" region="speaker">VACCINE IN JANUARY.<br/>AND SETTING UP A MASS FLU</p>
+         <p begin="00:39:09.734" end="00:39:15.400" region="speaker">VACCINE CLINIC, WE WERE ABLE TO<br/>VACCINATE 2,000 KIDS IN THREE</p>
+         <p begin="00:39:15.400" end="00:39:25.934" region="speaker">HOURS.<br/>BUT WE HAD THE PHARMACIST</p>
+         <p begin="00:39:25.934" end="00:39:29.166" region="speaker">BRINGING THE VACCINES IN IN<br/>BUCKETS AND WE WOULD NOT HAVE</p>
+         <p begin="00:39:29.166" end="00:39:34.200" region="speaker">BEEN ABLE TO MANAGE THE<br/>ONSLAUGHT OF PEOPLE IF WE NEED</p>
+         <p begin="00:39:34.200" end="00:39:37.934" region="speaker">TO LABEL THE INDIVIDUAL SYRINGE.<br/>I THINK WE NEED TO BE PRACTICAL</p>
+         <p begin="00:39:37.934" end="00:39:39.867" region="speaker">AND COME TO A MIDDLE POINT ON<br/>THAT ONE.</p>
+         <p begin="00:39:39.867" end="00:39:43.967" region="speaker">&gt;&gt; DEFINITELY GOOD ADVICE.<br/>THERE&apos;S GOING BE SOME WIGGLE</p>
+         <p begin="00:39:43.967" end="00:39:51.367" region="speaker">ROOM ON THE PART OF ANY<br/>RECOMMENDATION THAT COMES OUT.</p>
+         <p begin="00:39:51.367" end="00:39:55.367" region="speaker">WITH RESPECT TO TODAY&apos;S<br/>DISCUSSION, WE DID NOT WANT TO</p>
+         <p begin="00:39:55.367" end="00:39:58.834" region="speaker">BE STRONG AND WEAK.<br/>BUT I GUESS I CAN SEE THE POINT</p>
+         <p begin="00:39:58.834" end="00:40:03.066" region="speaker">OF F ERRING ON THE OTHER SIDE A<br/>LEAVING THINGS VAGUE ENOUGH SO</p>
+         <p begin="00:40:03.066" end="00:40:06.100" region="speaker">PIQUE PEOPLE CAN DO WHAT THEY<br/>NEED TO DO.</p>
+         <p begin="00:40:06.100" end="00:40:07.667" region="speaker">&gt;&gt; DR. LETT.<br/>&gt;&gt; GENTLEMEN.</p>
+         <p begin="00:40:07.667" end="00:40:12.066" region="speaker">I JUST WANTED TO -- I WAS GOING<br/>TO SAY MANY OF THE THINGS THAT</p>
+         <p begin="00:40:12.066" end="00:40:14.233" region="speaker">PATSY SAID.<br/>AND I WOULD REALLY ENCOURAGE YOU</p>
+         <p begin="00:40:14.233" end="00:40:18.066" region="speaker">TO THINK ABOUT THAT WIGGLE ROOM<br/>FOR LARGE CLINICS.</p>
+         <p begin="00:40:18.066" end="00:40:21.700" region="speaker">BUT I&apos;VE TALKED WITH ANDREW<br/>AMONG THE WORKING GROUP.</p>
+         <p begin="00:40:21.700" end="00:40:23.166" region="speaker">I THINK THERE ARE A NUMBER<br/>CONCERNED ABOUT THIS LANGUAGE</p>
+         <p begin="00:40:23.166" end="00:40:27.166" region="speaker">AROUND MULTI DOSE VIALS IN THE<br/>EXAM ROOM.</p>
+         <p begin="00:40:27.166" end="00:40:31.433" region="speaker">AND I THINK THAT, YOU KNOW, IT<br/>DOES HAVE PRESERVATIVES IN IT</p>
+         <p begin="00:40:31.433" end="00:40:36.834" region="speaker">AND I&apos;M ASSUMING THAT THEY&apos;RE<br/>TRYING TO DECREASE THE</p>
+         <p begin="00:40:36.834" end="00:40:40.867" region="speaker">POSSIBILITY OF NO TRANSMISSION<br/>AND MAYBE DRUG DIVERSION OR SOME</p>
+         <p begin="00:40:40.867" end="00:40:43.367" region="speaker">OTHER PROBLEMS.<br/>BUT I THINK THAT WE COULD RESULT</p>
+         <p begin="00:40:43.367" end="00:40:47.800" region="speaker">IN A LOT OF VACCINES BEING<br/>WASTED FOR THE -- YOU KNOW, FOR</p>
+         <p begin="00:40:47.800" end="00:40:50.867" region="speaker">THE INFLUENZA VACCINE, WHICH IS<br/>REALLY THE ONLY THING -- AND</p>
+         <p begin="00:40:50.867" end="00:40:53.867" region="speaker">MAYBE ONE OTHER VACCINE THAT<br/>COMES IN A MULTI DOSE VIAL GIVEN</p>
+         <p begin="00:40:53.867" end="00:40:57.133" region="speaker">TO CHILDREN.<br/>AND SO, YOU KNOW, I AM REALLY</p>
+         <p begin="00:40:57.133" end="00:41:02.000" region="speaker">CONCERNED ABOUT THAT LANGUAGE<br/>EMERGING AND EMERGING IN THE</p>
+         <p begin="00:41:02.000" end="00:41:07.166" region="speaker">BOOK.<br/>AND SO, REALLY, I WELCOME THE</p>
+         <p begin="00:41:07.166" end="00:41:10.400" region="speaker">OPPORTUNITY TO HAVE MORE<br/>DISCUSSION ABOUT THAT IN THE</p>
+         <p begin="00:41:10.400" end="00:41:14.000" region="speaker">WORK GROUP.<br/>&gt;&gt; DR. DUCHIN.</p>
+         <p begin="00:41:14.000" end="00:41:22.667" region="speaker">&gt;&gt; A QUICK FOLLOW-UP TO DR.<br/>KEMP&apos;S SUGGESTION.</p>
+         <p begin="00:41:22.667" end="00:41:27.700" region="speaker">IN THAT CONTEXT, BECAUSE WE HAVE<br/>MANY VACCINES BUT PERHAPS A VERY</p>
+         <p begin="00:41:27.700" end="00:41:30.700" region="speaker">COMPLICATED SITUATION WITH THE<br/>PNEUMOCOCCAL VACCINES, I WAS</p>
+         <p begin="00:41:30.700" end="00:41:34.000" region="speaker">WONDERING IF YOU WERE AWARE OF<br/>MY PROGRESS THAT&apos;S BEEN MADE</p>
+         <p begin="00:41:34.000" end="00:41:36.667" region="speaker">AROUND INFORMATION SYSTEM<br/>SUPPORT DECISION SUPPORT FOR</p>
+         <p begin="00:41:36.667" end="00:41:40.333" region="speaker">ADMINISTRATION OF PNEUMOCOCCAL<br/>VACCINE TO ADULTS WITH THE</p>
+         <p begin="00:41:40.333" end="00:41:44.967" region="speaker">VARIOUS VACCINE FORMULATIONS<br/>THAT ARE AVAILABLE, THE VARIOUS</p>
+         <p begin="00:41:44.967" end="00:41:47.600" region="speaker">PERMANENTATIONS OF RISK<br/>AVAILABLES AVAILABLE, SO ON AND</p>
+         <p begin="00:41:47.600" end="00:41:54.967" region="speaker">SO FORTH.<br/>&gt;&gt; THE DOCUMENT PROJECT</p>
+         <p begin="00:41:54.967" end="00:41:56.867" region="speaker">LITERALLY STARTED THE DAY OF<br/>SHUTDOWN.</p>
+         <p begin="00:41:56.867" end="00:41:59.800" region="speaker">WE HAVEN&apos;T TACKLED ANY OF THOSE<br/>ISSUES YET.</p>
+         <p begin="00:41:59.800" end="00:42:02.900" region="speaker">BUT WE&apos;LL BE DOING THE SAME SORT<br/>OF PROCESS WE DID FOR CHILDHOOD,</p>
+         <p begin="00:42:02.900" end="00:42:08.700" region="speaker">WHICH IS GATHERING NEEDS FROM<br/>ACROSS THE GAMUT.</p>
+         <p begin="00:42:08.700" end="00:42:13.934" region="speaker">AND SO WE&apos;LL BE GATHERING ALL<br/>SORTS OF SCENARIOS LIKE THAT AND</p>
+         <p begin="00:42:13.934" end="00:42:18.900" region="speaker">TACKLING THEM.<br/>SO NOT YET, BUT HOPEFULLY SOON.</p>
+         <p begin="00:42:18.900" end="00:42:22.100" region="speaker">&gt;&gt; DR. MOORE.<br/>&gt;&gt; THANK YOU.</p>
+         <p begin="00:42:22.100" end="00:42:26.300" region="speaker">KELLY MOORE WITH AMES.<br/>ON THE VACCINATION RECORDS,</p>
+         <p begin="00:42:26.300" end="00:42:33.200" region="speaker">GIVING THAT THE MEANINGFUL USE<br/>OF FUNDING GOES TO THE</p>
+         <p begin="00:42:33.200" end="00:42:36.300" region="speaker">PRACTITIONERS IMPLEMENTING<br/>PUBLIC HEALTH RECORDS, I WOULD</p>
+         <p begin="00:42:36.300" end="00:42:39.300" region="speaker">SUGGEST FLIPPING THE SENTENCE TO<br/>SEE ELECTRONIC HEALTH RECORD</p>
+         <p begin="00:42:39.300" end="00:42:43.734" region="speaker">TOOLS SHOULD MAINTAIN<br/>INTEROPERABILITY WITH THE IIS.</p>
+         <p begin="00:42:43.734" end="00:42:47.800" region="speaker">BECAUSE WE ARE READY TO RECEIVE<br/>THEIR INFORMATION IN OUR IISs,</p>
+         <p begin="00:42:47.800" end="00:42:52.767" region="speaker">AND IT&apos;S UP TO THE HEALTH RECORD<br/>TOOLS TO ACTUALLY WORK WITH US</p>
+         <p begin="00:42:52.767" end="00:42:58.934" region="speaker">TO MAKE THAT HAPPEN.<br/>AND WE ARE ALREADY A LIFELONG</p>
+         <p begin="00:42:58.934" end="00:43:02.867" region="speaker">REGISTRY AND DEFINITELY WANT ALL<br/>RECORDS FOR ALL AGES.</p>
+         <p begin="00:43:02.867" end="00:43:09.834" region="speaker">ALSO, I WANT TO UNDER SCOSCORE<br/>COMMENTS ABOUT THE MULE TIE DOSE</p>
+         <p begin="00:43:09.834" end="00:43:12.633" region="speaker">VIALS.<br/>I THINK A STATEMENT IF A MULTI</p>
+         <p begin="00:43:12.633" end="00:43:16.734" region="speaker">DOSE VIAL ENTERS THE IMMEDIATE<br/>PATIENT AREA, IT SHOULD BE</p>
+         <p begin="00:43:16.734" end="00:43:20.066" region="speaker">DISCARDED AFTER USE IS A BIT TOO<br/>PRESCRIPTIVE IN THAT -- AND</p>
+         <p begin="00:43:20.066" end="00:43:25.367" region="speaker">IMPRACTICAL, ESPECIALLY NOT JUST<br/>IN MASS CLINICS, BUT IN SMALL</p>
+         <p begin="00:43:25.367" end="00:43:27.900" region="speaker">CLINICS, IN SMALL HEALTH<br/>DEPARTMENTS IN WHICH YOU MAY</p>
+         <p begin="00:43:27.900" end="00:43:31.800" region="speaker">WANT HAVE A LOT OF ROOM IN WHICH<br/>TO OPERATE.</p>
+         <p begin="00:43:31.800" end="00:43:36.000" region="speaker">THANKS.<br/>&gt;&gt; VEO COSERTA FROM HRSA.</p>
+         <p begin="00:43:36.000" end="00:43:39.200" region="speaker">ON THE SLIDE THAT COVERS THE<br/>VACCINE INJURY COMPENSATION</p>
+         <p begin="00:43:39.200" end="00:43:42.333" region="speaker">PROGRAM, IT STATES THAT THE ACT<br/>APPLIES TO ANY VACCINE FOR WHICH</p>
+         <p begin="00:43:42.333" end="00:43:46.633" region="speaker">THERE IS ROUTINE RECOMMENDATION<br/>FOR CHILDHOOD VACCINATION.</p>
+         <p begin="00:43:46.633" end="00:43:53.300" region="speaker">WHETHER ADMINISTERED TO A CHILD<br/>OR ADULT OR EVEN IF MOST DOSES</p>
+         <p begin="00:43:53.300" end="00:43:57.767" region="speaker">OF THE VACCINE ARE ADMINISTERED<br/>TO ADULTS.</p>
+         <p begin="00:43:57.767" end="00:44:01.033" region="speaker">I SUGGEST YOU SAY SEASONAL<br/>INFLUENZA VACCINE BECAUSE THE</p>
+         <p begin="00:44:01.033" end="00:44:04.333" region="speaker">PROGRAM DOES NOT COVER PANDEMIC<br/>INFLUENZA VACCINE.</p>
+         <p begin="00:44:04.333" end="00:44:07.934" region="speaker">AND WE WOULDN&apos;T WANT TO CONFUSE.<br/>IN ADDITION, THAT&apos;S TECHNICALLY</p>
+         <p begin="00:44:07.934" end="00:44:13.133" region="speaker">NOT COMPLETE BECAUSE AN EXCISE<br/>TAX NEEDS TO BE IMPOSED BEFORE</p>
+         <p begin="00:44:13.133" end="00:44:16.834" region="speaker">IT&apos;S COVERED AND THE<br/>NEEDS TO FORMALLY ADD IT TO A</p>
+         <p begin="00:44:16.834" end="00:44:19.900" region="speaker">TABLE THROUGH THE NOTICE IN THE<br/>FEDERAL REGISTER.</p>
+         <p begin="00:44:19.900" end="00:44:23.367" region="speaker">SO THEY&apos;RE -- I MEAN, I GUESS<br/>IT&apos;S TRUE BUT IT&apos;S NOT</p>
+         <p begin="00:44:23.367" end="00:44:27.800" region="speaker">TECHNICALLY CORRECT.<br/>THE OTHER POINT IS WHEN YOU TALK</p>
+         <p begin="00:44:27.800" end="00:44:34.633" region="speaker">ABOUT INJECTING INTO THE DELT D<br/>DELTOID, WE&apos;VE HAD DOZENS OF</p>
+         <p begin="00:44:34.633" end="00:44:40.000" region="speaker">CASES IN THE COMPENSATION BURSI<br/>INJEX IS GIVEN TOO HIGH IN THE</p>
+         <p begin="00:44:40.000" end="00:44:42.033" region="speaker">DELTOID.<br/>SO IF THERE COULD BE ADDED SOME</p>
+         <p begin="00:44:42.033" end="00:44:45.266" region="speaker">LANGUAGE WHERE WE SAY TO AVOID<br/>THE UPPER DELTOID, I THINK THAT</p>
+         <p begin="00:44:45.266" end="00:44:48.166" region="speaker">WOULD BE HELPFUL.<br/>&gt;&gt; OKAY.</p>
+         <p begin="00:44:48.166" end="00:44:52.867" region="speaker">MAKE THAT CHANGE.<br/>&gt;&gt; DR. LEHERER.</p>
+         <p begin="00:44:52.867" end="00:44:56.100" region="speaker">&gt;&gt; WITH RESPECT TO THE OCSEA<br/>REGULATIONS, YOU SAY THESE</p>
+         <p begin="00:44:56.100" end="00:44:59.734" region="speaker">REQUIRE SAFETY ENGINEERS INJECT<br/>THIS DEVICES.</p>
+         <p begin="00:44:59.734" end="00:45:03.667" region="speaker">MY INTERPRETATION IS THAT THAT<br/>IS ACTUALLY NOT TRUE.</p>
+         <p begin="00:45:03.667" end="00:45:06.667" region="speaker">OSHA DOES NOT REQUIRE MROIRD TO<br/>INCLUDE SPECIFIC DEVICES, BUT IT</p>
+         <p begin="00:45:06.667" end="00:45:10.233" region="speaker">DOES REQUIRE THAT EMPLOYERS<br/>VAULT THE EFFECTIVENESS OF THE</p>
+         <p begin="00:45:10.233" end="00:45:15.166" region="speaker">EXISTING CONTROLS AND REVIEW THE<br/>FEASIBILITY OF INSTITUTING MORE</p>
+         <p begin="00:45:15.166" end="00:45:17.133" region="speaker">ADVANCED CONTROLS.<br/>SO MY UNDER</p>
+         <p begin="00:45:17.133" end="00:45:19.133" region="speaker">INTERPRETATION OVER MANY YEARS<br/>HAS BEEN THAT EMPLOYERS HAVE TO</p>
+         <p begin="00:45:19.133" end="00:45:21.700" region="speaker">LOOK AT IT EVERY YEAR AND<br/>EVALUATE IT.</p>
+         <p begin="00:45:21.700" end="00:45:28.000" region="speaker">YOU DON&apos;T ACTUALLY HAVE TO<br/>IMPLEMENT IT.</p>
+         <p begin="00:45:28.000" end="00:45:30.433" region="speaker">&gt;&gt; THAT&apos;S GOING TO BE AN ISSUE<br/>OF, YEAH, LOOKING AT THE</p>
+         <p begin="00:45:30.433" end="00:45:40.233" region="speaker">SPECIFIC URL AND SEEING WEIGHT<br/>SAYS AND IF I UNDERSTAND YOU</p>
+         <p begin="00:45:40.233" end="00:45:43.734" region="speaker">CORRECTLY, THE INTERPRETATION OF<br/>THE GENERAL RECS, WHAT THE LAW</p>
+         <p begin="00:45:43.734" end="00:45:46.734" region="speaker">STATES IS AN ERROR?<br/>&gt;&gt; MY UNDERSTANDING IS IT&apos;S</p>
+         <p begin="00:45:46.734" end="00:45:51.667" region="speaker">THE -- ON YOUR SLIDE 7, THE WEAK<br/>STATEMENT YOU HAD IS MORE</p>
+         <p begin="00:45:51.667" end="00:45:55.233" region="speaker">ACCURATE FROM THE WAY OCSEA&apos;S<br/>INTERPRETING THE LAW, THAT YOU</p>
+         <p begin="00:45:55.233" end="00:45:56.734" region="speaker">DO WANT ACTUALLY HAVE TO HAVE<br/>THAT.</p>
+         <p begin="00:45:56.734" end="00:46:00.333" region="speaker">AND SO IF YOU PUT THE STRONG<br/>STATEMENT IN THERE, THE FEDERAL</p>
+         <p begin="00:46:00.333" end="00:46:08.300" region="speaker">REGULATIONS REQUIRE, THAT&apos;S NOT<br/>WHAT OCSEA REQUIRES.</p>
+         <p begin="00:46:08.300" end="00:46:10.166" region="speaker">THAT&apos;S MY SENSE.<br/>&gt;&gt; WE&apos;LL DO THAT.</p>
+         <p begin="00:46:10.166" end="00:46:17.100" region="speaker">WE WENT TO THE WEBSITE, BUT WE<br/>CAN GO BACK AND VERIFY.</p>
+         <p begin="00:46:17.100" end="00:46:22.633" region="speaker">&gt;&gt; I FIRST WANT TO COMMEND CDC<br/>ON THE CDIS PROJECT.</p>
+         <p begin="00:46:22.633" end="00:46:26.233" region="speaker">IT&apos;S BEEN GREAT AND HAVE LOOKING<br/>FORWARD TO THE WORK ON THE ADULT</p>
+         <p begin="00:46:26.233" end="00:46:29.166" region="speaker">STUFF, ESPECIALLY AROUND<br/>PNEUMOCOCCAL VACCINE.</p>
+         <p begin="00:46:29.166" end="00:46:33.166" region="speaker">ON THE ISS ISSUE, KELLY, I KNOW<br/>STATES WORK REALLY HARD ON THIS,</p>
+         <p begin="00:46:33.166" end="00:46:36.300" region="speaker">BUT PROVIDERS ARE ALSO WORKING<br/>REALLY HARD ON THIS AND WE HAVE</p>
+         <p begin="00:46:36.300" end="00:46:39.433" region="speaker">SITUATIONS WITH STATES THAT ARE<br/>NOT ABLE TO RECEIVE OUR RECORDS.</p>
+         <p begin="00:46:39.433" end="00:46:46.834" region="speaker">AND SO I THINK THAT THAT IIS/VHS<br/>IS A PARTNERSHIP AND MAYBE THE</p>
+         <p begin="00:46:46.834" end="00:46:48.600" region="speaker">LANGUAGE COULD BE CHANGED<br/>REGARDING THAT.</p>
+         <p begin="00:46:48.600" end="00:46:51.066" region="speaker">AND WITH RESPECT TO DR. KEMP&apos;S<br/>QUESTIONS ABOUT THE CODES, WE&apos;VE</p>
+         <p begin="00:46:51.066" end="00:46:55.133" region="speaker">COME A LONG WAY ABOUT THAT<br/>PROCESS, BUT WE GET CAUGHT UP</p>
+         <p begin="00:46:55.133" end="00:47:04.734" region="speaker">WITH SOMETHING SUCH AS A ONE<br/>OFF.</p>
+         <p begin="00:47:04.734" end="00:47:09.266" region="speaker">THAT DOES CATCH US OFF GUARD.<br/>BUT WE HAVE COME A LONG WAY AND</p>
+         <p begin="00:47:09.266" end="00:47:12.300" region="speaker">CDC HAS BEEN RESPONSIVE WHEN THE<br/>SITUATION COMES UP.</p>
+         <p begin="00:47:12.300" end="00:47:14.133" region="speaker">CONTINUING TO WORK ON THAT WOULD<br/>BE GREAT.</p>
+         <p begin="00:47:14.133" end="00:47:19.100" region="speaker">&gt;&gt; ONE ADDITIONAL COMMENT HERE<br/>JUST IN TERMS OF THE COMMENTARY</p>
+         <p begin="00:47:19.100" end="00:47:22.200" region="speaker">ON UNDERLYING CONDITIONS AND<br/>DOCUMENTATION AND THE ELECTRONIC</p>
+         <p begin="00:47:22.200" end="00:47:26.000" region="speaker">CODE IS THIS IS A TWO-WAY<br/>STREET.</p>
+         <p begin="00:47:26.000" end="00:47:30.233" region="speaker">AND I THINK IT&apos;S INHERENT FOR<br/>THE WORK GROUPS TO REALLY THINK</p>
+         <p begin="00:47:30.233" end="00:47:34.967" region="speaker">CAREFULLY ABOUT NOT ONLY THE<br/>CONDITIONS, BUT GO TO THE</p>
+         <p begin="00:47:34.967" end="00:47:38.700" region="speaker">MANUALS AND PULL OUT THE CODE,<br/>SOME OF THE RANGE OF CODES THAT</p>
+         <p begin="00:47:38.700" end="00:47:42.166" region="speaker">CAN HELP EDUCATE THE<br/>PROGRAMMERS.</p>
+         <p begin="00:47:42.166" end="00:47:45.667" region="speaker">BECAUSE WE&apos;RE REALLY CLOSE TO<br/>THIS.</p>
+         <p begin="00:47:45.667" end="00:47:51.200" region="speaker">BUT WITHOUT HAVING THE -- AND<br/>IT&apos;S INPNEUMONIA RABL CODES OUT</p>
+         <p begin="00:47:51.200" end="00:47:54.033" region="speaker">THERE, BUT THEY&apos;RE PRETTY EASY<br/>TO DO THE LOGIC.</p>
+         <p begin="00:47:54.033" end="00:47:59.800" region="speaker">AND THIS ALSO APPLIES TO WE&apos;RE<br/>ABLE TO PUT MERCHANDISE.</p>
+         <p begin="00:47:59.800" end="00:48:05.900" region="speaker">WE CAN IDENTIFY WHO ARE ON<br/>CHRONIC COURTCO STEROIDS AT THIS</p>
+         <p begin="00:48:05.900" end="00:48:13.367" region="speaker">POINT IN TIME.<br/>THESE ARE FOR KIDS THAT WILL BE</p>
+         <p begin="00:48:13.367" end="00:48:14.934" region="speaker">IMPORTANT.<br/>OTHER QUESTIONS?</p>
+         <p begin="00:48:14.934" end="00:48:18.934" region="speaker">THANK YOU.<br/>&gt;&gt; BILL SHAFFNER.</p>
+         <p begin="00:48:18.934" end="00:48:22.100" region="speaker">I WONDER IF YOU ARE ADDRESSED IN<br/>THE RECOMMENDATIONS THE</p>
+         <p begin="00:48:22.100" end="00:48:27.700" region="speaker">INTERSTATE XAT NLT OF THE ISSs.<br/>CAN THEY XHOOUJT XHOOUMT</p>
+         <p begin="00:48:27.700" end="00:48:30.967" region="speaker">COMMUNICATE WITH EACH OTHER?<br/>IF I&apos;M IN ONE STATE, CAN I</p>
+         <p begin="00:48:30.967" end="00:48:34.700" region="speaker">ACCESS THE INFORMATION SYSTEM IN<br/>ANOTHER STATE, THE REGISTRY?</p>
+         <p begin="00:48:34.700" end="00:48:38.734" region="speaker">&gt;&gt; WE DON&apos;T.<br/>I MEAN, THE DRAFT DOES NOT GO</p>
+         <p begin="00:48:38.734" end="00:48:46.433" region="speaker">INTO THAT KIND OF DETAIL.<br/>THE GENERAL RECS DRAFT WE&apos;VE</p>
+         <p begin="00:48:46.433" end="00:48:59.700" region="speaker">DISCUSSED.<br/>SO THAT -- THAT MAY INJEPDER</p>
+         <p begin="00:48:59.700" end="00:49:03.367" region="speaker">CROSS STATE, BUT WE HAVEN&apos;T GONE<br/>INTO THOSE TYPES OF DETAILS, NO.</p>
+         <p begin="00:49:03.367" end="00:49:09.934" region="speaker">&gt;&gt; CHILDREN, I&apos;M SURE, ON<br/>OCCASION, BUT ADULT ON A LOT</p>
+         <p begin="00:49:09.934" end="00:49:14.700" region="speaker">MOVE BETWEEN STATES.<br/>THIS IS A REAL BARRIER IN USING</p>
+         <p begin="00:49:14.700" end="00:49:22.266" region="speaker">REGISTRIES TO MAINTAIN<br/>IMMUNIZATION RECORDS.</p>
+         <p begin="00:49:22.266" end="00:49:24.734" region="speaker">I THINK IT MIGHT BE NICE TO<br/>ADDRESS THIS.</p>
+         <p begin="00:49:24.734" end="00:49:28.734" region="speaker">&gt;&gt; I&apos;M GARY BURKHART.<br/>WE HAVE A COUPLE OF INITIATIVES</p>
+         <p begin="00:49:28.734" end="00:49:30.800" region="speaker">TO TRAES INTERSTATE DATA<br/>SHARING.</p>
+         <p begin="00:49:30.800" end="00:49:37.867" region="speaker">IT IS A VERY COMPLICATED ISSUE.<br/>ALL SAYS HAVE PRIVACY AND</p>
+         <p begin="00:49:37.867" end="00:49:39.367" region="speaker">CONFIDENTIALITY ISSUES.<br/>DATA SHARING IS NOT TECHNICALLY</p>
+         <p begin="00:49:39.367" end="00:49:43.433" region="speaker">A BIG PROBLEM, BUT THE<br/>ADMINISTRATIVE ASPECTS OF IT</p>
+         <p begin="00:49:43.433" end="00:49:45.700" region="speaker">ARE.<br/>SO WE HAVE SOME INITIATIVES FROM</p>
+         <p begin="00:49:45.700" end="00:49:48.333" region="speaker">THE OFFICE OF NATIONAL<br/>COORDINATOR AND WITH OTHERS TO</p>
+         <p begin="00:49:48.333" end="00:49:52.333" region="speaker">TRY TO GET THIS, MAYBE FIND SOME<br/>SOLUTIONS TO THIS OR BEST</p>
+         <p begin="00:49:52.333" end="00:49:58.934" region="speaker">PRACTICES FOR THAT.<br/>&gt;&gt; DR. SAWYER.</p>
+         <p begin="00:49:58.934" end="00:50:02.000" region="speaker">&gt;&gt; HAVING PARTICIPATED IN THIS<br/>CLINICAL DECISION SUPPORT</p>
+         <p begin="00:50:02.000" end="00:50:06.900" region="speaker">PROCESS AND TRIED TO ENRAFFLE<br/>THE COMPLICATED LOGIC THAT THE</p>
+         <p begin="00:50:06.900" end="00:50:09.633" region="speaker">WELL MEANING ACIP CREATED IN<br/>THEIR RECOMMENDATIONS, I WOULD</p>
+         <p begin="00:50:09.633" end="00:50:15.033" region="speaker">ASK EACH WORK GROUP TO BE VERY<br/>MINDFUL OF THE COMPUTABILITY OF</p>
+         <p begin="00:50:15.033" end="00:50:19.300" region="speaker">THEIR RECOMMENDATIONS AND BETTER<br/>THAN THAT, CONSULT WITH AN IIS</p>
+         <p begin="00:50:19.300" end="00:50:21.367" region="speaker">COLLEAGUE BEFORE YOU MAKE<br/>RECOMMENDATIONS THAT WE LATER</p>
+         <p begin="00:50:21.367" end="00:50:31.900" region="speaker">HAVE TO UNRAVEL AGAIN.<br/>&gt;&gt; AND MISS PELLIGRINI.</p>
+         <p begin="00:50:31.900" end="00:50:35.133" region="speaker">&gt;&gt; I THINK IT&apos;S IMPORTANT TO<br/>NOTE IN THE CONTEXT OF THIS</p>
+         <p begin="00:50:35.133" end="00:50:40.066" region="speaker">ABOUT IISs, THAT WHILE WE&apos;RE<br/>SPEAKING TO THE MEDICAL AND THE</p>
+         <p begin="00:50:40.066" end="00:50:42.967" region="speaker">SCIENTIFIC ISSUES, THERE ARE<br/>THESE PRIVACY ISSUES AND THERE</p>
+         <p begin="00:50:42.967" end="00:50:47.333" region="speaker">ARE PEOPLE WHO ARE NOT<br/>COMFORTABLE WITH THE GOVERNMENT</p>
+         <p begin="00:50:47.333" end="00:50:51.333" region="speaker">ENTITY HOLDING THEIR MEDICAL<br/>INFORMATION OR THIS DEGREE OF</p>
+         <p begin="00:50:51.333" end="00:50:57.000" region="speaker">THEIR MEDICAL INFORMATION.<br/>BUT WHEN IT GOES INTO WHAT SOME</p>
+         <p begin="00:50:57.000" end="00:51:03.100" region="speaker">PEOPLE PERCEIVE AS A LARGE<br/>GOVERNMENT DATABASE, THESE ARE</p>
+         <p begin="00:51:03.100" end="00:51:05.900" region="speaker">THINGS WE NEED TO BE MINDFUL OF<br/>AND TELL PEOPLE HOW THEY&apos;RE</p>
+         <p begin="00:51:05.900" end="00:51:12.133" region="speaker">GOING TO PROTECT THEIR PRIVACY<br/>IN THE PROCESS.</p>
+         <p begin="00:51:12.133" end="00:51:15.133" region="speaker">&gt;&gt; ANY ADDITIONAL COMMENTS?<br/>OKAY.</p>
+         <p begin="00:51:15.133" end="00:51:16.500" region="speaker">THANK YOU VERY MUCH.</p>
+    </div>
+  </body>
+</tt>
