@@ -1,0 +1,22 @@
+!!AA_SEQUENCE 1.0
+TRANSLATE of: emm110.9 check: 3036 from: 1 to: 883
+generated symbols 1 to: 294.
+
+emm110.9 (emm-cluster E2) GAS blood isolate, SH6537A, recovered during
+2011 in Portugal. Information and sequence provided by Ana Friaes.
+Microbiology Institute Lisbon Faculty of Medicine, Portugal.
+
+emm110.9.pep  Length: 294  September 12, 2019 12:03  Type: P  Check: 8968  ..
+
+       1  AVAVAVLGAG FASQTEVKAT GPDSSPQNVS SDRDIYELHE ELWKEYDILK 
+
+      51  EKLDKDQEER EKIELNYLKK LDKNQEEREK LELDYLKKLD HEHKEHQKEQ 
+
+     101  QEQEERQKNQ EQLERQSQRE VEKRYQEQLQ KQQQLEKEKQ ISEASRKSLS 
+
+     151  RDLEASRAAK KDLEAEHQKL KEEKQISDAS RKSLSRDLEA SREAKKKVEA 
+
+     201  DLAALTAEHQ KLKEEKQISD ASRQGLSRDL EASREAKKKV EADLAEANSK 
+
+     251  LQALEKLNKE LEEGKKLSEK EKAELQARLE AEAKALKEQL G*TS
+
