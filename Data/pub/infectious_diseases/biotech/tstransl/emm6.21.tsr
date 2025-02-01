@@ -1,0 +1,12 @@
+!!AA_SEQUENCE 1.0
+TRANSLATE of: emm6.21.tss check: 9373 from: 1 to: 150
+generated symbols 1 to: 50.
+
+subtype emm6.21-specific sequence encoding residues 1-50 of processed M protein.
+subtype emm6.21 first found in year 2002-2003 U.S. pediatric surveillance
+isolate WA03-93. 
+
+emm6.21.tsr  Length: 50  November 23, 2003 12:10  Type: P  Check: 6983  ..
+
+       1  RVFPRGTVEN PDEARELLNK YDVENSILQA NNDKLTTENK NLTDQNKELK 
+
