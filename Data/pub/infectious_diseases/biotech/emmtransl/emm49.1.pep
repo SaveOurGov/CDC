@@ -1,0 +1,13 @@
+!!AA_SEQUENCE 1.0
+TRANSLATE of: emm49-1 check: 365 from: 1 to: 316
+generated symbols 1 to: 105.
+
+
+emm49-1.pep  Length: 105  November 4, 1999 11:43  Type: P  Check: 2354  ..
+
+       1  ASVAVAVAVL GAGFANQTEV KAVEKKVEAA ENNVSSVARR EKELYDQIAD 
+
+      51  LTDKNGEYLE RIGELEERQK NLEKLEHQSQ VAADKHYQEQ AKKHQEYKQE 
+
+     101  QEEER
+
