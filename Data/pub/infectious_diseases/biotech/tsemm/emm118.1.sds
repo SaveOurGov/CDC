@@ -1,0 +1,18 @@
+emm118.1 (emm-cluster E3) subtype determining sequence. Identity to bases 
+31-180 (encodes mature N-terminus) and ungapped identity or near-identity
+to complete 180 base sequence defines this subtype.
+
+emm118.1 from isolate 410(emm118.1, opacity factor positive) from tonsilitis 
+patientrecovered in Ethiopia during 1990. Sequence and information provided
+by Dr. Wezenet Tewodros, Karolinska Institute, Stockholm, Sweden.
+
+emm118.1.sds  Length: 180  February 5, 2007 10:56  Type: N  Check: 9058  ..
+
+       1  GGCTTTGCAA ACCAAACAGA AGTTAAGGCT GCGGAAAAAA AAGTTGAGGT 
+
+      51  TGCGGACAGT AACGTGTCTA GCGTTGCAAA GCTACACAAC CAAATCGCCG 
+
+     101  ATCTTACAGA TAAAAACGGA GAATATCTAG AAAGAATAGA AGAACTGGAA 
+
+     151  GAGCGACAAA AAAATCTAGA AAAGCTAGAA 
+
