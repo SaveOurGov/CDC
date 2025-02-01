@@ -16,6 +16,13 @@ jobs:
         run: |
           if ($env:GITHUB_WORKSPACE) {
               Push-Location $env:GITHUB_WORKSPACE
+          
+              if (-not $UserName) { $UserName = $env:GITHUB_ACTOR }
+              if (-not $actorID)  { $actorID = $env:GITHUB_ACTOR_ID }    
+              
+              if (-not $UserEmail) { $UserEmail = "$UserName@noreply.github.com" }
+              git config --global user.email $UserEmail
+              git config --global user.name  $env:GITHUB_ACTOR_ID
           }
           $psd1Path = Get-ChildItem -Path . -Filter *.psd1 | Select-String "ModuleVersion" | Select-Object -first 1 -ExpandProperty Path
           $importedModule = Import-Module $psd1Path -PassThru -Global 
