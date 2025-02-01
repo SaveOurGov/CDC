@@ -1,0 +1,18 @@
+!!AA_SEQUENCE 1.0
+TRANSLATE of: stg5063.2 check: 843 from: 1 to: 584
+generated symbols 1 to: 194.
+
+stG5063.2 GCS blood isolate, H172100642, isolated from England during
+2017. The sequence and information provided by Roger Daniel, Public
+Health of England.
+
+stG5063.2.pep  Length: 194  May 25, 2017 09:23  Type: P  Check: 6267  ..
+
+       1  VALTVLGAGL AIQTEVKAEN TEQYDQYLKK AEEDRNLKLK NDLQNLKASV 
+
+      51  NNLQQMMSEL DSQKSLSRQL NWDNIGVYAR YLRELNDQFQ TYLEQVTGDD 
+
+     101  SRRLFAKEIE ENRELKKQIS ELTTKASDLA KELDNTKQAE ELAKETLLYE 
+
+     151  INEKKKFVDS IAKVLEDKEV QRHNLQQSLD TAKAELDKKE QELQ
+
