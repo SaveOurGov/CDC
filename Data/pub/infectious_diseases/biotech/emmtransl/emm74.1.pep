@@ -1,0 +1,22 @@
+!!AA_SEQUENCE 1.0
+TRANSLATE of: emm74.1 check: 7298 from: 1 to: 873
+generated symbols 1 to: 291.
+
+emm74.1 (emm cluster M74) GAS blood isolate, SC22-3336-A isolated from 
+Cape Verde, Canada. The sequence and information provided by Angela
+Yuen, National Microbiology Laboratory, Public Health Agency of Canada.
+
+emm74.1.pep  Length: 291  September 28, 2022 07:48  Type: P  Check: 3027  ..
+
+       1  ALSVIGAGLV VNTNEVSAFT VTRSMTRDYL AKVVQDFDTK NHELGTHNSE 
+
+      51  LSATNQTLQG QVEAEQKKLE EQKEQNKALK EEAVKKEQEN EALTTQNGKL 
+
+     101  TDQNKELNTK NEKLSTQKET LERQVQEKEH NNEALKAENK ALKEEAAEKE 
+
+     151  QNLEGLKDAL NRTVSKNIES SDRYKKEIGD LKSVNKGLKE EAAKKEEQNK 
+
+     201  ISDASRKGLR RDLDASREAK KQLEAEHQKL EEQNKISEAS RKGLRRDLDA 
+
+     251  SREAKKQLEA EHQKLEEQNK ISEASRQGLR RDLDASREAK K
+
