@@ -24,7 +24,9 @@ function Backup-CDC
             }
             $filePath = Join-Path $rootDataPath $fileUri.LocalPath
             if (-not (Test-Path $filePath)) {
-                try { 
+                try {
+                    $newFile = New-Item -ItemType File -Path $filePath  -Force 
+                    $newFile | Out-Host
                     Invoke-WebRequest -Uri $fileUri -OutFile $filePath                    
                     Write-Verbose "Downloaded $fileUri [$filesDownloaded / $filesToProcess]" -Verbose
                     git add $filePath
