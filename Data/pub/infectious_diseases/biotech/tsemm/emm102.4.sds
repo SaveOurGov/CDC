@@ -1,0 +1,18 @@
+emm102.4 (emm-cluster E4) subtype determining sequence. Identity to bases 
+31-180 (encodes mature N-terminus) and ungapped identity or near-identity
+to complete 180 base sequence defines this subtype.
+
+emm102.4 from impetigo isolate 026 recovered from individual in
+Ethiopia during 1990. Sequence and information provided by Dr.
+Wezenet Tewodros, Karolinska Institute, Stockholm, Sweden.
+
+emm102.4.sds  Length: 180  May 21, 2007 16:26  Type: N  Check: 9239  ..
+
+       1  GGCTTTGCAA ACCAAACAAC AGTTAAGGCG GACAATCCGA GCTCTGTCCC 
+
+      51  TGTCAAAAAG GAAGCAGAAT TATATAACAA AATTAAAGAA CTTGAAGAGG 
+
+     101  GAAGAGAAGA ATTATTAAAT GAATTAGATA AAGTTAAAGA AGAGCATAAA 
+
+     151  AAAGATAAAG AAGAGCATAA AAAAGATCAT 
+
