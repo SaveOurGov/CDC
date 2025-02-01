@@ -1,0 +1,68 @@
+------------------- NHIS LOG: DATA YEAR 1983 --------------------
+
+Original release:
+
+   The data files for calendar year 1983 were first made 
+   available on magnetic tape.  Documentation was provided on 
+   paper.
+
+   NHIS FILE TYPE       FILE NAME   LENGTH  # RECS
+   -------------------  ---------   ------  -------
+   HOUSEHOLD            HOUSEHLD    335      40,912
+   PERSON               PERSONSX    335     105,620
+   CONDITION            CONDITON    335      75,388
+   DOCTOR VISIT         DRVISITX    335      20,579
+   HOSPITAL             HOSPITAL    335      14,145
+   ALCOHOL/HEALTH       ALCOHOLH    422      22,418
+   DENTAL CARE          DENTALXX    455     105,620
+   DOCTOR SERVICE       DOCTSERV    353      20,579
+   HEALTH INSURANC      HEALTHIN    436      52,743
+
+April, 1999 -- Corrected Condition file
+
+   Corrections to the 1982-1994 Condition files were released
+   on the Internet to fix a problem with injury-related episode
+   fields.  All future distributions of the Condition files
+   contained the corrected values.
+
+July, 2001 -- ASCII CD Release: Series 10 CD, No. 15H:
+
+   All previously-released data files and their associated
+   documentation files were made available on CD.
+
+July, 2006 -- Internet release
+
+   All previously-released data files and their associated
+   documentation files were made available on the Internet.
+
+-----------------------------------------------------------------
+
+To obtain the Internet release of the 1983 NHIS data, visit the 
+NHIS home page:
+
+   http://www.cdc.gov/nchs/nhis.htm
+
+and click on:
+
+   Questionnaires, Data Sets and Related Documentation
+-----------------------------------------------------------------
+
+Users are encouraged to join the HISUSERS Listserv and receive 
+E-mail announcements of updates to the NHIS files.  To join the 
+Listserv, visit the website at:
+	
+   http://www.cdc.gov/nchs/about/major/nhis/nhislist.htm
+-----------------------------------------------------------------
+
+Questions about the NHIS?  Contact:
+
+   Division of Health Interview Statistics
+   National Center for Health Statistics
+   3311 Toledo RD RM 2217
+   Hyattsville MD 20782
+
+   E-mail:    nhislist@cdc.gov
+   Voice:     301-458-4901
+   FAX:       301-458-4035
+   Home Page: http://www.cdc.gov/nchs/nhis.htm
+-----------------------------------------------------------------
