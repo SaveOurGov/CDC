@@ -4,7 +4,7 @@ on:
   push: 
   workflow_dispatch: 
 jobs: 
-  BuildSaveOurGov.CDC: 
+  BuildSaveOurGov_CDC: 
     runs-on: ubuntu-latest
     if: ${{ success() }}
     steps: 
