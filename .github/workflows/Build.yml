@@ -17,7 +17,8 @@ jobs:
           if ($env:GITHUB_WORKSPACE) {
               Push-Location $env:GITHUB_WORKSPACE
           }
-          $importedModule = Import-Module .\ -PassThru -Global 
+          $psd1Path = Get-ChildItem -Path . -Filter *.psd1 | Select-String "ModuleVersion" | Select-Object -first 1 -ExpandProperty Path
+          $importedModule = Import-Module $psd1Path -PassThru -Global 
           $importedModule| Out-Host
           
           $dataPath = $importedModule | Split-Path | Join-Path -ChildPath "Data"
