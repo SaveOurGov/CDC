@@ -1,0 +1,22 @@
+!!AA_SEQUENCE 1.0
+TRANSLATE of: emm91.2 check: 8060 from: 1 to: 772
+generated symbols 1 to: 257.
+
+emm91.2 from abscess swab isolate,107912, recovered in Hong Kong
+during 2007. Sequence and information provided by P. L. Ho, from the
+University of Hong Kong.
+
+emm91.2.pep  Length: 257  October 12, 2011 18:02  Type: P  Check: 5689  ..
+
+       1  VVGAGFANQT EVKAADDHPG AVAARNDVLS EFSVPGNVWY RQHQEIGKLK 
+
+      51  SEKEELETEL QEKEQELKNL KDNVEKLNTE VELERLKNER HDHDEEAELN 
+
+     101  RLREERHDHD KKEAERKALE DKLADKQEHL DGALRYINEK EAERKEKEAE 
+
+     151  QKKLKEEKQI SDASRQGLRR DLDASREAKK QVEKDLANLT AEFDKVKEEK 
+
+     201  QISDASRQGL RRDLDASREA KKQVEKGLAN LTAELDKVKE EKQISDASRQ 
+
+     251  GLRRDLD
+
