@@ -1,0 +1,13 @@
+!!AA_SEQUENCE 1.0
+TRANSLATE of: sthk.tss check: 497 from: 1 to: 150
+generated symbols 1 to: 50.
+
+stHK type/subtype-specific sequence. Strain and sequence information
+kindly provided by Dr. P.L. Ho. 
+Associated with necrotizing fasciitis in patient residing in Hong Kong. 
+Formerly designated st980584. See Ho et al. 2003. JCM.41:937-42.
+
+  stHK.pep  Length: 50  March 20, 2003 09:19  Type: P  Check: 5738  ..
+
+       1  ESPVKAESPS PKDEEDYYKL QEILEQFGRD YEELEKKYDK LDKENKEYAS 
+
