@@ -1,0 +1,13 @@
+!!AA_SEQUENCE 1.0
+TRANSLATE of: emm164.1.sds check: 7790 from: 31 to: 180
+generated symbols 1 to: 50.
+
+emm164.1 (formerly st106M.1) sequence encoding C terminal 10 residues of 
+signal sequence and residues 1-50 of processed M protein.
+emm164.1 from GAS pleural fluid isolate recovered during 2003 in Portugal.
+Sequence and information provided by Dr. Ana Friaes, Lisbon Faculty of Medicine.
+
+emm164.1.tsr  Length: 50  November 20, 2012 15:04  Type: P  Check: 7665  ..
+
+       1  ESVRNGSELS YSREHEDYIR QLEEQRGELL EKVDQLEQQK QQEQQEQQER 
+
