@@ -9,7 +9,7 @@ function Backup-CDC
     )
 
     begin {
-        $rootDataPath = $MyInvocation.MyCommand.Module | Split-Path | Join-Path "Data"
+        $rootDataPath = $MyInvocation.MyCommand.Module | Split-Path | Join-Path -ChildPath "Data"
         $ErrorActionPreference = 'continue'
     }
 
