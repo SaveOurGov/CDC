@@ -1,0 +1,15 @@
+!!AA_SEQUENCE 1.0
+TRANSLATE of: emm25.3.sds check: 4460 from: 31 to: 180
+generated symbols 1 to: 50.
+
+emm25.3 subtype determining sequence. Identity to bases 31-180
+(encodes mature N-terminus) and ungapped identity or near-identity
+to complete 180 base sequence defines this subtype.
+emm25.3 from GAS impetigo lesion isolate AW533 recovered in Ethiopia
+during 1990. Multilocus sequence type ST273. Sequence and information
+provided by Dr. Debra Bessen, New York Medical College. . . . 
+
+emm25.3.tsr  Length: 50  January 31, 2007 14:48  Type: P  Check: 5082  ..
+
+       1  DERPKDITDS LPAPMWRDKA KAAEAKVDKL EKQLEGYKKL EEDYFNLEKR 
+
