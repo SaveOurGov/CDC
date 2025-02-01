@@ -18,7 +18,7 @@ function Backup-CDC
         $shuffledFileList = $FileList | Get-Random -Count $fileList.Count
 
         $FilesDownloaded = 0
-        $FilesToPrcess = $shuffledFileList.Count
+        $FilesToProcess = $shuffledFileList.Count
         foreach ($fileUri in $shuffledFileList) {
             if ($Maximum -and ($FilesDownloaded -gt $Maximum)) {
                 break
