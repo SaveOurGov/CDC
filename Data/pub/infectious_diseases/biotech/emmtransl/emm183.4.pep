@@ -1,0 +1,23 @@
+!!AA_SEQUENCE 1.0
+TRANSLATE of: emm183.4 check: 2635 from: 1 to: 839
+generated symbols 1 to: 279.
+
+emm183.4 GAS blood isolate, 2019-1319 isolated from 29 yr old female
+from Frand during 2019. Clinical manifestation: Salpingitis. Super
+antigen: smeZ. The sequence and information provided by Celine
+Palivert, APHP, France.
+
+emm183.4.pep  Length: 279  September 23, 2019 11:18  Type: P  Check: 5078  ..
+
+       1  AVAVAVLGAG FANQTEVKAE EAKTVKYEVY SQLHDDYDKL QEQNGEYLKK 
+
+      51  IGELEERQKN LEKLERQSQV AADKHYQEQV KKHQEYKQEQ EERQKYQEQL 
+
+     101  ERQSQREIDK RYQEQLQKQQ QLETEKQISE ASRKSLSRDL EASRAAKKEL 
+
+     151  EAEHQKLKEE KQISDASRQG LSRDLEASRE AKKKVEADLA ALNAEHQKLK 
+
+     201  EEKQISDASR QGLSRDLEAS REAKKKVEAD LAEANSKLQA LEKLNKELEE 
+
+     251  GKKLSEKEKA ELQARLEAEA KALKEQLAK
+
